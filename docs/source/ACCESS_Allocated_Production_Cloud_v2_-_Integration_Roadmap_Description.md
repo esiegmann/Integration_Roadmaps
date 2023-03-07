@@ -3,13 +3,13 @@ subtitle: "[]{#_jei9xbp4ukxc .anchor}Integration Roadmap"
 title: "[]{#_gjdgxs .anchor}ACCESS Allocated Production Cloud v2"
 ---
 
-# Infrastructure Type(s) {#infrastructure-types .unnumbered}
+# Infrastructure Type(s)
 
 This roadmap integrates a cloud resource. Researchers interact with
 cloud resources by provisioning virtual machines, containers, and/or
 storage spaces.
 
-# Summary {#summary .unnumbered}
+# Summary
 
 The ACCESS program
 ([[https://access-ci.org]{.underline}](https://access-ci.org)) enables
@@ -24,7 +24,7 @@ tasks cover all aspects of integration in production, including
 coordination activities, technical integration tasks, and ongoing
 support activities.
 
-# Operator Information {#operator-information .unnumbered}
+# Operator Information
 
 Operators planning to integrate a cloud resource into ACCESS with this
 roadmap should contact ACCESS Operations to start the integration
@@ -50,7 +50,7 @@ Please track RP integration progress in [[this
 spreadsheet]{.underline}](https://docs.google.com/spreadsheets/d/1ejgGUU-IVLEhTIXX3pmCNBSJ2e0yXwXxPpgZ2RHwM4Q/).
 **\*NEEDS UPDATING\***
 
-# Support Information {#support-information .unnumbered}
+# Support Information
 
 Resource providers needing assistance with roadmap activities may submit
 a ticket using the [[Support Portal ticket
@@ -76,46 +76,51 @@ slides.
 [[ACCESS RP Roadmaps
 FAQ]{.underline}](https://docs.google.com/document/d/1VwYROB7sh4X_Tqvi_4XIkYD-jffBS4UykS6gEJesuQE/).
 
-# Required Tasks {#required-tasks .unnumbered}
+# Required Tasks
 
 A.  [[ACCESS Allocated Resource Integration Coordination
     > v1]{.underline}](https://docs.google.com/document/d/1BRxGZ1c41Cexeck-th4ph3jJgqfJ7exs7glwTZQeDMg/edit?usp=share_link)
 
-### [[Infrastructure Description v2]{.underline}](https://docs.google.com/document/d/17vqEoF5lM_eZwBCzkjGwcqkMCiKAOpmfCJWJTGsE42k/edit?usp=share_link)
+B.  [[Infrastructure Description
+    > v2]{.underline}](https://docs.google.com/document/d/17vqEoF5lM_eZwBCzkjGwcqkMCiKAOpmfCJWJTGsE42k/edit?usp=share_link)
 
-B.  [[Cybersecurity Requirements for RPs
+C.  [[Cybersecurity Requirements for RPs
     > v1]{.underline}](https://docs.google.com/document/d/1LrfJcgixn-sDuIxZOk47ddoZpCYgwabhWAZYoKOB2TI/edit?usp=share_link)
 
-C.  [[Data & Network Integration Design
+D.  [[Data & Network Integration Design
     > v1]{.underline}](https://docs.google.com/document/d/1IMOFizZUiXF1PcBR9qXKgQdNUQsVnio8AqcZ3mT74zc/edit?usp=share_link)
 
-D.  [[ACCESS Allocation Policies
+E.  [[ACCESS Allocation Policies
     > v1]{.underline}](https://docs.google.com/document/d/1_tdPDLq2FVg6nWUTYAI2Z-LbnlNGdSG3TKAh0d0zZ1I/edit?usp=share_link)
 
-E.  [[MATCH Knowledge Base
+F.  [[MATCH Knowledge Base
     > v1]{.underline}](https://docs.google.com/document/d/1kyhV84JyeL5AdLsqKkdyyeGw6jOuQMZOSCSKNMnfpM8/edit?usp=share_link)
 
-F.  [[RP Forum Participation
+G.  [[RP Forum Participation
     > v1]{.underline}](https://docs.google.com/document/d/1azoPUgl7NhY0WyxQsIWOW77Lp_lOqiEiukWHiizMbvI/edit?usp=share_link)
 
-G.  [[Cybersecurity Governance Council Participation
+H.  [[Cybersecurity Governance Council Participation
     > v1]{.underline}](https://docs.google.com/document/d/1hHdN7bISae4caa6lryA5ps2b16uOY7QyEzYsVFYCs8c/edit?usp=share_link)
 
-H.  [[Resource Metrics Data Availability Assessment
+I.  [[Resource Metrics Data Availability Assessment
     > v1]{.underline}](https://docs.google.com/document/d/12MNK2VggHD3JoySK4SgguHARMWJyc91EV2T1vY6Rf_8/edit?usp=share_link)
 
-### [[Incident Response & Coordination v1]{.underline}](https://docs.google.com/document/d/1QVSZEt2GDdlhA-Sogl0YBrGGSaFvZFQPiBCWAvT3PbU/edit?usp=share_link)
+J.  [[Incident Response & Coordination
+    > v1]{.underline}](https://docs.google.com/document/d/1QVSZEt2GDdlhA-Sogl0YBrGGSaFvZFQPiBCWAvT3PbU/edit?usp=share_link)
 
-### [[Ticket Handling v2]{.underline}](https://docs.google.com/document/d/12Hl7GqqsAmA5cbmwJRHnb6fONVB1Ywhhf5E6yI0V8d0/edit?usp=share_link)
+K.  [[Ticket Handling
+    > v2]{.underline}](https://docs.google.com/document/d/12Hl7GqqsAmA5cbmwJRHnb6fONVB1Ywhhf5E6yI0V8d0/edit?usp=share_link)
 
-### [[Operational Status Communications v1]{.underline}](https://docs.google.com/document/d/13Rc1fHQydSqfqYdIaFKKIbapenktOKSTxmgGqLpZ-uw/edit?usp=share_link)
+L.  [[Operational Status Communications
+    > v1]{.underline}](https://docs.google.com/document/d/13Rc1fHQydSqfqYdIaFKKIbapenktOKSTxmgGqLpZ-uw/edit?usp=share_link)
 
-I.  [[AMIE and Usage Reporting
+M.  [[AMIE and Usage Reporting
     > v1]{.underline}](https://docs.google.com/document/d/1efCqnqVjHfGfzWSKq8kclB7FGfcq__1HhqbvnF0SeSs/edit?usp=share_link)
 
-### [[Performance Data reporting v1]{.underline}](https://docs.google.com/document/d/1Tu3Z-3A-pUDmxs5iU1dtfBaReNSB7UkPLzWTErzST7c/edit?usp=share_link)
+N.  [[Performance Data reporting
+    > v1]{.underline}](https://docs.google.com/document/d/1Tu3Z-3A-pUDmxs5iU1dtfBaReNSB7UkPLzWTErzST7c/edit?usp=share_link)
 
-# Optional Tasks {#optional-tasks .unnumbered}
+# Optional Tasks
 
 A.  [[CONECTnet Integration
     > v1]{.underline}](https://docs.google.com/document/d/1UbplfGyZZgfu3p98GTF-vv6xA40qHjSXjeWKM5fbykc/edit?usp=share_link)
@@ -126,7 +131,7 @@ B.  [[Local Service ACCESS IAM Integration
 C.  [[Request RP/Site Staff Allocation
     > v1]{.underline}](https://docs.google.com/document/d/1GaHU-7cA3bOFwMvwh3s-Ic9535ncfW741HGnxKFCIOc/edit?usp=share_link)
 
-# Document Management {#document-management .unnumbered}
+# Document Management
 
 **Status**: Draft
 

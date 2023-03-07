@@ -15,6 +15,8 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :glob:
 
    Home <self>
    /tasks/*
