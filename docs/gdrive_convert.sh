@@ -15,8 +15,8 @@ convert_file () {
    TO_FILE="${TO_UNDER/.docx/.md}"
    MY_CMD=${PANDOC_CMD[@]}
    echo "${MY_CMD[@]}"
-   echo pandoc --verbose --standalone --data-dir "${PANDOC_DATADIR}" --extract-media "$2" --from docx --to markdown "$1" -o "$2/${TO_FILE}"
-   pandoc --verbose --standalone --data-dir "${PANDOC_DATADIR}" --extract-media "$2" --from docx --to markdown "$1" -o "$2/${TO_FILE}"
+   echo pandoc --verbose --standalone --data-dir "${PANDOC_DATADIR}" --extract-media "." --from docx --to markdown "$1" -o "$2/${TO_FILE}"
+   pandoc --verbose --standalone --data-dir "${PANDOC_DATADIR}" --extract-media "." --from docx --to markdown "$1" -o "$2/${TO_FILE}"
    if [ $? -ne 0 ]; then
       echo "*** Failed: ${CMD}"
       exit $?

@@ -10,7 +10,7 @@ title: "[]{#_gjdgxs .anchor}Deploy Globus Endpoint v1"
 
 # Summary
 
-![](/Users/navarro/GitHub/Integration_Roadmaps/docs/source/tasks/media/image1.png){width="3.511428258967629in"
+![](./media/image1.png){width="3.511428258967629in"
 height="2.6279079177602798in"}
 
 A Globus endpoint connects a system to Globus and enables authorized
