@@ -3,7 +3,10 @@ subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
 title: "[]{#_gjdgxs .anchor}AMIE and Usage Reporting v1"
 ---
 
-### Task Type(s): Technology Start by phase: Planning Complete by phase: Operations RP role(s): AMIE technical contact(s)
+**Task Type(s)**: Technology\
+**Start by phase**: Planning\
+**Complete by phase**: Operations\
+**RP role(s)**: AMIE technical contact(s)
 
 # Summary
 
@@ -48,15 +51,12 @@ reports, or to adjust the client implementation as needed in the future.
 
 # Document Management
 
-  -----------------------------------------------------------------------
-  Status           Official
-  ---------------- ------------------------------------------------------
-  Official date    1/23/23
+**Status**: Officia
 
-  Retired date     
+**Official date**: 1/23/2023
 
-  Coordinators     Nathan Tolbert, Rob Light, Allocations
+**Coordinators**: Nathan Tolber &, Rob Light, ACCESS Allocations
 
-  Last revised     1/23/23
-  date             
-  -----------------------------------------------------------------------
+**Last revised date**: 1/23/2023
+
+**Retired date**:

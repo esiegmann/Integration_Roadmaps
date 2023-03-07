@@ -3,7 +3,11 @@ subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
 title: "[]{#_gjdgxs .anchor}Infrastructure Description v2"
 ---
 
-### Task Type(s): Coordination Start by phase: Integration Complete by phase: Ongoing RP role(s): Resource Integration Coordinator, Documentation and knowledge base contact(s),  {#task-types-coordination-start-by-phase-integration-complete-by-phase-ongoing-rp-roles-resource-integration-coordinator-documentation-and-knowledge-base-contacts .unnumbered}
+**Task Type(s)**: Coordination\
+**Start by phase**: Integration\
+**Complete by phase**: Ongoing\
+**RP role(s)**: Resource Integration Coordinator, Documentation and
+knowledge base contact(s),
 
 # Summary {#summary .unnumbered}
 
@@ -135,16 +139,13 @@ accuracy at least once a year.
 
 # Document Management {#document-management .unnumbered}
 
-  -----------------------------------------------------------------------
-  Status           Official
-  ---------------- ------------------------------------------------------
-  Official date    2/15/2023
+**Status**: Official
 
-  Retired date     
+**Official date**: 2/15/2023
 
-  Coordinators     JP Navarro, ACCESS Operations\
-                   Nathan Tolbert, ACCESS Allocations
+**Coordinators**: JP Navarro, ACCESS Operations; Nathan Tolbert, ACCESS
+Allocations
 
-  Last revised     2/3/2023
-  date             
-  -----------------------------------------------------------------------
+**Last revised date**: 2/3/2023
+
+**Retired date**:

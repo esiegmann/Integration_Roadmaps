@@ -3,49 +3,73 @@ subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
 title: "[]{#_gjdgxs .anchor}Request RP/Site Staff Allocation v1"
 ---
 
-### Task Type(s): {Coordination, Technology, Support} Start by phase: Integration Complete by phase: Operations RP role(s): PI and co-PI(s), Resource integration coordinator(s)
+**Task Type(s)**: Coordination\
+**Start by phase**: Any\
+**Complete by phase**: Operations\
+**RP role(s)**: PI and co-PI(s), Resource integration coordinator(s)
 
 # Summary
 
-\<Summarizes the purpose or goal for the task, who performs the task,
-and approximate effort. If this task replaces or upgrades one or more
-other tasks, provide references to those tasks and summarize significant
-new or changed elements.\>
+RPs can request a site/staff allocation via ACCESS, to use for
+supporting and testing the ACCESS allocation workflow
 
 # Prerequisite tasks
 
 # None
-
-OR
-
-A.  \<task name and link\>
-
-B.  ...
 
 # Support Information
 
 For assistance with this task see the *Support Information* section in
 the *Integration Roadmap Description*.
 
-\<REPLACE the above boilerplate sentence if you want a different
-operator support process for this task\>
-
 # Detailed Instructions
 
-\<Detailed task instructions that may include separate sections for both
-one-time / setup tasks and ongoing or recurring activities.\>
+To request a site/staff allocation for your site, follow the standard
+allocations request process (see below), noting in the "public overview"
+section of your submission that this is for a site/staff allocation.\
+\
+• You will want to start on the ACCESS Allocation website.
+
+• Before submitting a request, you will want to start with the overview
+of the different ACCESS opportunities.
+
+• Look across the menu bar in the middle of the page. Click on "Prepare
+requests"
+
+• Within "Prepare requests," click on "Overview."
+
+• Here you can look at all the different ACCESS opportunities and see
+which opportunity you would like to submit into.
+
+• PLEASE READ THIS PAGE VERY CAREFULLY.
+
+• The information on this page will let you know about the credit limits
+and any additional information about things needed in the submission.
+
+• Now that you have decided which opportunity to submit into, you can
+now work on your submission.
+
+• Look across the menu bar in the middle of the page. Click on "Manage
+allocations"
+
+• Within "Manage allocations," click on "Submit a Request."
+
+• You are now at the Available Opportunities Page.
+
+• Look for the Opportunity (Explore, Discover, Accelerate, Maximize) you
+would like to submit into.
+
+• Once you see that Opportunity, click on the button that says "SUBMIT
+AN (Opportunity) ACCESS REQUEST"q
 
 # Document Management
 
-  -----------------------------------------------------------------------
-  Status           {Draft, Official, Retired}
-  ---------------- ------------------------------------------------------
-  Official date    \<mm/dd/yyyy\>
+**Status**: Draft
 
-  Retired date     \<mm/dd/yyyy\> or blank
+**Official date**: \<mm/dd/yyyy\>
 
-  Coordinators     \<name\>, \<ACCESS project\>
+**Coordinators**: \<name\>, \<ACCESS project\>
 
-  Last revised     \<mm/dd/yyyy\>
-  date             
-  -----------------------------------------------------------------------
+**Last revised date**: \<mm/dd/yyyy\>
+
+**Retired date**: \<mm/dd/yyyy\> or blank

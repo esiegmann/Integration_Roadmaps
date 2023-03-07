@@ -3,7 +3,10 @@ subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
 title: "[]{#_gjdgxs .anchor}Incident Response & Coordination v1"
 ---
 
-### Task Type(s): Support Start by phase: Integration Complete by phase: Ongoing RP role(s): Cybersecurity and incident response contact(s)
+**Task Type(s)**: Support\
+**Start by phase**: Integration\
+**Complete by phase**: Ongoing\
+**RP role(s)**: Cybersecurity and incident response contact(s)
 
 # Summary
 
@@ -56,17 +59,13 @@ channels outlined in the effort section above.
 
 # Document Management
 
-+----------------+-----------------------------------------------------+
-| Status         | Draft                                               |
-+================+=====================================================+
-| Official date  | \<mm/dd/yyyy\>                                      |
-+----------------+-----------------------------------------------------+
-| Retired date   |                                                     |
-+----------------+-----------------------------------------------------+
-| Coordinators   | Alex Withers, CONECT Cybersecurity Program          |
-|                |                                                     |
-|                | Shane Filus, CONECT Cybersecurity Program           |
-+----------------+-----------------------------------------------------+
-| Last revised   | 02/16/2023                                          |
-| date           |                                                     |
-+----------------+-----------------------------------------------------+
+**Status**: Draft
+
+**Official date**: \<mm/dd/yyyy\>
+
+**Coordinators**: Alex Withers, CONECT Cybersecurity Program; Shane
+Filus, CONECT Cybersecurity Program
+
+**Last revised date**: 02/16/2023
+
+**Retired date**: \<mm/dd/yyyy\> or blank

@@ -4,7 +4,11 @@ title: "[]{#_gjdgxs .anchor}Resource Metrics Data Availability
   Assessment v1"
 ---
 
-### Task Type(s): Integration Start by phase: Planning Complete by phase: Integration RP role(s): Metrics and performance data contact(s), System administrator(s)
+**Task Type(s)**: Integration\
+**Start by phase**: Planning\
+**Complete by phase**: Integration\
+**RP role(s)**: Metrics and performance data contact(s), System
+administrator(s)
 
 # Summary
 
@@ -69,15 +73,12 @@ can also provide assistance with install and configuration.
 
 # Document Management
 
-  -----------------------------------------------------------------------
-  Status           {Draft, Official, Retired}
-  ---------------- ------------------------------------------------------
-  Official date    \<mm/dd/yyyy\>
+**Status**: {Draft, Official, Retired}
 
-  Retired date     \<mm/dd/yyyy\> or blank
+**Official date**: \<mm/dd/yyyy\>
 
-  Coordinators     Joseph White, ACCESS Metrics
+**Coordinators**: Joseph White, ACCESS Metrics
 
-  Last revised     2023-02-01
-  date             
-  -----------------------------------------------------------------------
+**Last revised date**: 2023-02-01
+
+**Retired date**: \<mm/dd/yyyy\> or blank

@@ -4,7 +4,10 @@ title: "[]{#_gjdgxs .anchor}ACCESS Allocated Resource Integration
   Coordination v1"
 ---
 
-### Task Type(s): Coordination Start by phase: Planning Complete by phase: ongoing RP role(s): PI and co-PI(s), Resource integration coordinator(s) {#task-types-coordination-start-by-phase-planning-complete-by-phase-ongoing-rp-roles-pi-and-co-pis-resource-integration-coordinators .unnumbered}
+**Task Type(s)**: Coordination\
+**Start by phase**: Planning\
+**Complete by phase**: ongoing\
+**RP role(s)**: PI and co-PI(s), Resource integration coordinator(s)
 
 # Summary {#summary .unnumbered}
 
@@ -110,15 +113,12 @@ perform that task.
 
 # Document Management {#document-management .unnumbered}
 
-  -----------------------------------------------------------------------
-  Status           Draft
-  ---------------- ------------------------------------------------------
-  Official date    2/1/2023
+**Status**: Draft
 
-  Retired date     
+**Official date**: 2/1/2023
 
-  Coordinators     JP Navarro, ACCESS Operations
+**Coordinators**: JP Navarro, ACCESS Operations
 
-  Last revised     1/17/2023
-  date             
-  -----------------------------------------------------------------------
+**Last revised date**: 1/17/2023
+
+**Retired date**:

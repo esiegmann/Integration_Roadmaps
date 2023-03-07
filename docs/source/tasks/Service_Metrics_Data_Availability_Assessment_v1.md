@@ -4,7 +4,11 @@ title: "[]{#_gjdgxs .anchor}Service Metrics Data Availability Assessment
   v1"
 ---
 
-### Task Type(s): {Coordination, Technology, Support} Start by phase: {Planning, Integration, Operations} Complete by phase: {Planning, Integration, Operations, Ongoing} RP role(s): Metrics and performance data contact(s), System administrator(s)
+**Task Type(s)**: {Coordination, Technology, Support}\
+**Start by phase**: {Planning, Integration, Operations}\
+**Complete by phase**: {Planning, Integration, Operations, Ongoing}\
+**RP role(s)**: Metrics and performance data contact(s), System
+administrator(s)
 
 # Summary
 
@@ -38,15 +42,12 @@ one-time / setup tasks and ongoing or recurring activities.\>
 
 # Document Management
 
-  -----------------------------------------------------------------------
-  Status           {Draft, Official, Retired}
-  ---------------- ------------------------------------------------------
-  Official date    \<mm/dd/yyyy\>
+**Status**: {Draft, Official, Retired}
 
-  Retired date     \<mm/dd/yyyy\> or blank
+**Official date**: \<mm/dd/yyyy\>
 
-  Coordinators     \<name\>, \<ACCESS project\>
+**Coordinators**: \<name\>, \<ACCESS project\>
 
-  Last revised     \<mm/dd/yyyy\>
-  date             
-  -----------------------------------------------------------------------
+**Last revised date**: \<mm/dd/yyyy\>
+
+**Retired date**: \<mm/dd/yyyy\> or blank

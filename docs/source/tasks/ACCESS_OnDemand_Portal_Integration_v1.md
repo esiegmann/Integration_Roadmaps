@@ -3,7 +3,10 @@ subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
 title: "[]{#_gjdgxs .anchor}ACCESS OnDemand Portal Integration V1"
 ---
 
-### Task Type(s): Technology Start by phase: Integration Complete by phase: Ongoing RP role(s): System administrator(s)
+**Task Type(s)**: Technology\
+**Start by phase**: Integration\
+**Complete by phas**e: Ongoing\
+**RP role(s)**: System administrator(s)
 
 # Summary
 
@@ -64,15 +67,12 @@ the *Integration Roadmap Description*.
 
 # Document Management
 
-  -----------------------------------------------------------------------
-  Status           Draft
-  ---------------- ------------------------------------------------------
-  Official date    \<mm/dd/yyyy\>
+**Status**: Draft
 
-  Retired date     \<mm/dd/yyyy\> or blank
+**Official date**: \<mm/dd/yyyy\>
 
-  Coordinators     Gerald Byrket, ACCESS Support
+**Coordinators**: Gerald Byrket, ACCESS Support
 
-  Last revised     02/20/2023
-  date             
-  -----------------------------------------------------------------------
+**Last revised date**: 02/20/2023
+
+**Retired date**:

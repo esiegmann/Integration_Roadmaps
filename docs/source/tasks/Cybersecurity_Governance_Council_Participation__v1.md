@@ -4,7 +4,10 @@ title: "[]{#_gjdgxs .anchor}Cybersecurity Governance Council
   Participation v1"
 ---
 
-### Task Type(s): Coordination Start by phase: Planning Complete by phase: Ongoing RP role(s): Cybersecurity and incident response contact(s)
+**Task Type(s)**: Coordination\
+**Start by phase**: Planning\
+**Complete by phase**: Ongoing\
+**RP role(s)**: Cybersecurity and incident response contact(s)
 
 # Summary
 
@@ -68,17 +71,13 @@ Additional links
 
 # Document Management
 
-+----------------+-----------------------------------------------------+
-| Status         | Draft                                               |
-+================+=====================================================+
-| Official date  | \<mm/dd/yyyy\>                                      |
-+----------------+-----------------------------------------------------+
-| Retired date   |                                                     |
-+----------------+-----------------------------------------------------+
-| Coordinators   | Alex Withers, CONECT Cybersecurity Program          |
-|                |                                                     |
-|                | Shane Filus, CONECT Cybersecurity Program           |
-+----------------+-----------------------------------------------------+
-| Last revised   | 02/16/2023                                          |
-| date           |                                                     |
-+----------------+-----------------------------------------------------+
+**Status**: Draft
+
+**Official date**: \<mm/dd/yyyy\>
+
+**Coordinators**: Alex Withers & Shane Filus, CONECT Cybersecurity
+Program
+
+**Last revised date**: 02/16/2023
+
+**Retired date**:

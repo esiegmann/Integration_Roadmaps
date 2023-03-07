@@ -3,7 +3,10 @@ subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
 title: "[]{#_gjdgxs .anchor}Cybersecurity Requirements for RPs v1"
 ---
 
-### Task Type(s): Technology Start by phase: Integration Complete by phase: Operations RP role(s): Cybersecurity and incident response contact(s)
+**Task Type(s)**: Technology\
+**Start by phase**: Integration\
+**Complete by phase**: Operations\
+**RP role(s)**: Cybersecurity and incident response contact(s)
 
 # Summary
 
@@ -90,17 +93,13 @@ listed below.
 
 # Document Management
 
-+----------------+-----------------------------------------------------+
-| Status         | Draft                                               |
-+================+=====================================================+
-| Official date  | \<mm/dd/yyyy\>                                      |
-+----------------+-----------------------------------------------------+
-| Retired date   |                                                     |
-+----------------+-----------------------------------------------------+
-| Coordinators   | Alex Withers, CONECT Cybersecurity Program          |
-|                |                                                     |
-|                | Shane Filus, CONECT Cybersecurity Program           |
-+----------------+-----------------------------------------------------+
-| Last revised   | 02/16/2023                                          |
-| date           |                                                     |
-+----------------+-----------------------------------------------------+
+**Status**: Draft
+
+**Official date**: \<mm/dd/yyyy\>
+
+**Coordinators**: Alex Withers & Shane Filus, CONECT Cybersecurity
+Program
+
+**Last revised date**: 2/16/2023
+
+**Retired date**:

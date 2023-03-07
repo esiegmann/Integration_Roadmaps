@@ -4,7 +4,10 @@ title: "[]{#_gjdgxs .anchor}Cybersecurity Requirements for ACCESS
   Services v1"
 ---
 
-### Task Type(s): {Coordination, Technology, Support} Start by phase: {Planning, Integration, Operations} Complete by phase: {Planning, Integration, Operations, Ongoing} RP role(s): Cybersecurity and incident response contact(s)
+**Task Type(s)**: {Coordination, Technology, Support}\
+**Start by phase**: {Planning, Integration, Operations}\
+**Complete by phase**: {Planning, Integration, Operations, Ongoing}\
+**RP role(s)**: Cybersecurity and incident response contact(s)
 
 # Summary
 
@@ -38,15 +41,13 @@ one-time / setup tasks and ongoing or recurring activities.\>
 
 # Document Management
 
-  -----------------------------------------------------------------------
-  Status           {Draft, Official, Retired}
-  ---------------- ------------------------------------------------------
-  Official date    \<mm/dd/yyyy\>
+**Status**: Draft
 
-  Retired date     \<mm/dd/yyyy\> or blank
+**Official date**: \<mm/dd/yyyy\>
 
-  Coordinators     \<name\>, \<ACCESS project\>
+**Coordinators**: Alex Withers & Shane Filus, CONECT Cybersecurity
+Program
 
-  Last revised     \<mm/dd/yyyy\>
-  date             
-  -----------------------------------------------------------------------
+**Last revised date**: 2/16/2023
+
+**Retired date**:

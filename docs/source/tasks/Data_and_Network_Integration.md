@@ -3,7 +3,10 @@ subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
 title: "[]{#_gjdgxs .anchor}Data & Network Integration"
 ---
 
-### Task Type(s): Coordination, Technology, Support Start by phase: Integration Complete by phase: Operations, Ongoing RP role(s): Data storage, networking, and sysadmin contact(s)
+**Task Type(s**): Coordination, Technology, Support\
+**Start by phase**: Integration\
+**Complete by phase**: Operations, Ongoing\
+**RP role(s)**: Data storage, networking, and sysadmin contact(s)
 
 # Summary
 
@@ -116,15 +119,12 @@ integration process.
 
 # Document Management
 
-  -----------------------------------------------------------------------
-  Status           Draft
-  ---------------- ------------------------------------------------------
-  Official date    \<mm/dd/yyyy\>
+**Status**: Draft
 
-  Retired date     
+**Official date**: \<mm/dd/yyyy\>
 
-  Coordinators     Kathy Benninger
+**Coordinators**: Kathy Benninger, ACCESS Operations
 
-  Last revised     2/15/2023
-  date             
-  -----------------------------------------------------------------------
+**Last revised date**: 2/15/2023
+
+**Retired date**:

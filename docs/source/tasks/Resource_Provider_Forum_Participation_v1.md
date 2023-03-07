@@ -3,7 +3,10 @@ subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
 title: "[]{#_gjdgxs .anchor}Resource Provider Forum Participation v1"
 ---
 
-### Task Type(s): Coordination Start by phase: Integration Complete by phase: Ongoing RP role(s): PI and co-PI(s), Resource integration coordinator(s)
+**Task Type(s)**: Coordination\
+**Start by phase**: Integration\
+**Complete by phase**: Ongoing\
+**RP role(s)**: PI and co-PI(s), Resource integration coordinator(s)
 
 # Summary
 
@@ -43,15 +46,12 @@ RP Forum email list.
 
 # Document Management
 
-  -----------------------------------------------------------------------
-  Status           Draft
-  ---------------- ------------------------------------------------------
-  Official date    2023/02/01
+**Status**: Draft
 
-  Retired date     
+**Official date**: 2023/02/01
 
-  Coordinators     Ruth Marinshaw, RP Forum Coordinator
+**Coordinators**: Ruth Marinshaw, RP Forum Coordinator
 
-  Last revised     2023/01/26
-  date             
-  -----------------------------------------------------------------------
+**Last revised date**: 2023/01/26
+
+**Retired date**:

@@ -3,7 +3,10 @@ subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
 title: "[]{#_gjdgxs .anchor}ACCESS Allocation Policies v1"
 ---
 
-### Task Type(s): Coordination, Support Start by phase: Planning Complete by phase: Ongoing RP role(s): Allocations process contact(s)
+**Task Type(s)**: Coordination, Support\
+**Start by phase**: Planning\
+**Complete by phas**e: Ongoing\
+**RP role(s)**: Allocations process contact(s)
 
 # Summary
 
@@ -42,15 +45,12 @@ Description]{.underline}](https://docs.google.com/document/d/1RJCEFLL1vjSOo-plBR
 
 # Document Management
 
-  -----------------------------------------------------------------------
-  Status           Official
-  ---------------- ------------------------------------------------------
-  Official date    1/23/23
+**Status**: Official
 
-  Retired date     
+**Official date**: 1/23/2023
 
-  Coordinators     Ken Hackworth, Allocations
+**Coordinators**: Ken Hackworth, ACCESS Allocations
 
-  Last revised     1/23/23
-  date             
-  -----------------------------------------------------------------------
+**Last revised date**: 1/23/2023
+
+**Retired date**:

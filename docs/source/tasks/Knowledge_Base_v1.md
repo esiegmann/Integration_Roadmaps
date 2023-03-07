@@ -3,7 +3,10 @@ subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
 title: "[]{#_gjdgxs .anchor}Knowledge Base v2"
 ---
 
-### Task Type(s): Support Start by phase: Integration Complete by phase: Operations RP role(s): Documentation and knowledge base contact(s)
+**Task Type(s)**: Support\
+**Start by phase**: Integration\
+**Complete by phase**: Operations\
+**RP role(s)**: Documentation and knowledge base contact(s)
 
 # Summary
 
@@ -81,15 +84,12 @@ be signed-in to ACCESS to submit.
 
 # Document Management
 
-  -----------------------------------------------------------------------
-  Status           Draft
-  ---------------- ------------------------------------------------------
-  Official date    01/27/2023
+**Status**: Draft
 
-  Retired date     
+**Official date**: 01/27/2023
 
-  Coordinators     Alana Romanella, ACCESS Support
+**Coordinators**: Alana Romanella, ACCESS Support
 
-  Last revised     01/27/2023
-  date             
-  -----------------------------------------------------------------------
+**Last revised date**: 01/27/2023
+
+**Retired date**:

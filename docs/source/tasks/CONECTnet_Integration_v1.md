@@ -3,7 +3,10 @@ subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
 title: "[]{#_gjdgxs .anchor}CONECTnet Integration v1"
 ---
 
-### Task Type(s): {Coordination, Technology, Support} Start by phase: {Planning, Integration, Operations} Complete by phase: {Planning, Integration, Operations, Ongoing} RP role(s): Data and networking contact(s)
+**Task Type(s)**: {Coordination, Technology, Support}\
+**Start by phase**: {Planning, Integration, Operations}\
+**Complete by phase**: {Planning, Integration, Operations, Ongoing}\
+**RP role(s)**: Data and networking contact(s)
 
 # Summary
 
@@ -37,15 +40,12 @@ one-time / setup tasks and ongoing or recurring activities.\>
 
 # Document Management
 
-  -----------------------------------------------------------------------
-  Status           {Draft, Official, Retired}
-  ---------------- ------------------------------------------------------
-  Official date    \<mm/dd/yyyy\>
+**Status**: {Draft, Official, Retired}
 
-  Retired date     \<mm/dd/yyyy\> or blank
+**Official date**: \<mm/dd/yyyy\>
 
-  Coordinators     \<name\>, \<ACCESS project\>
+**Coordinators**: \<name\>, \<ACCESS project\>
 
-  Last revised     \<mm/dd/yyyy\>
-  date             
-  -----------------------------------------------------------------------
+**Last revised date**: \<mm/dd/yyyy\>
+
+**Retired date**:

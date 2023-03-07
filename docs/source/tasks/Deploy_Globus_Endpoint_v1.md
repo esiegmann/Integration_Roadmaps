@@ -3,7 +3,10 @@ subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
 title: "[]{#_gjdgxs .anchor}Deploy Globus Endpoint v1"
 ---
 
-### Task Type(s): Technology Start by phase: Integration Complete by phase: Operations RP role(s): Data and networking contact(s), System administrator(s)
+**Task Type(s)**: Technology\
+**Start by phase**: Integration\
+**Complete by phase**: Operations\
+**RP role(s)**: Data and networking contact(s), System administrator(s)
 
 # Summary
 
@@ -248,15 +251,12 @@ non-POSIX storage is configured in Globus Connect Server.
 
 # Document Management
 
-  -----------------------------------------------------------------------
-  Status           Official
-  ---------------- ------------------------------------------------------
-  Official date    2/15/2023
+**Status**: Official
 
-  Retired date     
+**Official date**: 2/15/2023
 
-  Coordinators     Lee Liming, ACCESS Operations
+**Coordinators**: Lee Liming, ACCESS Operations
 
-  Last revised     2/3/2023
-  date             
-  -----------------------------------------------------------------------
+**Last revised date**: 2/3/2023
+
+**Retired date**:

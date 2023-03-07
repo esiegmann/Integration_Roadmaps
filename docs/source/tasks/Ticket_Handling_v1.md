@@ -3,7 +3,10 @@ subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
 title: "[]{#_gjdgxs .anchor}Ticket Handling v1"
 ---
 
-### Task Type(s): Support Start by phase: Integration Complete by phase: Ongoing RP role(s): Researcher support contact(s), most other RP contacts
+**Task Type(s)**: Support\
+**Start by phase**: Integration\
+**Complete by phase**: Ongoing\
+**RP role(s)**: Researcher support contact(s), most other RP contacts
 
 # Summary
 
@@ -95,9 +98,9 @@ Ticket handling typically involves these activities.
 
 ## Reassign Externally, Accept, or Reassign Internally
 
-The default assignee or anyone update access to tickets in the queue
-should first determine if the ticket was properly assigned and if not,
-reassign to a different queue.
+The default assignee or anyone with update access to tickets in the
+queue should first determine if the ticket was properly assigned and if
+not, reassign to a different queue.
 
 If the ticket was assigned to the correct queue, they may reassign it to
 anyone else in their organization with ticket system access, or retain
@@ -105,16 +108,13 @@ ownership of the ticket.
 
 # Document Management
 
-  -----------------------------------------------------------------------
-  Status           Draft
-  ---------------- ------------------------------------------------------
-  Official date    2/15/2023
+**Status**: Draft
 
-  Retired date     
+**Official date**: 2/15/2023
 
-  Coordinators     JP Navarro, ACCESS Operations\
-                   Alana Romanella, ACCESS Support
+**Coordinators**: JP Navarro, ACCESS Operations; Alana Romanella, ACCESS
+Support
 
-  Last revised     2/3/2023
-  date             
-  -----------------------------------------------------------------------
+**Last revised date**: 2/3/2023
+
+**Retired date**:

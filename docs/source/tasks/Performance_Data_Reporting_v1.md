@@ -3,7 +3,11 @@ subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
 title: "[]{#_gjdgxs .anchor}Performance Data Reporting v1"
 ---
 
-### Task Type(s): Technology Start by phase: Integration Complete by phase: Operations RP role(s): Metrics and performance data contact(s), System administrator(s)
+**Task Type(s)**: Technology\
+**Start by phase**: Integration\
+**Complete by phase**: Operations\
+**RP role(s)**: Metrics and performance data contact(s), System
+administrator(s)
 
 # Summary
 
@@ -68,15 +72,12 @@ data files. ACCESS Metrics will manage the periodic transfers.
 
 # Document Management
 
-  -----------------------------------------------------------------------
-  Status           {Draft, Official, Retired}
-  ---------------- ------------------------------------------------------
-  Official date    \<mm/dd/yyyy\>
+**Status**: {Draft, Official, Retired}
 
-  Retired date     \<mm/dd/yyyy\> or blank
+**Official date**: \<mm/dd/yyyy\>
 
-  Coordinators     Joseph White, ACCESS Metrics
+**Coordinators**: **\<name\>, \<ACCESS project\>**
 
-  Last revised     2023-02-01
-  date             
-  -----------------------------------------------------------------------
+**Last revised date**: 2023-02-01
+
+**Retired date**:

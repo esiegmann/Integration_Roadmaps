@@ -1,6 +1,6 @@
 ---
 subtitle: "[]{#_jei9xbp4ukxc .anchor}Integration Roadmap"
-title: ACCESS Allocated Production Cloud v2
+title: "[]{#_gjdgxs .anchor}ACCESS Allocated Production Cloud v2"
 ---
 
 # Infrastructure Type(s) {#infrastructure-types .unnumbered}
@@ -79,68 +79,61 @@ FAQ]{.underline}](https://docs.google.com/document/d/1VwYROB7sh4X_Tqvi_4XIkYD-jf
 # Required Tasks {#required-tasks .unnumbered}
 
 A.  [[ACCESS Allocated Resource Integration Coordination
-    v1]{.underline}](https://docs.google.com/document/d/1BRxGZ1c41Cexeck-th4ph3jJgqfJ7exs7glwTZQeDMg/edit?usp=share_link)
+    > v1]{.underline}](https://docs.google.com/document/d/1BRxGZ1c41Cexeck-th4ph3jJgqfJ7exs7glwTZQeDMg/edit?usp=share_link)
 
-### [Infrastructure Description v2]{.underline}
+### [[Infrastructure Description v2]{.underline}](https://docs.google.com/document/d/17vqEoF5lM_eZwBCzkjGwcqkMCiKAOpmfCJWJTGsE42k/edit?usp=share_link)
 
 B.  [[Cybersecurity Requirements for RPs
-    v1]{.underline}](https://docs.google.com/document/d/1LrfJcgixn-sDuIxZOk47ddoZpCYgwabhWAZYoKOB2TI/edit?usp=share_link)
+    > v1]{.underline}](https://docs.google.com/document/d/1LrfJcgixn-sDuIxZOk47ddoZpCYgwabhWAZYoKOB2TI/edit?usp=share_link)
 
 C.  [[Data & Network Integration Design
-    v1]{.underline}](https://docs.google.com/document/d/1IMOFizZUiXF1PcBR9qXKgQdNUQsVnio8AqcZ3mT74zc/edit?usp=share_link)
+    > v1]{.underline}](https://docs.google.com/document/d/1IMOFizZUiXF1PcBR9qXKgQdNUQsVnio8AqcZ3mT74zc/edit?usp=share_link)
 
 D.  [[ACCESS Allocation Policies
-    v1]{.underline}](https://docs.google.com/document/d/1_tdPDLq2FVg6nWUTYAI2Z-LbnlNGdSG3TKAh0d0zZ1I/edit?usp=share_link)
+    > v1]{.underline}](https://docs.google.com/document/d/1_tdPDLq2FVg6nWUTYAI2Z-LbnlNGdSG3TKAh0d0zZ1I/edit?usp=share_link)
 
 E.  [[MATCH Knowledge Base
-    v1]{.underline}](https://docs.google.com/document/d/1kyhV84JyeL5AdLsqKkdyyeGw6jOuQMZOSCSKNMnfpM8/edit?usp=share_link)
+    > v1]{.underline}](https://docs.google.com/document/d/1kyhV84JyeL5AdLsqKkdyyeGw6jOuQMZOSCSKNMnfpM8/edit?usp=share_link)
 
 F.  [[RP Forum Participation
-    v1]{.underline}](https://docs.google.com/document/d/1azoPUgl7NhY0WyxQsIWOW77Lp_lOqiEiukWHiizMbvI/edit?usp=share_link)
+    > v1]{.underline}](https://docs.google.com/document/d/1azoPUgl7NhY0WyxQsIWOW77Lp_lOqiEiukWHiizMbvI/edit?usp=share_link)
 
 G.  [[Cybersecurity Governance Council Participation
-    v1]{.underline}](https://docs.google.com/document/d/1hHdN7bISae4caa6lryA5ps2b16uOY7QyEzYsVFYCs8c/edit?usp=share_link)
+    > v1]{.underline}](https://docs.google.com/document/d/1hHdN7bISae4caa6lryA5ps2b16uOY7QyEzYsVFYCs8c/edit?usp=share_link)
 
 H.  [[Resource Metrics Data Availability Assessment
-    v1]{.underline}](https://docs.google.com/document/d/12MNK2VggHD3JoySK4SgguHARMWJyc91EV2T1vY6Rf_8/edit?usp=share_link)
+    > v1]{.underline}](https://docs.google.com/document/d/12MNK2VggHD3JoySK4SgguHARMWJyc91EV2T1vY6Rf_8/edit?usp=share_link)
 
-### [Incident Response & Coordination v1]{.underline}
+### [[Incident Response & Coordination v1]{.underline}](https://docs.google.com/document/d/1QVSZEt2GDdlhA-Sogl0YBrGGSaFvZFQPiBCWAvT3PbU/edit?usp=share_link)
 
-### [Ticket Handling v2]{.underline}
+### [[Ticket Handling v2]{.underline}](https://docs.google.com/document/d/12Hl7GqqsAmA5cbmwJRHnb6fONVB1Ywhhf5E6yI0V8d0/edit?usp=share_link)
 
-### [Operational Status Communications v1]{.underline}
+### [[Operational Status Communications v1]{.underline}](https://docs.google.com/document/d/13Rc1fHQydSqfqYdIaFKKIbapenktOKSTxmgGqLpZ-uw/edit?usp=share_link)
 
 I.  [[AMIE and Usage Reporting
-    v1]{.underline}](https://docs.google.com/document/d/1efCqnqVjHfGfzWSKq8kclB7FGfcq__1HhqbvnF0SeSs/edit?usp=share_link)
+    > v1]{.underline}](https://docs.google.com/document/d/1efCqnqVjHfGfzWSKq8kclB7FGfcq__1HhqbvnF0SeSs/edit?usp=share_link)
 
-### [Performance Data reporting v1]{.underline}
+### [[Performance Data reporting v1]{.underline}](https://docs.google.com/document/d/1Tu3Z-3A-pUDmxs5iU1dtfBaReNSB7UkPLzWTErzST7c/edit?usp=share_link)
 
 # Optional Tasks {#optional-tasks .unnumbered}
 
 A.  [[CONECTnet Integration
-    v1]{.underline}](https://docs.google.com/document/d/1UbplfGyZZgfu3p98GTF-vv6xA40qHjSXjeWKM5fbykc/edit?usp=share_link)
+    > v1]{.underline}](https://docs.google.com/document/d/1UbplfGyZZgfu3p98GTF-vv6xA40qHjSXjeWKM5fbykc/edit?usp=share_link)
 
 B.  [[Local Service ACCESS IAM Integration
-    v1]{.underline}](https://docs.google.com/document/d/18GuqHLCj4oxtxt5bsqP_ICw5vMvXM0LQWqc_nLNO8MM/edit?usp=share_link)
+    > v1]{.underline}](https://docs.google.com/document/d/18GuqHLCj4oxtxt5bsqP_ICw5vMvXM0LQWqc_nLNO8MM/edit?usp=share_link)
 
 C.  [[Request RP/Site Staff Allocation
-    v1]{.underline}](https://docs.google.com/document/d/1GaHU-7cA3bOFwMvwh3s-Ic9535ncfW741HGnxKFCIOc/edit?usp=share_link)
+    > v1]{.underline}](https://docs.google.com/document/d/1GaHU-7cA3bOFwMvwh3s-Ic9535ncfW741HGnxKFCIOc/edit?usp=share_link)
 
 # Document Management {#document-management .unnumbered}
 
-+--------------+-------------------------------------------------------+
-| Status:      | Draft                                                 |
-+--------------+-------------------------------------------------------+
-| Official     | 2/1/2023                                              |
-| date:        |                                                       |
-+--------------+-------------------------------------------------------+
-| Retired      |                                                       |
-| date:        |                                                       |
-+--------------+-------------------------------------------------------+
-| C            | JP Navarro, ACCESS Operations                         |
-| oordinators: |                                                       |
-|              | Lee or Jess?                                          |
-+--------------+-------------------------------------------------------+
-| Last revised | 1/17/2023                                             |
-| date:        |                                                       |
-+--------------+-------------------------------------------------------+
+**Status**: Draft
+
+**Official date**: 2/1/2023
+
+**Coordinators**: Chris Martin, ACCESS Operations
+
+**Last revised date**: 1/17/2023
+
+**Retired date**:
