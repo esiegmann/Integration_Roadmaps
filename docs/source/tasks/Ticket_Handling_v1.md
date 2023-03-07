@@ -47,7 +47,7 @@ your organization/RP and inform you when they are configured. Please
 review the "For RP queues" and "For ACCESS awardee queues" sub-sections
 below for additional details on what to include in your ticket.
 
-#### For RP queues
+### For RP queues
 
 If you are a resource provider (RP) integrating a resource, provide a
 short organization name or abbreviation that can be used to define your
@@ -62,7 +62,7 @@ Identify for this queue the name and ACCESS usernames of:
 3.  Person who will be assigned tickets by default (this person will be
     > able to reassign tickets to anyone else with queue access)
 
-#### For ACCESS awardee queues
+### For ACCESS awardee queues
 
 If you are an ACCESS awardee integrating a service, provide a short name
 or abbreviation for new track specific queues you want setup. The queue

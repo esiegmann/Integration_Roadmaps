@@ -80,7 +80,8 @@ Submit a ticket with the Subject "New CiDeR Organization: at
 Submitted organization information will be entered by a CiDeR in a form
 as shown below and used to grant access to CiDeR administrators.
 
-![](media/image1.png){width="6.5in" height="13.458333333333334in"}
+![](/Users/navarro/GitHub/Integration_Roadmaps/docs/source/tasks/media/image1.png){width="6.5in"
+height="13.458333333333334in"}
 
 ## Provide CiDeR access to other organization staff
 
@@ -130,7 +131,8 @@ conversion factor that you already have listed.\
 **In a later stage of ACCESS, additional tools will be created to manage
 your variable marketplace exchange rate.]{.mark}
 
-![](media/image2.png){width="6.5in" height="2.5972222222222223in"}
+![](/Users/navarro/GitHub/Integration_Roadmaps/docs/source/tasks/media/image2.png){width="6.5in"
+height="2.5972222222222223in"}
 
 ## Maintain infrastructure descriptions
 

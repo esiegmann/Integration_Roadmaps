@@ -33,7 +33,8 @@ the *Integration Roadmap Description*.
 
 ## Planning
 
-# To help in planning for adequate data movement and networking capability, consider the following:
+To help in planning for adequate data movement and networking
+capability, consider the following:
 
 ### Storage and file transfer applications:
 
