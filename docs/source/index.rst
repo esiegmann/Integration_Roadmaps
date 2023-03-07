@@ -18,4 +18,4 @@ Contents
    :glob:
 
    Home <self>
-   Tasks <tasks/*>
+   tasks/*
