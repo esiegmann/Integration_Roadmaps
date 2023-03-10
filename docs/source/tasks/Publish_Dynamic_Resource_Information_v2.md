@@ -1,11 +1,6 @@
----
-subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
-title: "[]{#_gjdgxs .anchor}Publish Dynamic Resource Information v2"
----
-
-**Task Type(s)**: Technology\
-**Start by phase**: Integration\
-**Complete by phase**: Ongoing\
+**Task Type(s)**: Technology  
+**Start by phase**: Integration  
+**Complete by phase**: Ongoing  
 **RP role(s)**: System administrator(s)
 
 # Summary
@@ -20,8 +15,8 @@ gateways, and other service developers.
 
 # Prerequisite tasks
 
-A.  [[Infrastructure Description
-    > v2]{.underline}](https://docs.google.com/document/d/17vqEoF5lM_eZwBCzkjGwcqkMCiKAOpmfCJWJTGsE42k/edit?usp=share_link)
+1.  [*Infrastructure Description
+    > v2*](https://docs.google.com/document/d/17vqEoF5lM_eZwBCzkjGwcqkMCiKAOpmfCJWJTGsE42k/edit?usp=share_link)
 
 # Support Information
 
@@ -32,7 +27,7 @@ the *Integration Roadmap Description*.
 
 Install, configure, and run IPF per these instructions:
 
--   [[https://software.xsede.org/development/ipf-xsede/latest/]{.underline}](https://software.xsede.org/development/ipf-xsede/latest/)
+- [*https://software.xsede.org/development/ipf-xsede/latest/*](https://software.xsede.org/development/ipf-xsede/latest/)
 
 # Document Management
 

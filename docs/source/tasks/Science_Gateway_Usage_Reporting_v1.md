@@ -1,8 +1,3 @@
----
-subtitle: "[]{#_30j0zll .anchor}Version 1 - 2022/09/26"
-title: "[]{#_gjdgxs .anchor}Science Gateway Usage Reporting"
----
-
 # Summary
 
 Science gateways that execute jobs on ACCESS resource provider resources
@@ -12,19 +7,19 @@ are available through XDMoD.
 # Prerequisites
 
 1.  The gateway must have an allocation and a community account. See
-    > "Science Gateway Community Accounts".
+    > “Science Gateway Community Accounts”.
 
 # Effort
 
 The science gateway provider should follow the instructions at
-[[https://allocations-api.access-ci.org/acdb/]{.underline}](https://allocations-api.access-ci.org/acdb/).
+[*https://allocations-api.access-ci.org/acdb/*](https://allocations-api.access-ci.org/acdb/).
 
 After integration, the gateway provider should verify that usage is
 being correctly reported in the ACCESS XDMoD system,
-[[https://xdmod.access-ci.org/]{.underline}](https://xdmod.access-ci.org/).
-The gateway provider can also use REST API calls to verify information
+[*https://xdmod.access-ci.org/*](https://xdmod.access-ci.org/). The
+gateway provider can also use REST API calls to verify information
 reporting; see
-[[https://allocations-api.access-ci.org/acdb/]{.underline}](https://allocations-api.access-ci.org/acdb/).
+[*https://allocations-api.access-ci.org/acdb/*](https://allocations-api.access-ci.org/acdb/).
 
 # Description
 

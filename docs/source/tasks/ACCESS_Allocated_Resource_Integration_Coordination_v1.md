@@ -1,15 +1,9 @@
----
-subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
-title: "[]{#_gjdgxs .anchor}ACCESS Allocated Resource Integration
-  Coordination v1"
----
-
-**Task Type(s)**: Coordination\
-**Start by phase**: Planning\
-**Complete by phase**: ongoing\
+**Task Type(s)**: Coordination  
+**Start by phase**: Planning  
+**Complete by phase**: ongoing  
 **RP role(s)**: PI and co-PI(s), Resource integration coordinator(s)
 
-# Summary {#summary .unnumbered}
+# Summary
 
 A resource provider wishing to integrate an ACCESS allocated compute,
 storage, or cloud resource contacts ACCESS to start the integration
@@ -17,16 +11,16 @@ process, provides basic resource information, and identifies resource
 provider staff contacts that will be involved in coordination, technical
 integration, and ongoing support activities.
 
-# Support Information {#support-information .unnumbered}
+# Support Information
 
 For assistance with this task see the *Support Information* section in
 the *Integration Roadmap Description*.
 
-# Prerequisite tasks {#prerequisite-tasks .unnumbered}
+# Prerequisite tasks
 
 None
 
-# Operator Instructions {#operator-instructions .unnumbered}
+# Operator Instructions
 
 ## Integration Launch
 
@@ -37,9 +31,9 @@ PI, co-PI, and coordinator roles, provides their institution name, the
 name and type of the resource they plan to integrate, and which ACCESS
 integration roadmap they plan to follow (if known). The RP may
 communicate this information by submitting an ACCESS ticket using the
-[[Support Portal ticket
-form]{.underline}](https://support.access-ci.org/open-a-ticket), or by
-contacting the ACCESS Resource Provider Coordinator directly.
+[*Support Portal ticket
+form*](https://support.access-ci.org/open-a-ticket), or by contacting
+the ACCESS Resource Provider Coordinator directly.
 
 In response, ACCESS will identify an Integration Concierge, and if
 needed schedule a call between the Resource Integration Coordinator,
@@ -50,7 +44,7 @@ integration process and timeline, and to introduce integration roadmap
 documentation. A call may not be necessary if the RP is already familiar
 with the ACCESS integration process.
 
-The Integration Concierge acts as the resource or service operator's
+The Integration Concierge acts as the resource or service operator’s
 primary point of contact for all questions and issues in selecting and
 completing the integration roadmap.
 
@@ -88,30 +82,30 @@ must provide each of the following RP contacts:
 
 11) Metrics and performance data contact(s)
 
-If the RP doesn't know who some of these contacts will be, or wishes not
+If the RP doesn’t know who some of these contacts will be, or wishes not
 to identify them until relevant integration effort ramps up, please name
 the Integration Coordinator as the placeholder for those roles. In other
 words, ACCESS needs each someone to be the contact in each of the above
-areas, even if it's the coordinator who will eventually hand off effort
+areas, even if it’s the coordinator who will eventually hand off effort
 to someone else. As integration activities ramps up the Integration
 Coordinator can add other RP staff replacing themselves as necessary.
 
 The Integration Coordinator should enter and update their RP contacts in
 the resource specific tab here:
 
--   [[ACCESS Allocated Resource
-    > Contacts]{.underline}](https://docs.google.com/spreadsheets/d/1dEGSt9ZEB1ik7jRbU8GdcWxRF7TUsL_8Y_9LrxmU6CQ/edit?usp=share_link)
+- [*ACCESS Allocated Resource
+  > Contacts*](https://docs.google.com/spreadsheets/d/1dEGSt9ZEB1ik7jRbU8GdcWxRF7TUsL_8Y_9LrxmU6CQ/edit?usp=share_link)
 
 The Integration Coordinator is responsible for maintaining accurate
 contact information in this spreadsheet and updating when RP staff
 changes. We recommend that the Integration Coordinator review and
-correct their contacts every 6 months. This sub-task should take \~1
-hour to complete initially, and \~½ hour annually to keep up-to-date.
+correct their contacts every 6 months. This sub-task should take ~1 hour
+to complete initially, and ~½ hour annually to keep up-to-date.
 
 ACCESS Integration Roadmaps task lists which RP staff contacts normally
 perform that task.
 
-# Document Management {#document-management .unnumbered}
+# Document Management
 
 **Status**: Draft
 

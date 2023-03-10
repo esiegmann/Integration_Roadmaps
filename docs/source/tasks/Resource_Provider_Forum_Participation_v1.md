@@ -1,11 +1,6 @@
----
-subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
-title: "[]{#_gjdgxs .anchor}Resource Provider Forum Participation v1"
----
-
-**Task Type(s)**: Coordination\
-**Start by phase**: Integration\
-**Complete by phase**: Ongoing\
+**Task Type(s)**: Coordination  
+**Start by phase**: Integration  
+**Complete by phase**: Ongoing  
 **RP role(s)**: PI and co-PI(s), Resource integration coordinator(s)
 
 # Summary

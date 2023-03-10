@@ -1,11 +1,6 @@
----
-subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
-title: "[]{#_gjdgxs .anchor}\\<Title\\> v\\<n\\>"
----
-
-**Task Type(s)**: {Coordination, Technology, Support}\
-**Start by phase**: {Planning, Integration, Operations}\
-**Complete by phase**: {Planning, Integration, Operations, Ongoing}\
+**Task Type(s)**: {Coordination, Technology, Support}  
+**Start by phase**: {Planning, Integration, Operations}  
+**Complete by phase**: {Planning, Integration, Operations, Ongoing}  
 **RP role(s)**: {list RP role(s) involved in this task}
 
 # Summary
@@ -21,9 +16,9 @@ new or changed elements.\>
 
 OR
 
-A.  \<task name and link\>
+1.  \<task name and link\>
 
-B.  ...
+2.  …
 
 # Support Information
 

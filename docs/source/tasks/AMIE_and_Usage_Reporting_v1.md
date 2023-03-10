@@ -1,11 +1,6 @@
----
-subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
-title: "[]{#_gjdgxs .anchor}AMIE and Usage Reporting v1"
----
-
-**Task Type(s)**: Technology\
-**Start by phase**: Planning\
-**Complete by phase**: Operations\
+**Task Type(s)**: Technology  
+**Start by phase**: Planning  
+**Complete by phase**: Operations  
 **RP role(s)**: AMIE technical contact(s)
 
 # Summary
@@ -28,11 +23,11 @@ the *Integration Roadmap Description*.
 The Resource Provider must first identify a technical contact, who will
 have an initial kick-off meeting with the Allocations team to discuss
 the overview of AMIE implementation. The RP technical team will then
-follow the [[AMIE
-Documentation]{.underline}](https://drive.google.com/file/d/1ZBiOAZIwdppER4LOK_9FTdVtgNqQgGEx/view?usp=sharing)
+follow the [*AMIE
+Documentation*](https://drive.google.com/file/d/1ZBiOAZIwdppER4LOK_9FTdVtgNqQgGEx/view?usp=sharing)
 to create a test client. This client must be capable of responding to
 ACCESS allocation AMIE packets, and respond appropriately, creating or
-modifying the allocations information in the local site's
+modifying the allocations information in the local site’s
 infrastructure. The Allocations team will be available to consult with
 the development team to assist with technical questions. After the test
 client has been created and thoroughly tested, the RP will notify the

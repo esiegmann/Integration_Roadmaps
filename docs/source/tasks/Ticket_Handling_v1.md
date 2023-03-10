@@ -1,11 +1,6 @@
----
-subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
-title: "[]{#_gjdgxs .anchor}Ticket Handling v1"
----
-
-**Task Type(s)**: Support\
-**Start by phase**: Integration\
-**Complete by phase**: Ongoing\
+**Task Type(s)**: Support  
+**Start by phase**: Integration  
+**Complete by phase**: Ongoing  
 **RP role(s)**: Researcher support contact(s), most other RP contacts
 
 # Summary
@@ -19,8 +14,8 @@ request once it is resolved.
 
 # Prerequisite tasks
 
-A.  [[Infrastructure Description
-    > v2]{.underline}](https://docs.google.com/document/d/17vqEoF5lM_eZwBCzkjGwcqkMCiKAOpmfCJWJTGsE42k/edit?usp=share_link)
+1.  [*Infrastructure Description
+    > v2*](https://docs.google.com/document/d/17vqEoF5lM_eZwBCzkjGwcqkMCiKAOpmfCJWJTGsE42k/edit?usp=share_link)
 
 # Support Information
 
@@ -36,22 +31,22 @@ past and already has ticket routing queues, you can use those for new
 resources and you will not need to request new ones.
 
 To request new organization/RP specific routing queues submitting an
-ACCESS ticket using the [[Support Portal ticket
-form]{.underline}](https://support.access-ci.org/open-a-ticket). Please
-use the "Not related to a resource" selector (since your resource may
-not be listed in the selector yet), select "No" for allocations related,
-the "Operations Services" category and enter into the Synopsis "ACCESS
-Ticket Routing Setup". In response to your request an ACCESS ticket
+ACCESS ticket using the [*Support Portal ticket
+form*](https://support.access-ci.org/open-a-ticket). Please use the “Not
+related to a resource” selector (since your resource may not be listed
+in the selector yet), select “No” for allocations related, the
+“Operations Services” category and enter into the Synopsis “ACCESS
+Ticket Routing Setup”. In response to your request an ACCESS ticket
 system administrator will configure the ticket system with queues for
 your organization/RP and inform you when they are configured. Please
-review the "For RP queues" and "For ACCESS awardee queues" sub-sections
+review the “For RP queues” and “For ACCESS awardee queues” sub-sections
 below for additional details on what to include in your ticket.
 
 ### For RP queues
 
 If you are a resource provider (RP) integrating a resource, provide a
 short organization name or abbreviation that can be used to define your
-RP queue. Theis queues will be named "0-\<short_name\>".
+RP queue. Theis queues will be named “0-\<short_name\>”.
 
 Identify for this queue the name and ACCESS usernames of:
 
@@ -68,7 +63,7 @@ If you are an ACCESS awardee integrating a service, provide a short name
 or abbreviation for new track specific queues you want setup. The queue
 names should follow these guidelines:
 
--   [[https://docs.google.com/document/d/1sIB9PhXnQ0BXFsgNNrx9JMUpkWje5zvrUQfcnmr-C6s]{.underline}](https://docs.google.com/document/d/1sIB9PhXnQ0BXFsgNNrx9JMUpkWje5zvrUQfcnmr-C6s)
+- [*https://docs.google.com/document/d/1sIB9PhXnQ0BXFsgNNrx9JMUpkWje5zvrUQfcnmr-C6s*](https://docs.google.com/document/d/1sIB9PhXnQ0BXFsgNNrx9JMUpkWje5zvrUQfcnmr-C6s)
 
 Identify for each new queue the name and ACCESS usernames of:
 
@@ -81,8 +76,8 @@ Identify for each new queue the name and ACCESS usernames of:
 
 Also provide any keywords related to your services that would help
 individuals recognize that a ticket should be routed to this queue. For
-example, an ACCESS-ACO-Support queue might have keywords "confluence" or
-"access wiki" associated with it to indicate that access wiki or
+example, an ACCESS-ACO-Support queue might have keywords “confluence” or
+“access wiki” associated with it to indicate that access wiki or
 confluence issues should be assigned to this queue.
 
 ## Ticket Handling
@@ -90,7 +85,7 @@ confluence issues should be assigned to this queue.
 Resource and online service operating organization staff will receive
 email from the ticket system, or access the ticket system online at:
 
--   [[https://tickets.access-ci.org]{.underline}](https://tickets.access-ci.org)
+- [*https://tickets.access-ci.org*](https://tickets.access-ci.org)
 
 Tickets will usually be assigned to a default assignee in each queue.
 

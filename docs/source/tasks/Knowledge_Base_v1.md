@@ -1,11 +1,6 @@
----
-subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
-title: "[]{#_gjdgxs .anchor}Knowledge Base v2"
----
-
-**Task Type(s)**: Support\
-**Start by phase**: Integration\
-**Complete by phase**: Operations\
+**Task Type(s)**: Support  
+**Start by phase**: Integration  
+**Complete by phase**: Operations  
 **RP role(s)**: Documentation and knowledge base contact(s)
 
 # Summary
@@ -16,9 +11,9 @@ resources to the ACCESS team and the general user community. Components
 of the information provided will be represented on the ACCESS MATCH
 Portal (AMP).
 
-The following information should be available through [CiDeR]{.mark} to
-ensure that your resource is properly represented on the ACCESS Portal
-(RAMPS & AMP).
+The following information should be available through CiDeR to ensure
+that your resource is properly represented on the ACCESS Portal (RAMPS &
+AMP).
 
 > 1.1 Summary Knowledge Base Entry for Resource - Confirm summary
 > paragraph describing the Resource Provider offering(s) is available in
@@ -35,8 +30,8 @@ ensure that your resource is properly represented on the ACCESS Portal
 
 # Prerequisite tasks
 
--   [[Resource Description
-    > V2]{.underline}](https://docs.google.com/document/d/1khvZ7QiwKoVDJy0lEq429M7a9sQXBXzTfWoYsUafqVc/)
+- [*Resource Description
+  > V2*](https://docs.google.com/document/d/1khvZ7QiwKoVDJy0lEq429M7a9sQXBXzTfWoYsUafqVc/)
 
 # Support Information
 
@@ -46,7 +41,7 @@ the *Integration Roadmap Description*.
 # Detailed Instructions:
 
 **Creation of an Affinity Group
-([[https://support.access-ci.org/affinity_groups]{.underline}](https://support.access-ci.org/affinity_groups)):**
+([*https://support.access-ci.org/affinity_groups*](https://support.access-ci.org/affinity_groups)):**
 
 You will need to log-in first to make changes to your group. Your
 Affinity group will be automatically created and populated but we
@@ -61,23 +56,23 @@ inclusion effort, or any other connection point. Each Affinity group
 will have access to Slack channels, forums, news, and outage alerts,
 events and training materials.
 
-**News Items([[News \| ACCESS
-Support]{.underline}](https://support.access-ci.org/news)):**
+**News Items([*News | ACCESS
+Support*](https://support.access-ci.org/news)):**
 
 Please submit news items via the ASP Portal. You will see a box on the
-right side that says "*Posting News, Do you have news you would like to
-share with the ACCESS community?*" which will take you to a page that
+right side that says “*Posting News, Do you have news you would like to
+share with the ACCESS community?*” which will take you to a page that
 asks for specific details of your news item and the ability to post a
 news event directly to your/an Affinity group. You will need to be
 signed-in to ACCESS to submit.
 
 **Events
-([[https://support.access-ci.org/events]{.underline}](https://support.access-ci.org/events)):**
+([*https://support.access-ci.org/events*](https://support.access-ci.org/events)):**
 
 Please submit events via the ASP Portal. This link will take you to a
 listing of all events in a calendar format. You will see a box on the
-right side that says *"Posting Events, Do you have events or trainings
-you would like to share with the ACCESS community?"* which will take you
+right side that says *“Posting Events, Do you have events or trainings
+you would like to share with the ACCESS community?”* which will take you
 to a page that asks for specific details of your event you would like to
 post. This can also be shared with your Affinity group. You will need to
 be signed-in to ACCESS to submit.

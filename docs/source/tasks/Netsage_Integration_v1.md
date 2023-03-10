@@ -1,11 +1,6 @@
----
-subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
-title: "[]{#_gjdgxs .anchor}NetSage Integration v1"
----
-
-**Task Type(s)**: Technology\
-**Start by phase**: Planning\
-**Complete by phase**: Operations\
+**Task Type(s)**: Technology  
+**Start by phase**: Planning  
+**Complete by phase**: Operations  
 **RP role(s)**: {list RP role(s) involved in this task}
 
 # Summary
@@ -33,7 +28,7 @@ operator support process for this task\>
 
 Information to deploy a docker container to collect flow data is
 available online at :
-[[https://netsage-project.github.io/netsage-pipeline/docs/deploy/docker_install_simple/]{.underline}](https://netsage-project.github.io/netsage-pipeline/docs/deploy/docker_install_simple/)
+[*https://netsage-project.github.io/netsage-pipeline/docs/deploy/docker_install_simple/*](https://netsage-project.github.io/netsage-pipeline/docs/deploy/docker_install_simple/)
 
 # Document Management
 

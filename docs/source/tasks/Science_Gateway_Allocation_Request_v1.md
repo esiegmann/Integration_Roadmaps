@@ -1,8 +1,3 @@
----
-subtitle: "[]{#_30j0zll .anchor}Version 1 - 2022/09/26"
-title: "[]{#_gjdgxs .anchor}Science Gateway Allocation Application"
----
-
 # Summary
 
 A science gateway provider needs to have an active allocation for their
@@ -15,7 +10,7 @@ None
 # Effort
 
 Effort level varies by the request track. See
-[[https://allocations.access-ci.org/]{.underline}](https://allocations.access-ci.org/)
+[*https://allocations.access-ci.org/*](https://allocations.access-ci.org/)
 for more information. Science gateway providers can request allocations
 of any size.
 
@@ -32,14 +27,14 @@ to host services.
 
 The science gateway provider requests an ACCESS allocation through the
 standard process described at
-[[https://allocations.access-ci.org/]{.underline}](https://allocations.access-ci.org/).
+[*https://allocations.access-ci.org/*](https://allocations.access-ci.org/).
 
 Under certain circumstances, a science gateway provider can request
 multiple allocations:
 
--   A gateway provider can have a separate research allocation.
+- A gateway provider can have a separate research allocation.
 
--   A gateway provider who operates multiple science gateway can have
-    > one allocation per gateway.
+- A gateway provider who operates multiple science gateway can have one
+  > allocation per gateway.
 
 ## 

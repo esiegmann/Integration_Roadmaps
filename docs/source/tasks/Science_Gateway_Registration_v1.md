@@ -1,8 +1,3 @@
----
-subtitle: "[]{#_30j0zll .anchor}Version 1 - 2022/09/26"
-title: "[]{#_gjdgxs .anchor}Science Gateway Registration"
----
-
 # Summary
 
 The science gateway provider registers their gateway with ACCESS to
@@ -12,8 +7,8 @@ accounts on allocated resources.
 
 # Prerequisites
 
-1.  The science gateway provider must have completed "Science Gateway
-    > Resource Requests"
+1.  The science gateway provider must have completed “Science Gateway
+    > Resource Requests”
 
 # Effort
 
@@ -33,8 +28,8 @@ registration information.
 Science gateway providers register their gateway with ACCESS, providing
 the following information:
 
-1.  The gateway's status, which can be "in production" and ready to
-    > accept users, or "in development".
+1.  The gateway’s status, which can be “in production” and ready to
+    > accept users, or “in development”.
 
 2.  The URL for the science gateway (displayed by ACCESS if the gateway
     > is also in production).
@@ -57,52 +52,52 @@ the following information:
 
 # Allocations Required Data Fields
 
-Assuming we're going to target a "Discover ACCESS" project as the
+Assuming we’re going to target a “Discover ACCESS” project as the
 default.
 
 Required Fields
 
--   Project Title
+- Project Title
 
--   Abstract (overview)
+- Abstract (overview)
 
--   Keywords (note: this could just be entered as "gateway", so not
-    > really needed on the registration form)
+- Keywords (note: this could just be entered as “gateway”, so not really
+  > needed on the registration form)
 
--   Primary Field of Science
+- Primary Field of Science
 
--   Personnel (at least a PI). A technical or alternate contact would be
-    > useful.
+- Personnel (at least a PI). A technical or alternate contact would be
+  > useful.
 
-    -   These individuals would need to have ACCESS IDs.
+  - These individuals would need to have ACCESS IDs.
 
--   Supporting Grant (if one exists)
+- Supporting Grant (if one exists)
 
-    -   Funding agency
+  - Funding agency
 
-    -   Grant title
+  - Grant title
 
-    -   PI Name
+  - PI Name
 
-    -   Start/end dates
+  - Start/end dates
 
-    -   Grant number
+  - Grant number
 
-    -   Field of Science (probably same as Primary FOS above)
+  - Field of Science (probably same as Primary FOS above)
 
-    -   Awarded Amount
+  - Awarded Amount
 
-    -   Program Officer name & email
+  - Program Officer name & email
 
--   Officially, Discover ACCESS requires a 1-page "proposal", but we
-    > could probably just allow them to attach a PDF of their gateway
-    > registration.
+- Officially, Discover ACCESS requires a 1-page “proposal”, but we could
+  > probably just allow them to attach a PDF of their gateway
+  > registration.
 
--   Resources needed
+- Resources needed
 
-    -   They'll get ACCESS Credits first, but ---if they know---it would
-        > be useful to capture what resources they intend to use, and we
-        > can make the first credit Exchange for them. We may need to
-        > define a default "gateway package" or amount to start with. If
-        > they don't know the resources they intend to use, that step
-        > can be deferred until they do know.
+  - They’ll get ACCESS Credits first, but —if they know—it would be
+    > useful to capture what resources they intend to use, and we can
+    > make the first credit Exchange for them. We may need to define a
+    > default “gateway package” or amount to start with. If they don’t
+    > know the resources they intend to use, that step can be deferred
+    > until they do know.

@@ -1,12 +1,6 @@
----
-subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
-title: "[]{#_gjdgxs .anchor}Cybersecurity Governance Council
-  Participation v1"
----
-
-**Task Type(s)**: Coordination\
-**Start by phase**: Planning\
-**Complete by phase**: Ongoing\
+**Task Type(s)**: Coordination  
+**Start by phase**: Planning  
+**Complete by phase**: Ongoing  
 **RP role(s)**: Cybersecurity and incident response contact(s)
 
 # Summary
@@ -32,8 +26,8 @@ Bi-weekly meetings transitioning to monthly meetings lasting
 
 # Prerequisite tasks
 
-Familiarity with [[Cybersecurity Requirements for RPs
-v1]{.underline}](https://docs.google.com/document/d/1LrfJcgixn-sDuIxZOk47ddoZpCYgwabhWAZYoKOB2TI/edit#)
+Familiarity with [*Cybersecurity Requirements for RPs
+v1*](https://docs.google.com/document/d/1LrfJcgixn-sDuIxZOk47ddoZpCYgwabhWAZYoKOB2TI/edit#)
 
 # Support Information
 
@@ -43,31 +37,31 @@ the *Integration Roadmap Description*.
 # Detailed Instructions
 
 Request membership to the CGC by emailing Alex Withers,
-[[alexw1@illinois.edu]{.underline}](mailto:alexw1@illinois.edu)
+[*alexw1@illinois.edu*](mailto:alexw1@illinois.edu)
 
 Participation from all members is vital to realize the security goals of
 ACCESS for its users and participants. As such, all CGC members agree
 to:
 
--   Regularly participate in the regular CGC meetings,
+- Regularly participate in the regular CGC meetings,
 
--   Promptly respond to communications about ACCESS security incidents,
+- Promptly respond to communications about ACCESS security incidents,
 
--   Facilitate the sharing of cybersecurity information relevant to
-    > ACCESS and,
+- Facilitate the sharing of cybersecurity information relevant to ACCESS
+  > and,
 
--   Provide input to proposed drafts of ACCESS cybersecurity policies.
+- Provide input to proposed drafts of ACCESS cybersecurity policies.
 
--   There are regular meetings, held at least bi-weekly, and run by the
-    > ASM.
+- There are regular meetings, held at least bi-weekly, and run by the
+  > ASM.
 
 Additional links
 
--   [[ACCESS Cybersecurity Governance Council
-    > Charter]{.underline}](https://docs.google.com/document/d/1tUyt8GhGgYaRpqX1c-ZY-wzbhVnTCjpL7WZRKfi3Hak/edit#heading=h.bs9xo49mks06)
+- [*ACCESS Cybersecurity Governance Council
+  > Charter*](https://docs.google.com/document/d/1tUyt8GhGgYaRpqX1c-ZY-wzbhVnTCjpL7WZRKfi3Hak/edit#heading=h.bs9xo49mks06)
 
--   [[ACCESS Cybersecurity Governance Council Meeting
-    > Minutes]{.underline}](https://docs.google.com/document/d/1SvpJVFRPjpzS0FoXMtSMpoFa0eRHzfjSq5YqQtLUrqc/edit)
+- [*ACCESS Cybersecurity Governance Council Meeting
+  > Minutes*](https://docs.google.com/document/d/1SvpJVFRPjpzS0FoXMtSMpoFa0eRHzfjSq5YqQtLUrqc/edit)
 
 # Document Management
 

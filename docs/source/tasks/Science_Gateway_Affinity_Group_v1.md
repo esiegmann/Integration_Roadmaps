@@ -1,8 +1,3 @@
----
-subtitle: "[]{#_30j0zll .anchor}Version 1 - 2022/09/26"
-title: "[]{#_gjdgxs .anchor}ACCESS Affinity Groups"
----
-
 # Summary
 
 ACCESS uses affinity groups to enable communications among members of
@@ -12,13 +7,13 @@ the science gateway uses.
 
 # Prerequisites
 
-1.  The gateway should have completed registration. See "Science Gateway
-    > Registration".
+1.  The gateway should have completed registration. See “Science Gateway
+    > Registration”.
 
 # Effort
 
 See
-[[https://support.access-ci.org/affinity-groups]{.underline}](https://support.access-ci.org/affinity-groups)
+[*https://support.access-ci.org/affinity-groups*](https://support.access-ci.org/affinity-groups)
 for a listing of groups and steps for joining.
 
 Science gateways may want to also create their own affinity group.

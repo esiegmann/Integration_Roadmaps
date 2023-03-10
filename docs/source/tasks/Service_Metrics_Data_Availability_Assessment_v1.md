@@ -1,12 +1,6 @@
----
-subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
-title: "[]{#_gjdgxs .anchor}Service Metrics Data Availability Assessment
-  v1"
----
-
-**Task Type(s)**: {Coordination, Technology, Support}\
-**Start by phase**: {Planning, Integration, Operations}\
-**Complete by phase**: {Planning, Integration, Operations, Ongoing}\
+**Task Type(s)**: {Coordination, Technology, Support}  
+**Start by phase**: {Planning, Integration, Operations}  
+**Complete by phase**: {Planning, Integration, Operations, Ongoing}  
 **RP role(s)**: Metrics and performance data contact(s), System
 administrator(s)
 
@@ -23,9 +17,9 @@ new or changed elements.\>
 
 OR
 
-A.  \<task name and link\>
+1.  \<task name and link\>
 
-B.  ...
+2.  …
 
 # Support Information
 

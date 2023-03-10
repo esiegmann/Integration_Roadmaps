@@ -1,11 +1,6 @@
----
-subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
-title: "[]{#_gjdgxs .anchor}ACCESS Allocation Policies v1"
----
-
-**Task Type(s)**: Coordination, Support\
-**Start by phase**: Planning\
-**Complete by phas**e: Ongoing\
+**Task Type(s)**: Coordination, Support  
+**Start by phase**: Planning  
+**Complete by phas**e: Ongoing  
 **RP role(s)**: Allocations process contact(s)
 
 # Summary
@@ -34,14 +29,14 @@ community and review panels. RP contact will need to provide available
 resource information, review proposals of smaller Allocation requests.
 Contact will need to provide resource information for RDR of resource(s)
 and keep RDR updated for the life of resource(s). Email
-[[help@xsede.org]{.underline}](mailto:help@xsede.org) with subject
-"Track 1 Roadmaps - allocations contact" or email
-[[hackwort@psc.edu]{.underline}](mailto:hackwort@psc.edu) to provide
-contact details.\
-\
+[*help@xsede.org*](mailto:help@xsede.org) with subject “Track 1
+Roadmaps - allocations contact” or email
+[*hackwort@psc.edu*](mailto:hackwort@psc.edu) to provide contact
+details.  
+  
 Instructions for entering resource information are specified in a later
-roadmap step: [[Infrastructure
-Description]{.underline}](https://docs.google.com/document/d/1RJCEFLL1vjSOo-plBRK67qwTePXahbvsuZVoGOlYTFg/)
+roadmap step: [*Infrastructure
+Description*](https://docs.google.com/document/d/1RJCEFLL1vjSOo-plBRK67qwTePXahbvsuZVoGOlYTFg/)
 
 # Document Management
 

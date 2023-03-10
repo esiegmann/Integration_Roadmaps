@@ -1,11 +1,6 @@
----
-subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
-title: "[]{#_gjdgxs .anchor}Local Services ACCESS IAM Integration"
----
-
-**Task Type(s)**: Technology\
-**Start by phase**: Integration\
-**Complete by phase**: Operations\
+**Task Type(s)**: Technology  
+**Start by phase**: Integration  
+**Complete by phase**: Operations  
 **RP role(s)**: System administrator(s)
 
 # Summary
@@ -21,9 +16,9 @@ new or changed elements.\>
 
 OR
 
-A.  \<task name and link\>
+1.  \<task name and link\>
 
-B.  ...
+2.  …
 
 # Support Information
 
