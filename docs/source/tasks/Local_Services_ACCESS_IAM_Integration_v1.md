@@ -5,10 +5,7 @@
 
 # Summary
 
-\<Summarizes the purpose or goal for the task, who performs the task,
-and approximate effort. If this task replaces or upgrades one or more
-other tasks, provide references to those tasks and summarize significant
-new or changed elements.\>
+\<Summarizes the purpose or goal for the task, who performs the task, and approximate effort. If this task replaces or upgrades one or more other tasks, provide references to those tasks and summarize significant new or changed elements.\>
 
 # Prerequisite tasks
 
@@ -22,17 +19,13 @@ OR
 
 # Support Information
 
-For assistance with this task see the *Support Information* section in
-the *Integration Roadmap Description*.
+For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
 
-\<REPLACE the above boilerplate sentence if you want a different
-operator support process for this task\>
+\<REPLACE the above boilerplate sentence if you want a different operator support process for this task\>
 
 # Detailed Instructions
 
-\<Detailed task instructions that may include separate sections for both
-one-time / setup tasks and ongoing or recurring activities. Explain the
-roles that will perform this task an approximate effort required.\>
+\<Detailed task instructions that may include separate sections for both one-time / setup tasks and ongoing or recurring activities. Explain the roles that will perform this task an approximate effort required.\>
 
 # Document Management
 

@@ -5,9 +5,7 @@
 
 # Summary
 
-This task provides Resource Providers instructions on how to deploy an
-ACCESS integrated OnDemand portal. This task will generally be performed
-by RP system administrators.
+This task provides Resource Providers instructions on how to deploy an ACCESS integrated OnDemand portal. This task will generally be performed by RP system administrators.
 
 # Prerequisite tasks
 
@@ -15,8 +13,7 @@ by RP system administrators.
 
 # Support Information
 
-For assistance with this task see the *Support Information* section in
-the *Integration Roadmap Description*.
+For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
 
 # Detailed Instructions
 
@@ -38,27 +35,21 @@ the *Integration Roadmap Description*.
 
 - In the Support Portal
 
-  - Check to validate that your OnDemand instance is listed on the
-    > OnDemand Support Page.
-    > [*https://support.access-ci.org/ondemand*](https://support.access-ci.org/ondemand)
+  - Check to validate that your OnDemand instance is listed on the OnDemand Support Page. [*https://support.access-ci.org/ondemand*](https://support.access-ci.org/ondemand)
 
-  - If it is not, then click the link to [*Submit a
-    > Ticket*](https://support.access-ci.org/open-a-ticket?resource=issue_not_resource_related&is_your_issue_related_to_allocations_=No&category=ACCESS-Support-OnDemand&subject=List%20my%20OnDemand%20installation&problem_description=Please%20list%20my%20OnDemand%20Installation%20on%20the%20ACCESS%20Support%20website.&tag2=249).
-    > Please include the following information.
+  - If it is not, then click the link to [*Submit a Ticket*](https://support.access-ci.org/open-a-ticket?resource=issue_not_resource_related&is_your_issue_related_to_allocations_=No&category=ACCESS-Support-OnDemand&subject=List%20my%20OnDemand%20installation&problem_description=Please%20list%20my%20OnDemand%20Installation%20on%20the%20ACCESS%20Support%20website.&tag2=249). Please include the following information.
 
     - Institution Name
 
     - OnDemand Resource Name
 
-    - Your Logo, with a width of about 300 pixels and the height
-      > relative to the width.
+    - Your Logo, with a width of about 300 pixels and the height relative to the width.
 
     - Your OnDemand Portal URL.
 
 - With Operations
 
-  - Please visit
-    > [*https://operations.access-ci.org/pub/for_operators*](https://operations.access-ci.org/pub/for_operators)
+  - Please visit [*https://operations.access-ci.org/pub/for_operators*](https://operations.access-ci.org/pub/for_operators)
 
 # Document Management
 
