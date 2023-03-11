@@ -1,27 +1,31 @@
+# Cybersecurity Governance Council Participation v1
+
+Infrastructure Integration Roadmap Task
+
 **Task Type(s)**: Coordination  
 **Start by phase**: Planning  
 **Complete by phase**: Ongoing  
 **RP role(s)**: Cybersecurity and incident response contact(s)
 
-# Summary
+## Summary
 
 The Cybersecurity Governance Council (CGC) works in cooperation with the ACCESS Executive Council (EC) to provide the oversight of cybersecurity operations and the formation and dissemination of cybersecurity policies. These policies will encompass requirements, procedures, and guidelines for ACCESS services, infrastructure, and Resource Providers (RPs). The CGC also works to share cybersecurity information, discuss and disseminate new cybersecurity threats and vulnerabilities and exchange best practices.
 
 Membership in the CGC will consist of a representative from each RP and Track and an ex-officio member representative from the ACCESS Coordination Office (ACO). The CGC will be convened by the EC and chaired by the ACCESS Security Manager (ASM).
 
-## Effort
+### Effort
 
 Bi-weekly meetings transitioning to monthly meetings lasting 30min-1hour.
 
-# Prerequisite tasks
+## Prerequisite tasks
 
 Familiarity with [*Cybersecurity Requirements for RPs v1*](https://docs.google.com/document/d/1LrfJcgixn-sDuIxZOk47ddoZpCYgwabhWAZYoKOB2TI/edit#)
 
-# Support Information
+## Support Information
 
 For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
 
-# Detailed Instructions
+## Detailed Instructions
 
 Request membership to the CGC by emailing Alex Withers, [*alexw1@illinois.edu*](mailto:alexw1@illinois.edu)
 
@@ -43,7 +47,7 @@ Additional links
 
 - [*ACCESS Cybersecurity Governance Council Meeting Minutes*](https://docs.google.com/document/d/1SvpJVFRPjpzS0FoXMtSMpoFa0eRHzfjSq5YqQtLUrqc/edit)
 
-# Document Management
+## Document Management
 
 **Status**: Draft
 

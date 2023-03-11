@@ -1,15 +1,19 @@
+# Deploy Globus Endpoint v1
+
+Infrastructure Integration Roadmap Task
+
 **Task Type(s)**: Technology  
 **Start by phase**: Integration  
 **Complete by phase**: Operations  
 **RP role(s)**: Data and networking contact(s), System administrator(s)
 
-# Summary
+## Summary
 
 ![](./media/image1.png)
 
 A Globus endpoint connects a system to Globus and enables authorized researchers (members of an allocated project team) to transfer data to and from it using Globus. During the last two years of XSEDE, hundreds of researchers used Globus to transfer data to and from XSEDE resources as a part of their projects. A single transfer request may involve a single file or a million files. Individual requests were commonly 100 GB or more and frequently 1 TB or more. Requests of 10 TB or more happened daily. The other end of the data transfer may be a personal system, a campus system (hundreds of campuses have multi-user Globus endpoints and encourage their researchers to use them), or another HPC system (hundreds of national-scale service providers, e.g., DOE or non-US systems, have Globus endpoints). Globus enables researchers to perform transfers at these scales and is broadly available on the systems where research data is used.
 
-## Effort
+### Effort
 
 Operators role(s) that would typically perform this task:
 
@@ -25,21 +29,21 @@ The following assumes you have already acquired DTN servers with appropriate net
 
 [TABLE]
 
-# Prerequisite tasks
+## Prerequisite tasks
 
 # None
 
-# Support Information
+## Support Information
 
 For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
 
-# Detailed Instructions
+## Detailed Instructions
 
 The following assumes you have already performed roadmap task 2.1, *Data & Networking integration design.* That task should have produced requirements for DTN hardware (CPU, memory, network interfaces) and network topology (e.g., DTNs hosted in a high-bandwidth zone with connectivity to both the wide-area network and the RP’s data storage system(s)).
 
 This also assumes you have acquired the necessary DTN servers and network hardware. (I.e., this doesn’t discuss acquiring hardware.)
 
-## Deploy DTN hardware with the required network connectivity
+### Deploy DTN hardware with the required network connectivity
 
 Data Transfer Nodes (DTNs) are multiuser computer servers that run the data transfer software (Globus Connect Server) that handles the local end of data transfers to or from your data storage systems. Task 2.1, *Data and Networking integration design,* produced requirements for the RP’s Data Transfer Nodes (DTNs) based on how you anticipate ACCESS researchers will use your resource(s).
 
@@ -49,7 +53,7 @@ Data Transfer Nodes (DTNs) are multiuser computer servers that run the data tran
 
 This step is complete when your data storage personnel can login to the DTNs and set up storage connectivity, your accounting or operations personnel can login and configure accounts for authorized researchers, and your networking personnel confirm the network interfaces are configured as expected.
 
-## Provision local accounts on DTNs
+### Provision local accounts on DTNs
 
 *NOTE: We assume that individuals who are part of ACCESS projects that have allocations to use this resource are given local accounts on your resource. If this assumption is not valid for your resource, this section will need to be customized for your resource.*
 
@@ -57,7 +61,7 @@ Globus uses local accounts for primary data access.¹ For primary data access to
 
 1.  Your accounting or operations personnel will login to each DTN and configure the appropriate mechanism for provisioning local accounts. *Each RP has its own account mechanism, so ACCESS cannot provide detailed instructions.*
 
-## Mount and configure POSIX storage on DTNs
+### Mount and configure POSIX storage on DTNs
 
 POSIX-accessible data storage must be mounted on the DTNs to be accessible by Globus.² Task 2.1, *Data and Networking integration design,* identified the POSIX storage system(s) on your resource that should be accessible for data transfers.
 
@@ -65,7 +69,7 @@ POSIX-accessible data storage must be mounted on the DTNs to be accessible by Gl
 
 2.  Tape archives, HPSS, GPFS, and other mass storage systems may have special tuning parameters and configuration interfaces. If these storage systems are intended to be accessible for data transfers, the requirements produced by task 2.1 should include guidance regarding performance tuning parameters and other settings.
 
-## Install/configure Globus Connect Server on DTNs
+### Install/configure Globus Connect Server on DTNs
 
 Globus Connect Server is the software that connects your storage system(s) to Globus so researchers can use Globus to request data transfers to and from your resource. Globus Connect Server supports multi-DTN configurations, both to simplify DTN maintenance (adding/removing DTNs without disrupting transfers) and to enhance performance (Globus will use all available DTNs for transfers). Globus Connect Server can be used with POSIX-mounted data storage or (with optional subscription add-ons) a wide variety of object storage (e.g., OpenStack Ceph, BlackPearl, ActiveScale), cloud storage (AWS, Google, and Microsoft), and specialized research data storage systems (iRODS, Hadoop HDFS).
 
@@ -87,19 +91,19 @@ A summary of the steps for installing and configuring Globus Connect Server for 
 
 5.  On any remaining DTNs, your DTN administrator will install a copy of the configuration key file from the first DTN, adding each DTN to the logical Globus endpoint and synchronize configurations across all participating DTNs.
 
-## Evaluate and optimize performance
+### Evaluate and optimize performance
 
 After your Globus endpoint is set up and configured, you should evaluate the performance of the endpoint to confirm that it satisfies the requirements determined in task 2.1. Test endpoints were deployed as part of ESnet’s 2019-2021 Data Mobility Workshop & Exhibition. They are hosted by a variety of well-connected institutions, are pre-loaded with sample reference datasets, and the endpoints and reference datasets are [*listed on the Globus website*](https://www.globusworld.org/tour/data-mobility-exhibition).
 
 To evaluate whether your endpoint is performing as expected or not, the simplest method would be to repeat a variety of transfers from the test endpoints to your new endpoint (or vice-versa, with write-enabled test endpoints). **Hint:** You can use Globus’s [*Timer feature*](https://www.globus.org/blog/scheduled-and-recurring-transfers-now-available-globus-web-app) to schedule a transfer to repeat at preset intervals and collect the results later from the [*Timers tab on the Activity page*](https://app.globus.org/activity/timers). Set multiple timers with different endpoints and reference datasets and compare results.
 
-## References
+### References
 
 ¹ Globus has a secondary data access mode, guest collections, which does not require local accounts. Guest collections are discussed in ACCESS’s Globus Connect Server install guidance, but are at a level of detail beneath what this roadmap discusses.
 
 ² Non-POSIX data storage (object storage and cloud storage) are generally not mounted but can be made accessible via Globus if the Globus subscription includes the relevant storage connector. Access to non-POSIX storage is configured in Globus Connect Server.
 
-# Document Management
+## Document Management
 
 **Status**: Official
 

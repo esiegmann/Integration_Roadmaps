@@ -1,29 +1,33 @@
+# Operational Status Communications v1
+
+Infrastructure Integration Roadmap Task
+
 **Task Type(s)**: Coordination, Support  
 **Start by phase**: Integration  
 **Complete by phase**: Ongoing  
 **RP role(s)**: Resource news and outages publisher(s), System administrator(s), Researcher support contact(s)
 
-# Summary
+## Summary
 
 ACCESS resource providers RPs, ACCESS projects (tracks), and online service operators communicate planned and unplanned outages, and configuration changes, using the ACCESS Operations Infrastructure News system.
 
-# Prerequisite tasks
+## Prerequisite tasks
 
 1.  [*Resource Description V2*](https://docs.google.com/document/d/1khvZ7QiwKoVDJy0lEq429M7a9sQXBXzTfWoYsUafqVc/)
 
-# Support Information
+## Support Information
 
 For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
 
-# Detailed Instructions
+## Detailed Instructions
 
-## Initial Setup
+### Initial Setup
 
 All staff responsible for posting infrastructure news must first login to the ACCESS Operations portal (https://operations.access-ci.org/) using the ACCESS CI identity provider or any other linked identity. This will automatically create their Operations Portal account.
 
 Next, the Resource Integration Coordinator must submit the names of staff responsible for posting infrastructure news. Staff that logged in per the previous paragraph will be granted Infrastructure News Editor permissions. Submit names by opening an ACCESS ticket using the [*Support Portal ticket form*](https://support.access-ci.org/open-a-ticket). Please use the “Not related to a resource” selector (since your resource may not be listed in the selector yet), select “No” for allocations related, the “Operations Services” category and enter into the Synopsis “ACCESS Operations Infrastructure News Editor access”. ACCESS Operations will grant your staff access to the news publishing function and reply letting you know.
 
-## Recurring Activity - Status Communications
+### Recurring Activity - Status Communications
 
 Authorized staff can:
 
@@ -57,7 +61,7 @@ To communicate an significant update to news, edit the posting and prepend the f
 
 Posted/updated infrastructure news should appear in the [*ACCESS Support Portal - Outages Page*](https://support.access-ci.org/outages) within 10 minutes.
 
-## API Access - Status Communications
+### API Access - Status Communications
 
 Resource providers and ACCESS projects may access infrastructure news through an API at:
 
@@ -65,7 +69,7 @@ Resource providers and ACCESS projects may access infrastructure news through an
 
 Under the “News” section.
 
-# Document Management
+## Document Management
 
 **Status**: Official
 

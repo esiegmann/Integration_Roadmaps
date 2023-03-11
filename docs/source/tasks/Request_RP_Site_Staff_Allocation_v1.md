@@ -1,51 +1,55 @@
+# Request RP/Site Staff Allocation v1
+
+Infrastructure Integration Roadmap Task
+
 **Task Type(s)**: Coordination  
 **Start by phase**: Any  
 **Complete by phase**: Operations  
 **RP role(s)**: PI and co-PI(s), Resource integration coordinator(s)
 
-# Summary
+## Summary
 
 RPs can request a site/staff allocation via ACCESS, to use for supporting and testing the ACCESS allocation workflow
 
-# Prerequisite tasks
+## Prerequisite tasks
 
 # None
 
-# Support Information
+## Support Information
 
 For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
 
-# Detailed Instructions
+## Detailed Instructions
 
-To request a site/staff allocation for your site, follow the standard allocations request process (see below), noting in the “public overview” section of your submission that this is for a site/staff allocation.  
-  
-• You will want to start on the ACCESS Allocation website.
+To request a site/staff allocation for your site, follow the standard allocations request process (see below), noting in the “public overview” section of your submission that this is for a site/staff allocation.
 
-• Before submitting a request, you will want to start with the overview of the different ACCESS opportunities.
+- You will want to start on the [*ACCESS Allocation website*](https://allocations.access-ci.org/).
 
-• Look across the menu bar in the middle of the page. Click on “Prepare requests”
+- Before submitting a request, you will want to start with the overview of the different ACCESS opportunities.
 
-• Within “Prepare requests,” click on “Overview.”
+- Look across the menu bar in the middle of the page. Click on “Prepare requests”
 
-• Here you can look at all the different ACCESS opportunities and see which opportunity you would like to submit into.
+- Within “Prepare requests,” click on “Overview.”
 
-• PLEASE READ THIS PAGE VERY CAREFULLY.
+- Here you can look at all the different ACCESS opportunities and see which opportunity you would like to submit into.
 
-• The information on this page will let you know about the credit limits and any additional information about things needed in the submission.
+- PLEASE READ THIS PAGE VERY CAREFULLY.
 
-• Now that you have decided which opportunity to submit into, you can now work on your submission.
+- The information on this page will let you know about the credit limits and any additional information about things needed in the submission.
 
-• Look across the menu bar in the middle of the page. Click on “Manage allocations”
+- Now that you have decided which opportunity to submit into, you can now work on your submission.
 
-• Within “Manage allocations,” click on “Submit a Request.”
+- Look across the menu bar in the middle of the page. Click on “Manage allocations”
 
-• You are now at the Available Opportunities Page.
+- Within “Manage allocations,” click on “Submit a Request.”
 
-• Look for the Opportunity (Explore, Discover, Accelerate, Maximize) you would like to submit into.
+- You are now at the Available Opportunities Page.
 
-• Once you see that Opportunity, click on the button that says “SUBMIT AN (Opportunity) ACCESS REQUEST”q
+- Look for the Opportunity (Explore, Discover, Accelerate, Maximize) you would like to submit into.
 
-# Document Management
+- Once you see that Opportunity, click on the button that says “SUBMIT AN (Opportunity) ACCESS REQUEST”
+
+## Document Management
 
 **Status**: Draft
 

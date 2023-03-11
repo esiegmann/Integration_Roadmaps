@@ -1,27 +1,31 @@
-**Task Type(s**): Coordination, Technology, Support  
+# Data & Network Integration
+
+Infrastructure Integration Roadmap Task
+
+**Task Type(s)**: Coordination, Technology, Support  
 **Start by phase**: Integration  
 **Complete by phase**: Operations, Ongoing  
 **RP role(s)**: Data storage, networking, and sysadmin contact(s)
 
-# Summary
+## Summary
 
 Meeting data transfer requirements requires an understanding of storage system, application requirements, and site network connectivity. While available data transfer options are determined by site preferences, ACCESS network engineers and data transfer specialists will continue to facilitate those options by: 1) offering a Globus subscription through at least Project Year 1 (ending 31-Aug-2023); 2) identifying, evaluating, and encouraging the use of promising data transfer applications; and 3) consulting with sites upon request to help them tackle data transfer application and infrastructure challenges.
 
-# Prerequisite tasks
+## Prerequisite tasks
 
 # None
 
-# Support Information
+## Support Information
 
 For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
 
-# Detailed Instructions
+## Detailed Instructions
 
-## Planning
+### Planning
 
 To help in planning for adequate data movement and networking capability, consider the following:
 
-### Storage and file transfer applications:
+#### Storage and file transfer applications
 
 1.  What part(s) of your resource needs to be accessible for data transfer into and/or out of your site?
 
@@ -43,7 +47,7 @@ To help in planning for adequate data movement and networking capability, consid
 
 5.  Does your site currently, or are you willing to, host a network performance monitor (perfSONAR) to help ACCESS monitor and diagnose end-to-end network behaviors?
 
-### Network connectivity:
+#### Network connectivity
 
 1.  Who is your site’s wide area connectivity provider?
 
@@ -61,7 +65,7 @@ To help in planning for adequate data movement and networking capability, consid
 
 Connectivity via the CONECTnet L3VPN on Internet2 is an option for ACCESS RPs and provides valuable performance metrics collection and reporting and….
 
-## Data Transfer
+### Data Transfer
 
 The supported file transfer applications for ACCESS are currently scp, sftp, rsync, and Globus. scp, sftp, and rsync are commonly used file transfer applications. Other than verifying that the servers are running (system administrators) and accessible (network engineers for site firewalls; system administrators for IPtables, firewalld, etc.), these applications likely will not require special configuration and management for use by ACCESS participants.
 
@@ -69,7 +73,7 @@ Globus requires specific system, application, and (potentially) hardware configu
 
 For connection to the CONECTnet L3VPN, please coordinate with the ACCESS [*Networking & Data Transfer Services Team*](mailto:t3-ndts@access-ci.org). You may refer to L3VPN integration documentation prepared by FIU as an example of the integration process.
 
-# Document Management
+## Document Management
 
 **Status**: Draft
 

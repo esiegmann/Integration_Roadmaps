@@ -1,3 +1,5 @@
+Infrastructure Integration Roadmap Task
+
 **Task Type(s)**: Coordination  
 **Start by phase**: Integration  
 **Complete by phase**: Ongoing  
@@ -49,7 +51,7 @@ Submit a ticket with the Subject “New CiDeR Organization: at [*https://support
 
 Submitted organization information will be entered by a CiDeR in a form as shown below and used to grant access to CiDeR administrators.
 
-![](./media/image1.png)
+![](./media/image2.png)
 
 ## Provide CiDeR access to other organization staff
 
@@ -89,7 +91,7 @@ Page 16 of the CiDeR/RDR Manual has instructions for entering a “conversion fa
   
 **In a later stage of ACCESS, additional tools will be created to manage your variable marketplace exchange rate.
 
-![](./media/image2.png)
+![](./media/image1.png)
 
 ## Maintain infrastructure descriptions
 

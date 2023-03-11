@@ -1,23 +1,27 @@
+# ACCESS Allocated Resource Integration Coordination v1
+
+Infrastructure Integration Roadmap Task
+
 **Task Type(s)**: Coordination  
 **Start by phase**: Planning  
 **Complete by phase**: ongoing  
 **RP role(s)**: PI and co-PI(s), Resource integration coordinator(s)
 
-# Summary
+## Summary
 
 A resource provider wishing to integrate an ACCESS allocated compute, storage, or cloud resource contacts ACCESS to start the integration process, provides basic resource information, and identifies resource provider staff contacts that will be involved in coordination, technical integration, and ongoing support activities.
 
-# Support Information
+## Support Information
 
 For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
 
-# Prerequisite tasks
+## Prerequisite tasks
 
 None
 
-# Operator Instructions
+## Operator Instructions
 
-## Integration Launch
+### Integration Launch
 
 The integration engagement and process begins when the resource PI/co-PIs and an RP designated Resource Integration Coordinator communicates with ACCESS Operations, identifying themselves and their PI, co-PI, and coordinator roles, provides their institution name, the name and type of the resource they plan to integrate, and which ACCESS integration roadmap they plan to follow (if known). The RP may communicate this information by submitting an ACCESS ticket using the [*Support Portal ticket form*](https://support.access-ci.org/open-a-ticket), or by contacting the ACCESS Resource Provider Coordinator directly.
 
@@ -27,7 +31,7 @@ The Integration Concierge acts as the resource or service operator’s primary p
 
 The Resource Integration Coordinator is responsible for coordinating all RP activities, for identifying and maintaining the list of RP contacts involved in different aspects of coordination, integration, and resource support (see the next section), for communicating relevant ACCESS integration information and Roadmap based resource integration document to RP staff, and for managing RP staff access to ACCESS services.
 
-## Identity Resource Provider Contacts
+### Identity Resource Provider Contacts
 
 Soon after the Integration Launch the Resource Integration Coordinator must provide each of the following RP contacts:
 
@@ -63,7 +67,7 @@ The Integration Coordinator is responsible for maintaining accurate contact info
 
 ACCESS Integration Roadmaps task lists which RP staff contacts normally perform that task.
 
-# Document Management
+## Document Management
 
 **Status**: Draft
 

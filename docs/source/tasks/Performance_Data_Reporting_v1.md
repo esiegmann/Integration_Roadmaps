@@ -1,9 +1,13 @@
+# Performance Data Reporting v1
+
+Infrastructure Integration Roadmap Task
+
 **Task Type(s)**: Technology  
 **Start by phase**: Integration  
 **Complete by phase**: Operations  
 **RP role(s)**: Metrics and performance data contact(s), System administrator(s)
 
-# Summary
+## Summary
 
 ACCESS Metrics provides [*ACCESS XDMoD*](https://xdmod.access-ci.org) and various data reporting and analysis services. XDMoD provides reporting on a wide range of CI metrics. This includes CI efficiency reporting that is available to end users, PIs and RP staff.
 
@@ -11,15 +15,15 @@ The main data source for the efficiency reporting is low-level performance data 
 
 This task involves setting up the data transfer of performance data.
 
-# Prerequisite tasks
+## Prerequisite tasks
 
 1.  [*Resource Metrics Data Availability Assessment v1*](https://docs.google.com/document/d/12MNK2VggHD3JoySK4SgguHARMWJyc91EV2T1vY6Rf_8/edit#)
 
-# Support Information
+## Support Information
 
 For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
 
-# Detailed Instructions
+## Detailed Instructions
 
 The low-level performance data files must be periodically sent to ACCESS Metrics. The recommended configuration is to use daily increments data transfers. ACCESS Metrics support three types of data transfer design. The choice of data transfer mechanism depends on the RP preferences:
 
@@ -35,7 +39,7 @@ If option (2) is chosen then the RP should provide an ssh public key and a prefe
 
 Option (3) can only be used if the resource supports ACCESS community accounts and the “Community User xdtas” is authorized. In this case the xdtas account must have read permissions on the low-level performance data files. ACCESS Metrics will manage the periodic transfers.
 
-# Document Management
+## Document Management
 
 **Status**: {Draft, Official, Retired}
 

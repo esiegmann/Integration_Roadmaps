@@ -1,12 +1,16 @@
-# Summary
+# Science Gateway Registration
+
+Version 1 - 2022/09/26
+
+## Summary
 
 The science gateway provider registers their gateway with ACCESS to provide publicly accessible and internally accessible information about the science gateway. This step also triggers the creation of community accounts on allocated resources.
 
-# Prerequisites
+## Prerequisites
 
 1.  The science gateway provider must have completed “Science Gateway Resource Requests”
 
-# Effort
+## Effort
 
 The science gateway provider must provide information in web forms (see description) that should take approximately an hour to complete.
 
@@ -14,7 +18,7 @@ The task is completed when the gateway information is published to the ACCESS we
 
 ACCESS may periodically review registration information to confirm that it is correct. Gateway providers should promptly update their registration information.
 
-# Description
+## Description
 
 Science gateway providers register their gateway with ACCESS, providing the following information:
 
@@ -30,7 +34,7 @@ Science gateway providers register their gateway with ACCESS, providing the foll
 
 6.  A short name for the science gateway that complies with UNIX account name requirements, which may be used as community account names by Resource Providers.
 
-# Allocations Required Data Fields
+## Allocations Required Data Fields
 
 Assuming we’re going to target a “Discover ACCESS” project as the default.
 

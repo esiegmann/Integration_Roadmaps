@@ -17,6 +17,7 @@ Contents
 .. toctree::
    :glob:
    :maxdepth: 0
+   :titlesonly:
 
    Home <self>
    ACCESS_Allocated_Production_Compute_v2_-_Integration_Roadmap_Description

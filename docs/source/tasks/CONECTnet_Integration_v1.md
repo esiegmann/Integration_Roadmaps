@@ -1,40 +1,50 @@
+# CONECTnet Integration v1
+
+Infrastructure Integration Roadmap Task
+
 **Task Type(s)**: {Coordination, Technology, Support}  
 **Start by phase**: {Planning, Integration, Operations}  
 **Complete by phase**: {Planning, Integration, Operations, Ongoing}  
 **RP role(s)**: Data and networking contact(s)
 
-# Summary
+## Summary
 
-\<Summarizes the purpose or goal for the task, who performs the task, and approximate effort. If this task replaces or upgrades one or more other tasks, provide references to those tasks and summarize significant new or changed elements.\>
+CONECTnet is the wide area network infrastructure and services that connect ACCESS RPs and participant sites. In most cases, the Internet2 Research and Education (R&E) network will be the WAN provider. However, due to financial or other constraints, some sites’ only connectivity option may be via a commodity Internet service provider. In either case, ACCESS CONECT network engineers are available to work with the connecting sites to help with integration questions and optimize their network performance.
 
-# Prerequisite tasks
+CONECTnet participants are encouraged to take advantage of network measurement and test infrastructure that is available through Internet2 and also through participation in an ACCESS perfSONAR mesh.
 
-# None
+## Prerequisite tasks
 
-OR
+1.  [*Data and Network Integration*](https://docs.google.com/document/d/1IMOFizZUiXF1PcBR9qXKgQdNUQsVnio8AqcZ3mT74zc/)
 
-1.  \<task name and link\>
-
-2.  …
-
-# Support Information
+## Support Information
 
 For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
 
-\<REPLACE the above boilerplate sentence if you want a different operator support process for this task\>
+## Detailed Instructions
 
-# Detailed Instructions
+Steps to integrate with CONECTnet:
 
-\<Detailed task instructions that may include separate sections for both one-time / setup tasks and ongoing or recurring activities.\>
+- RP network engineers fill out the CONECTnet Site Survey. This may require collaboration input from the RP’s system administrators and applications support personnel.
 
-# Document Management
+- Submit a ACCESS ticket requesting to participate in CONECTnet, mentioning that you have completed the CONECTnet Site Survey.
 
-**Status**: {Draft, Official, Retired}
+- The CONECTnet team will acknowledge receipt of a connection request within 3 days and schedule a follow up meeting to review the CONECTnet Site Survey and plan the next steps.
 
-**Official date**: \<mm/dd/yyyy\>
+- perfSONAR mesh testing is available for any site that chooses to participate (10Gb/s throughput/loss/latency)
 
-**Coordinators**: \<name\>, \<ACCESS project\>
+Is this tied to CONECTnet Integration?
 
-**Last revised date**: \<mm/dd/yyyy\>
+- DNS is being provided by CONECTnet for access-ci.org
+
+## Document Management
+
+**Status**: Draft
+
+**Official date**: 03/15/2023
+
+**Coordinators**: Kathy Benninger and David Wheeler, ACCESS Operatons
+
+**Last revised date**: 03/09/2023
 
 **Retired date**:
