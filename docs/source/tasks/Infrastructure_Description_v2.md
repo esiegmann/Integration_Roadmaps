@@ -1,3 +1,5 @@
+# Infrastructure Description v2
+
 Infrastructure Integration Roadmap Task
 
 **Task Type(s)**: Coordination  
@@ -5,7 +7,7 @@ Infrastructure Integration Roadmap Task
 **Complete by phase**: Ongoing  
 **RP role(s)**: Resource Integration Coordinator, Documentation and knowledge base contact(s),
 
-# Summary
+## Summary
 
 ACCESS infrastructure that is visible to researchers, resource providers, developers, other ACCESS awardees, or the broader community must be described. ACCESS resource providers, ACCESS projects, and other ACCESS affiliated online service providers (i.e. science gateways, etc.) enter basic information about their organization and then describe the infrastructure that they operate in the Cyberinfrastructure Description Repository (CiDeR). Audience relevant summaries of these descriptions are displayed in ACCESS websites.
 
@@ -13,19 +15,19 @@ Initial setup involves resource integration coordinators gaining administrator a
 
 This integration task replaces and improves the [*Infrastructure Description v1 task*](https://docs.google.com/document/d/1RJCEFLL1vjSOo-plBRK67qwTePXahbvsuZVoGOlYTFg). Operators that completed the v1 task already completed this task.
 
-# Prerequisite tasks
+## Prerequisite tasks
 
 None
 
-# Support Information
+## Support Information
 
 For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
 
-# Detailed Instructions
+## Detailed Instructions
 
 Organization staff access CiDeR at [*https://cider.access-ci.org/login*](https://cider.access-ci.org/login).
 
-## Initial CiDeR Setup
+### Initial CiDeR Setup
 
 If your organization already has CiDeR/RDR access, skip to step C.
 
@@ -53,7 +55,7 @@ Submitted organization information will be entered by a CiDeR in a form as shown
 
 ![](media/Infrastructure_Description_v2/media/image1.png)
 
-## Provide CiDeR access to other organization staff
+### Provide CiDeR access to other organization staff
 
 The resource integration coordinator grants other organization staff access to enter and maintain infrastructure descriptions:
 
@@ -65,7 +67,7 @@ The resource integration coordinator grants other organization staff access to e
 
 - Add additional Organization Admins who may enter and update your organization resource information.
 
-## Enter Resource Descriptions
+### Enter Resource Descriptions
 
 Organization staff enter new infrastructure as detailed in the Quick Start Guide and User Guide:
 
@@ -83,7 +85,7 @@ Steps:
 
 - Enter as much information as possible in this second form
 
-## Enter Resource Conversion Factors
+### Enter Resource Conversion Factors
 
 Skip this section if you resource is not ACCESS allocated
 
@@ -93,11 +95,11 @@ Page 16 of the CiDeR/RDR Manual has instructions for entering a “conversion fa
 
 ![](media/Infrastructure_Description_v2/media/image2.png)
 
-## Maintain infrastructure descriptions
+### Maintain infrastructure descriptions
 
 Information in CiDeR should be kept up to date, and reviewed for accuracy at least once a year.
 
-# Document Management
+## Document Management
 
 **Status**: Official
 
