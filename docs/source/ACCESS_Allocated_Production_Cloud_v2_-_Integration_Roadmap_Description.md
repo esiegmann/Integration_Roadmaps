@@ -50,7 +50,7 @@ General [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1Oje
 
 3.  [*Cybersecurity Requirements for RPs v1*](https://docs.google.com/document/d/1LrfJcgixn-sDuIxZOk47ddoZpCYgwabhWAZYoKOB2TI/edit?usp=share_link)
 
-4.  [*Data & Network Integration Design v1*](https://docs.google.com/document/d/1IMOFizZUiXF1PcBR9qXKgQdNUQsVnio8AqcZ3mT74zc/edit?usp=share_link)
+4.  [*Data and Network Integration v1*](https://docs.google.com/document/d/1IMOFizZUiXF1PcBR9qXKgQdNUQsVnio8AqcZ3mT74zc/edit?usp=share_link)
 
 5.  [*ACCESS Allocation Policies v1*](https://docs.google.com/document/d/1_tdPDLq2FVg6nWUTYAI2Z-LbnlNGdSG3TKAh0d0zZ1I/edit?usp=share_link)
 
@@ -62,7 +62,7 @@ General [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1Oje
 
 9.  [*Resource Metrics Data Availability Assessment v1*](https://docs.google.com/document/d/12MNK2VggHD3JoySK4SgguHARMWJyc91EV2T1vY6Rf_8/edit?usp=share_link)
 
-10. [*Incident Response & Coordination v1*](https://docs.google.com/document/d/1QVSZEt2GDdlhA-Sogl0YBrGGSaFvZFQPiBCWAvT3PbU/edit?usp=share_link)
+10. [*Incident Response and Coordination v1*](https://docs.google.com/document/d/1QVSZEt2GDdlhA-Sogl0YBrGGSaFvZFQPiBCWAvT3PbU/edit?usp=share_link)
 
 11. [*Ticket Handling v2*](https://docs.google.com/document/d/12Hl7GqqsAmA5cbmwJRHnb6fONVB1Ywhhf5E6yI0V8d0/edit?usp=share_link)
 
@@ -74,11 +74,11 @@ General [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1Oje
 
 ## Optional Tasks
 
-1.  [*CONECTnet Integration v1*](https://docs.google.com/document/d/1UbplfGyZZgfu3p98GTF-vv6xA40qHjSXjeWKM5fbykc/edit?usp=share_link)
+1.  [*ACCESS DNS Entries v1*](https://docs.google.com/document/d/1NhhdiJGZngdpqOMEQrssZXSnDmASQXeQp9ttJPwdQOs/edit?usp=share_link)
 
 2.  [*Local Service ACCESS IAM Integration v1*](https://docs.google.com/document/d/18GuqHLCj4oxtxt5bsqP_ICw5vMvXM0LQWqc_nLNO8MM/edit?usp=share_link)
 
-3.  [*Request RP/Site Staff Allocation v1*](https://docs.google.com/document/d/1GaHU-7cA3bOFwMvwh3s-Ic9535ncfW741HGnxKFCIOc/edit?usp=share_link)
+3.  [*Request RP or Site Staff Allocation v1*](https://docs.google.com/document/d/1GaHU-7cA3bOFwMvwh3s-Ic9535ncfW741HGnxKFCIOc/edit?usp=share_link)
 
 ## Document Management
 

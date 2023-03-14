@@ -8,9 +8,9 @@ PANDOC_DATADIR=${BASE}/pandoc_datadir
 # $1 = Input file
 # $2 = Target directory
 convert_file () {
-   echo "******"
-   echo "1=$1"
-   echo "2=$2"
+   #echo "******"
+   #echo "1=$1"
+   #echo "2=$2"
    TO_UNDER="${1// /_}"
    TO_FILE="${TO_UNDER/.docx/.md}"
    TO_BASE="${TO_FILE%.*}"

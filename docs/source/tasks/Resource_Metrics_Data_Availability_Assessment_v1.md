@@ -17,7 +17,7 @@ The choice of performance data collection system depends on the resource archite
 
 ## Prerequisite tasks
 
-# None
+None
 
 ## Support Information
 

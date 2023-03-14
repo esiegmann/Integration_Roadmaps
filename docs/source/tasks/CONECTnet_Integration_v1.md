@@ -23,6 +23,8 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 ## Detailed Instructions
 
+To integrate with CONECTnet we request that you complete a Site Survey, schedule a meeting with Data
+
 Steps to integrate with CONECTnet:
 
 - RP network engineers fill out the CONECTnet Site Survey. This may require collaboration input from the RP’s system administrators and applications support personnel.

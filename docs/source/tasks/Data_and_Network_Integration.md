@@ -1,4 +1,4 @@
-# Data & Network Integration
+# Data and Network Integration
 
 Infrastructure Integration Roadmap Task
 
@@ -9,11 +9,11 @@ Infrastructure Integration Roadmap Task
 
 ## Summary
 
-Meeting data transfer requirements requires an understanding of storage system, application requirements, and site network connectivity. While available data transfer options are determined by site preferences, ACCESS network engineers and data transfer specialists will continue to facilitate those options by: 1) offering a Globus subscription through at least Project Year 1 (ending 31-Aug-2023); 2) identifying, evaluating, and encouraging the use of promising data transfer applications; and 3) consulting with sites upon request to help them tackle data transfer application and infrastructure challenges.
+Meeting data transfer requirements requires an understanding of storage system, application requirements, and site network connectivity. While available data transfer options are determined by site preferences, ACCESS Networking and Data Transfer Services (NDTS) network engineers and data transfer specialists will continue to facilitate those options by: 1) offering a Globus subscription through at least Project Year 1 (ending 31-Aug-2023); 2) identifying, evaluating, and encouraging the use of promising data transfer applications; and 3) consulting with sites upon request to help them tackle data transfer application and infrastructure challenges.
 
 ## Prerequisite tasks
 
-# None
+None
 
 ## Support Information
 
@@ -21,13 +21,15 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 ## Detailed Instructions
 
-### Planning
+### Understand your requirements
 
-To help in planning for adequate data movement and networking capability, consider the following:
+To help in planning for adequate data movement and networking capability, the following aspects of your resource, cyberinfrastructure, and applications should be considered.
 
 #### Storage and file transfer applications
 
 1.  What part(s) of your resource needs to be accessible for data transfer into and/or out of your site?
+
+    1.  The RP should identify what resources it wishes to make available over CONECTnet. Ideally these are just “ACCESS resources”, probably including a perfSONAR network performance measurement server. However, it is not inappropriate to include the entire Science DMZ.
 
 2.  For bulk data transfer (datasets in ~100GB range and larger on ACCESS CONECTnet):
 
@@ -47,31 +49,47 @@ To help in planning for adequate data movement and networking capability, consid
 
 5.  Does your site currently, or are you willing to, host a network performance monitor (perfSONAR) to help ACCESS monitor and diagnose end-to-end network behaviors?
 
-#### Network connectivity
+### B. Data and networking survey and consultation
 
-1.  Who is your site’s wide area connectivity provider?
+The ACCESS ecosystem offers a Layer3 VPN (L3VPN) provisioned on Internet2 (CONECTnet) to provide connectivity between RPs. Participation in CONECTnet provides valuable performance metrics collection/reporting as well as availability statistics and error reporting. NDTS will be working with Internet2 to identify and expand the available metrics in an effort to increase our visibility and understanding of the types and volumes of traffic traversing CONECTnet.
 
-    1.  High performance ‘research and education’ provider (e.g., Internet2, ESnet)
+1.  Please contact the NDTS team [*t3-ndts@access-ci.org*](mailto:t3-ndts@access-ci.org) to inform us that you intend to connect to CONECTnet
 
-    2.  Commodity (e.g., Comcast, Charter, Verizon, AT&T)
+2.  We will send you a link to a [*network connectivity survey*](https://docs.google.com/document/d/1FcOGuXC-5vj05lirU8noc_ZWNldSoLiVSWtcZS_S54o/edit?usp=sharing). Your responses are valuable to help us understand your site’s connectivity and data transfer priorities.
 
-2.  What is your site’s WAN connection speed?
+3.  When you complete the survey we will schedule a consultation to review the information and follow up on any questions.
 
-3.  What is the typical utilization of your site’s WAN connection?
+### C. Network connectivity - WAN connection
 
-4.  What is your resource’s connectivity, and how much of that do you think will be needed for “typical” ACCESS uses?)
+#### To integrate with CONECTnet follow these steps:
 
-5.  DNS
+1.  The RP should identify a router (RP router) “suitably close” to their ACCESS resources. The definition of “suitably close” is very site specific. Members of the NDTS team are available to help with this determination.
 
-Connectivity via the CONECTnet L3VPN on Internet2 is an option for ACCESS RPs and provides valuable performance metrics collection and reporting and….
+2.  The RP, possibly in conjunction with their campus and/or Internet2 connector (i.e., their regional network provider), needs to configure a VLAN from the RP router to the interface on the router that peers with Internet2. Note the VLAN tag value. Jumbo frames (9000-octet IP MTU) **should**[1] be supported by the devices in the VLAN.
 
-### Data Transfer
+3.  The RP (or its campus or Internet2 connector) needs to set an ACL in OESS to allow access by the CONECT workgroup.
+
+4.  The RP needs to pick IP addresses for the point-to-point connection between the RP router and the Internet2 router. Either public or private (ULA/RFC 1918) addresses will work, as will any convenient prefix length (for example, PSC and NCSA both use /127 and /31). Clearly, IPv4 needs to be configured; IPv6 is optional but recommended.
+
+5.  The RP now needs to pass along to the CONECT NDTS group the IP address block(s) for the point-to-point connection (indicating which addresses are for the RP end and which are for the Internet2 end), along with the VLAN tag and an autonomous system number (ASN; either public or private) for BGP peering. Optionally, a password for BGP peering can be specified, as can the desire to use BFD (bidirectional forwarding detection).
+
+6.  The CONECT NDTS group will provision the connection on the CONECTnet L3VPN.
+
+7.  The RP can now bring up BGP peering. Note that no prefix filtering is done on the network.
+
+8.  If the RP wishes to configure connections to multiple Internet2 routers, the above steps can be repeated for each connection. The RP is responsible for any traffic engineering (eg, local preference or MED).
+
+9.  The RP…
+
+### D. Network Performance Measurement 
+
+(will add text pointers to existing perfSonar documentation)
+
+### E. Data Transfer
 
 The supported file transfer applications for ACCESS are currently scp, sftp, rsync, and Globus. scp, sftp, and rsync are commonly used file transfer applications. Other than verifying that the servers are running (system administrators) and accessible (network engineers for site firewalls; system administrators for IPtables, firewalld, etc.), these applications likely will not require special configuration and management for use by ACCESS participants.
 
 Globus requires specific system, application, and (potentially) hardware configuration. Please see the ACCESS CONECT document [**Deploy Globus Endpoint**](https://docs.google.com/document/d/19xv0ahgH8m4pFsu5LabYdOVSaNjmB6Ja1Q7I7cc_dM8/edit?usp=sharing) for detailed guidance.
-
-For connection to the CONECTnet L3VPN, please coordinate with the ACCESS [*Networking & Data Transfer Services Team*](mailto:t3-ndts@access-ci.org). You may refer to L3VPN integration documentation prepared by FIU as an example of the integration process.
 
 ## Document Management
 
@@ -81,6 +99,8 @@ For connection to the CONECTnet L3VPN, please coordinate with the ACCESS [*Netwo
 
 **Coordinators**: Kathy Benninger, ACCESS Operations
 
-**Last revised date**: 2/15/2023
+**Last revised date**: 3/11/2023
 
 **Retired date**:
+
+[1] If jumbo frames are not configured, Path MTU Discovery must be enabled across the end-to-end path.

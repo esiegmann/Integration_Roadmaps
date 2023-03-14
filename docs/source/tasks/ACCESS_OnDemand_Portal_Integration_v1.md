@@ -13,7 +13,7 @@ This task provides Resource Providers instructions on how to deploy an ACCESS in
 
 ## Prerequisite tasks
 
-# None
+None
 
 ## Support Information
 

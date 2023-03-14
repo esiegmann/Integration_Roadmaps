@@ -13,7 +13,7 @@ The Resource Provider Forum (RP Forum) is a key venue for information sharing an
 
 ## Prerequisite tasks
 
-# None
+None
 
 ## Support Information
 

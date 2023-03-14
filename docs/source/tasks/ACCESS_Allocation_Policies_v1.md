@@ -13,7 +13,7 @@ Resource Providers will need to have proper representation for Allocation questi
 
 ## Prerequisite tasks
 
-# None
+None
 
 ## Support Information
 

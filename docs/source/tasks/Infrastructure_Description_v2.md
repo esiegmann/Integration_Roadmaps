@@ -15,7 +15,7 @@ This integration task replaces and improves the [*Infrastructure Description v1 
 
 # Prerequisite tasks
 
-# None
+None
 
 # Support Information
 
@@ -51,7 +51,7 @@ Submit a ticket with the Subject “New CiDeR Organization: at [*https://support
 
 Submitted organization information will be entered by a CiDeR in a form as shown below and used to grant access to CiDeR administrators.
 
-![](/Users/navarro/GitHub/Integration_Roadmaps/docs/source/tasks/media/Infrastructure_Description_v2/media/image2.png)
+![](media/Infrastructure_Description_v2/media/image1.png)
 
 ## Provide CiDeR access to other organization staff
 
@@ -91,7 +91,7 @@ Page 16 of the CiDeR/RDR Manual has instructions for entering a “conversion fa
   
 **In a later stage of ACCESS, additional tools will be created to manage your variable marketplace exchange rate.
 
-![](/Users/navarro/GitHub/Integration_Roadmaps/docs/source/tasks/media/Infrastructure_Description_v2/media/image1.png)
+![](media/Infrastructure_Description_v2/media/image2.png)
 
 ## Maintain infrastructure descriptions
 
