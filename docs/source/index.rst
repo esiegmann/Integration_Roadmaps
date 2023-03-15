@@ -10,7 +10,9 @@ Integration Roadmap Tracks
 
 .. toctree::
    :maxdepth: 1
+   :glob:
 
    Cloud </cloud/index>
    Compute </compute/index>
    Storage </storage/index>
+   All Roadmap Tasks </tasks/index>
