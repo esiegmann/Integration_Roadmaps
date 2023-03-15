@@ -8,15 +8,18 @@ PANDOC_DATADIR=${BASE}/pandoc_datadir
 # $1 = Input file
 # $2 = Target directory
 convert_file () {
-   echo "******"
-   echo "1=$1"
-   echo "2=$2"
+   #echo "******"
+   #echo "1=$1"
+   #echo "2=$2"
    TO_UNDER="${1// /_}"
    TO_FILE="${TO_UNDER/.docx/.md}"
+   TO_BASE="${TO_FILE%.*}"
    MY_CMD=${PANDOC_CMD[@]}
    echo "${MY_CMD[@]}"
-   echo pandoc --verbose --standalone --data-dir "${PANDOC_DATADIR}" --from docx --to markdown "$1" -o "$2/${TO_FILE}"
-   pandoc --verbose --standalone --data-dir "${PANDOC_DATADIR}" --from docx --to markdown "$1" -o "$2/${TO_FILE}"
+   mkdir $2/media/${TO_BASE}
+   echo pandoc --verbose --standalone --data-dir "${PANDOC_DATADIR}" --extract-media "$2/media/${TO_BASE}" --wrap none  --from docx --to commonmark-raw_html "$1" -o "$2/${TO_FILE}"
+   #pandoc --verbose --standalone --data-dir "${PANDOC_DATADIR}" --extract-media "." --wrap none --from docx --to commonmark-raw_html "$1" -o "$2/${TO_FILE}"
+   pandoc --verbose --standalone --data-dir "${PANDOC_DATADIR}" --extract-media "$2/media/${TO_BASE}" --wrap none --from docx --to commonmark-raw_html "$1" -o "$2/${TO_FILE}"
    if [ $? -ne 0 ]; then
       echo "*** Failed: ${CMD}"
       exit $?

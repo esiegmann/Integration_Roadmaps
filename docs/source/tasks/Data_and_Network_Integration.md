@@ -1,130 +1,106 @@
----
-subtitle: "[]{#_30j0zll .anchor}Integration Roadmap Task"
-title: "[]{#_gjdgxs .anchor}Data & Network Integration"
----
+# Data and Network Integration
 
-### Task Type(s): Coordination, Technology, Support Start by phase: Integration Complete by phase: Operations, Ongoing RP role(s): Data storage, networking, and sysadmin contact(s)
+Infrastructure Integration Roadmap Task
 
-# Summary
+**Task Type(s)**: Coordination, Technology, Support  
+**Start by phase**: Integration  
+**Complete by phase**: Operations, Ongoing  
+**RP role(s)**: Data storage, networking, and sysadmin contact(s)
 
-Meeting data transfer requirements requires an understanding of storage
-system, application requirements, and site network connectivity. While
-available data transfer options are determined by site preferences,
-ACCESS network engineers and data transfer specialists will continue to
-facilitate those options by: 1) offering a Globus subscription through
-at least Project Year 1 (ending 31-Aug-2023); 2) identifying,
-evaluating, and encouraging the use of promising data transfer
-applications; and 3) consulting with sites upon request to help them
-tackle data transfer application and infrastructure challenges.
+## Summary
 
-# Prerequisite tasks
+Meeting data transfer requirements requires an understanding of storage system, application requirements, and site network connectivity. While available data transfer options are determined by site preferences, ACCESS Networking and Data Transfer Services (NDTS) network engineers and data transfer specialists will continue to facilitate those options by: 1) offering a Globus subscription through at least Project Year 1 (ending 31-Aug-2023); 2) identifying, evaluating, and encouraging the use of promising data transfer applications; and 3) consulting with sites upon request to help them tackle data transfer application and infrastructure challenges.
 
-# None
+## Prerequisite tasks
 
-# Support Information
+None
 
-For assistance with this task see the *Support Information* section in
-the *Integration Roadmap Description*.
+## Support Information
 
-# Detailed Instructions
+For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
 
-## Planning
+## Detailed Instructions
 
-# To help in planning for adequate data movement and networking capability, consider the following:
+### Understand your requirements
 
-### Storage and file transfer applications:
+To help in planning for adequate data movement and networking capability, the following aspects of your resource, cyberinfrastructure, and applications should be considered.
 
-1.  What part(s) of your resource needs to be accessible for data
-    > transfer into and/or out of your site?
+#### Storage and file transfer applications
 
-2.  For bulk data transfer (datasets in \~100GB range and larger on
-    > ACCESS CONECTnet):
+1.  What part(s) of your resource needs to be accessible for data transfer into and/or out of your site?
 
-    a.  Describe your storage system characteristics, types, and
-        > partitions
+    1.  The RP should identify what resources it wishes to make available over CONECTnet. Ideally these are just “ACCESS resources”, probably including a perfSONAR network performance measurement server. However, it is not inappropriate to include the entire Science DMZ.
 
-        i.  POSIX filesystems are currently the norm in ACCESS, but some
-            > new resources have other storage---tape archives, object
-            > stores, cloud storage---so please think about which
-            > should/should not be available for ACCESS data transfer.
-            > Are any of these parallel/high-performance filesystems,
-            > such as HPSS, Lustre, or GPFS?
+2.  For bulk data transfer (datasets in ~100GB range and larger on ACCESS CONECTnet):
 
-    b.  Do you have a throughput goal for data transfers?
+    1.  Describe your storage system characteristics, types, and partitions
 
-    c.  What transfer throughput do you anticipate your ACCESS users
-        > will need in order to accomplish their research objectives?
+        1.  POSIX filesystems are currently the norm in ACCESS, but some new resources have other storage—tape archives, object stores, cloud storage—so please think about which should/should not be available for ACCESS data transfer. Are any of these parallel/high-performance filesystems, such as HPSS, Lustre, or GPFS?
 
-    d.  Does your site have a [[Science
-        > DMZ]{.underline}](https://fasterdata.es.net/science-dmz/) for
-        > supporting bulk data transfer?
+    2.  Do you have a throughput goal for data transfers?
 
-3.  Other than bulk data transfer, does your resource provide
-    > applications that have particular network throughput requirement
-    > characteristics, e.g., real-time streaming data, interactive,
-    > streaming video, etc?
+    3.  What transfer throughput do you anticipate your ACCESS users will need in order to accomplish their research objectives?
 
-4.  Do any of these applications require special network features (e.g.,
-    > QoS, reservations)?
+    4.  Does your site have a [*Science DMZ*](https://fasterdata.es.net/science-dmz/) for supporting bulk data transfer?
 
-5.  Does your site currently, or are you willing to, host a network
-    > performance monitor (perfSONAR) to help ACCESS monitor and
-    > diagnose end-to-end network behaviors?
+3.  Other than bulk data transfer, does your resource provide applications that have particular network throughput requirement characteristics, e.g., real-time streaming data, interactive, streaming video, etc?
 
-### Network connectivity:
+4.  Do any of these applications require special network features (e.g., QoS, reservations)?
 
-1.  Who is your site's wide area connectivity provider?
+5.  Does your site currently, or are you willing to, host a network performance monitor (perfSONAR) to help ACCESS monitor and diagnose end-to-end network behaviors?
 
-    a.  High performance 'research and education' provider (e.g.,
-        > Internet2, ESnet)
+### B. Data and networking survey and consultation
 
-    b.  Commodity (e.g., Comcast, Charter, Verizon, AT&T)
+The ACCESS ecosystem offers a Layer3 VPN (L3VPN) provisioned on Internet2 (CONECTnet) to provide connectivity between RPs. Participation in CONECTnet provides valuable performance metrics collection/reporting as well as availability statistics and error reporting. NDTS will be working with Internet2 to identify and expand the available metrics in an effort to increase our visibility and understanding of the types and volumes of traffic traversing CONECTnet.
 
-2.  What is your site's WAN connection speed?
+1.  Please contact the NDTS team [*t3-ndts@access-ci.org*](mailto:t3-ndts@access-ci.org) to inform us that you intend to connect to CONECTnet
 
-3.  What is the typical utilization of your site's WAN connection?
+2.  We will send you a link to a [*network connectivity survey*](https://docs.google.com/document/d/1FcOGuXC-5vj05lirU8noc_ZWNldSoLiVSWtcZS_S54o/edit?usp=sharing). Your responses are valuable to help us understand your site’s connectivity and data transfer priorities.
 
-4.  What is your resource's connectivity, and how much of that do you
-    > think will be needed for "typical" ACCESS uses?)
+3.  When you complete the survey we will schedule a consultation to review the information and follow up on any questions.
 
-5.  DNS
+### C. Network connectivity - WAN connection
 
-Connectivity via the CONECTnet L3VPN on Internet2 is an option for
-ACCESS RPs and provides valuable performance metrics collection and
-reporting and....
+#### To integrate with CONECTnet follow these steps:
 
-## Data Transfer
+1.  The RP should identify a router (RP router) “suitably close” to their ACCESS resources. The definition of “suitably close” is very site specific. Members of the NDTS team are available to help with this determination.
 
-The supported file transfer applications for ACCESS are currently scp,
-sftp, rsync, and Globus. scp, sftp, and rsync are commonly used file
-transfer applications. Other than verifying that the servers are running
-(system administrators) and accessible (network engineers for site
-firewalls; system administrators for IPtables, firewalld, etc.), these
-applications likely will not require special configuration and
-management for use by ACCESS participants.
+2.  The RP, possibly in conjunction with their campus and/or Internet2 connector (i.e., their regional network provider), needs to configure a VLAN from the RP router to the interface on the router that peers with Internet2. Note the VLAN tag value. Jumbo frames (9000-octet IP MTU) **should**[1] be supported by the devices in the VLAN.
 
-Globus requires specific system, application, and (potentially) hardware
-configuration. Please see the ACCESS CONECT document [*[Deploy Globus
-Endpoint]{.underline}*](https://docs.google.com/document/d/19xv0ahgH8m4pFsu5LabYdOVSaNjmB6Ja1Q7I7cc_dM8/edit?usp=sharing)
-for detailed guidance.
+3.  The RP (or its campus or Internet2 connector) needs to set an ACL in OESS to allow access by the CONECT workgroup.
 
-For connection to the CONECTnet L3VPN, please coordinate with the ACCESS
-[[Networking & Data Transfer Services
-Team]{.underline}](mailto:t3-ndts@access-ci.org). You may refer to L3VPN
-integration documentation prepared by FIU as an example of the
-integration process.
+4.  The RP needs to pick IP addresses for the point-to-point connection between the RP router and the Internet2 router. Either public or private (ULA/RFC 1918) addresses will work, as will any convenient prefix length (for example, PSC and NCSA both use /127 and /31). Clearly, IPv4 needs to be configured; IPv6 is optional but recommended.
 
-# Document Management
+5.  The RP now needs to pass along to the CONECT NDTS group the IP address block(s) for the point-to-point connection (indicating which addresses are for the RP end and which are for the Internet2 end), along with the VLAN tag and an autonomous system number (ASN; either public or private) for BGP peering. Optionally, a password for BGP peering can be specified, as can the desire to use BFD (bidirectional forwarding detection).
 
-  -----------------------------------------------------------------------
-  Status           Draft
-  ---------------- ------------------------------------------------------
-  Official date    \<mm/dd/yyyy\>
+6.  The CONECT NDTS group will provision the connection on the CONECTnet L3VPN.
 
-  Retired date     
+7.  The RP can now bring up BGP peering. Note that no prefix filtering is done on the network.
 
-  Coordinators     Kathy Benninger
+8.  If the RP wishes to configure connections to multiple Internet2 routers, the above steps can be repeated for each connection. The RP is responsible for any traffic engineering (eg, local preference or MED).
 
-  Last revised     2/15/2023
-  date             
-  -----------------------------------------------------------------------
+9.  The RP…
+
+### D. Network Performance Measurement 
+
+(will add text pointers to existing perfSonar documentation)
+
+### E. Data Transfer
+
+The supported file transfer applications for ACCESS are currently scp, sftp, rsync, and Globus. scp, sftp, and rsync are commonly used file transfer applications. Other than verifying that the servers are running (system administrators) and accessible (network engineers for site firewalls; system administrators for IPtables, firewalld, etc.), these applications likely will not require special configuration and management for use by ACCESS participants.
+
+Globus requires specific system, application, and (potentially) hardware configuration. Please see the ACCESS CONECT document [**Deploy Globus Endpoint**](https://docs.google.com/document/d/19xv0ahgH8m4pFsu5LabYdOVSaNjmB6Ja1Q7I7cc_dM8/edit?usp=sharing) for detailed guidance.
+
+## Document Management
+
+**Status**: Draft
+
+**Official date**: \<mm/dd/yyyy\>
+
+**Coordinators**: Kathy Benninger, ACCESS Operations
+
+**Last revised date**: 3/11/2023
+
+**Retired date**:
+
+[1] If jumbo frames are not configured, Path MTU Discovery must be enabled across the end-to-end path.
