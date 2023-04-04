@@ -18,15 +18,15 @@ Operators planning to integrate storage into ACCESS with this roadmap should con
 
 Operators must perform the Required Tasks below and may perform the Optional Tasks below.
 
-See related Roadmap Task Timeline. **\*NEEDS TO BE CREATED\***
+See related [*Roadmap Task Timeline*](https://docs.google.com/presentation/d/1YUe7jamdhExo7TtouwidGs7V4opsgUWL1o8XLxc3ejk/edit?usp=share_link).
 
-This roadmap refactors and replaces the [*ACCESS Allocated Production Compute/Storage/Cloud v1*](https://docs.google.com/document/d/1VUTa5DOz27B6wobZZwh6gh6dcXWD30rpYovoLZ1nwqk) roadmap. Operators that completed that roadmap only need to complete corresponding tasks that were not completed in the prior roadmap. This roadmap does not introduce any new tasks.
+This roadmap refactors and replaces the [*ACCESS Allocated Production Compute/Storage/Cloud v1*](https://docs.google.com/document/d/1VUTa5DOz27B6wobZZwh6gh6dcXWD30rpYovoLZ1nwqk) roadmap. Operators that completed that roadmap only need to complete corresponding tasks that were not completed in the prior roadmap.
 
 Please track RP integration progress in [*this spreadsheet*](https://docs.google.com/spreadsheets/d/1ejgGUU-IVLEhTIXX3pmCNBSJ2e0yXwXxPpgZ2RHwM4Q/). **\*NEEDS UPDATING\***
 
 ## Support Information
 
-Resource providers needing assistance with roadmap activities may submit a ticket using the [*Support Portal ticket form*](https://support.access-ci.org/open-a-ticket). Indicate that you are requesting “ACCESS resource integration help” and indicate which task/activity you need help with.
+Resource providers needing assistance with roadmap tasks may submit an *ACCESS Integration and Operation Support Request* using instructions on [*this page*](https://operations.access-ci.org/help). Pick the *ACCESS Operations Issue Type* that best matches your request, or the catch-all “*ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps*“ issue type. If you need to talk to someone please contact your assigned Concierge Integration Expert, or the ACCESS Operations Resource Provider Coordinator.
 
 For interactive Slack discussion join the RP-ACCESS \#integration-roadmaps channel:
 
@@ -44,7 +44,7 @@ General [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1Oje
 
 ## Required Tasks
 
-1.  [*ACCESS Allocated Resource Integration Coordination v1*](https://docs.google.com/document/d/1BRxGZ1c41Cexeck-th4ph3jJgqfJ7exs7glwTZQeDMg/edit?usp=share_link)
+1.  [*ACCESS Allocated Resource Integration Coordination v1*](https://docs.google.com/document/d/1BRxGZ1c41Cexeck-th4ph3jJgqfJ7exs7glwTZQeDMg/edit?usp=share_link) (NEW)
 
 2.  [*Infrastructure Description v2*](https://docs.google.com/document/d/17vqEoF5lM_eZwBCzkjGwcqkMCiKAOpmfCJWJTGsE42k/edit?usp=share_link)
 
@@ -76,15 +76,15 @@ General [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1Oje
 
 ## Optional Tasks
 
-1.  [*ACCESS DNS Entries v1*](https://docs.google.com/document/d/1NhhdiJGZngdpqOMEQrssZXSnDmASQXeQp9ttJPwdQOs/edit?usp=share_link)
+1.  [*ACCESS DNS Entries v1*](https://docs.google.com/document/d/1NhhdiJGZngdpqOMEQrssZXSnDmASQXeQp9ttJPwdQOs/edit?usp=share_link) (NEW)
 
-2.  [*Local Service ACCESS IAM Integration v1*](https://docs.google.com/document/d/18GuqHLCj4oxtxt5bsqP_ICw5vMvXM0LQWqc_nLNO8MM/edit?usp=share_link)
+2.  [*Local Service ACCESS IAM Integration v1*](https://docs.google.com/document/d/18GuqHLCj4oxtxt5bsqP_ICw5vMvXM0LQWqc_nLNO8MM/edit?usp=share_link) (NEW)
 
 3.  [*Request RP or Site Staff Allocation v1*](https://docs.google.com/document/d/1GaHU-7cA3bOFwMvwh3s-Ic9535ncfW741HGnxKFCIOc/edit?usp=share_link)
 
 ## Document Management
 
-**Status**: Draf
+**Status**: Draft
 
 **Official date**: 2/1/2023
 

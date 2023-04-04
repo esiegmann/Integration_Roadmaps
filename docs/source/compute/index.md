@@ -4,7 +4,7 @@
 
 ## Infrastructure Type(s)
 
-This roadmap integrates a high-performance computing “HPC” cluster ([*https://en.wikipedia.org/wiki/High-performance_computing*](https://en.wikipedia.org/wiki/High-performance_computing)). Researchers typically use HPC clusters by logging in to front-end nodes where they install application software and run jobs under a batch scheduler. Science gateways, workflow engines and other software tools may perform these actions on the researchers behalf. Jobs may run entirely in the background reading input data and generating output data, may use interactive or steared input, and may generate live or streamed visual output.
+This roadmap integrates a high-performance computing “HPC” cluster ([*https://en.wikipedia.org/wiki/High-performance_computing*](https://en.wikipedia.org/wiki/High-performance_computing)). Researchers typically use HPC clusters by logging in to front-end nodes where they install application software and run jobs under a batch scheduler. Science gateways, workflow engines and other software tools may perform these actions on the researchers' behalf. Jobs may run entirely in the background reading input data and generating output data, may use interactive or steered input, and may generate live or streamed visual output.
 
 ## Summary
 
@@ -20,13 +20,13 @@ Operators must perform the Required Tasks below and may perform the Optional Tas
 
 See related [*Roadmap Task Timeline*](https://docs.google.com/presentation/d/1Vtt-Rvwa2ZVRp61A9g80MyisZ748lK1o_46Xt7-6Fq0/).
 
-This roadmap refactors and replaces the [*ACCESS Allocated Production Compute/Storage/Cloud v1*](https://docs.google.com/document/d/1VUTa5DOz27B6wobZZwh6gh6dcXWD30rpYovoLZ1nwqk) roadmap. Operators that completed the older roadmap only need to complete corresponding tasks that were not completed in the prior roadmap. This roadmap does not introduce new integration requirements.
+This roadmap refactors and replaces the [*ACCESS Allocated Production Compute/Storage/Cloud v1*](https://docs.google.com/document/d/1VUTa5DOz27B6wobZZwh6gh6dcXWD30rpYovoLZ1nwqk) roadmap. Operators that completed the older roadmap only need to complete corresponding tasks that were not completed in the prior roadmap.
 
 Please track RP integration progress in [*this spreadsheet*](https://docs.google.com/spreadsheets/d/1ejgGUU-IVLEhTIXX3pmCNBSJ2e0yXwXxPpgZ2RHwM4Q/). **\*NEEDS UPDATING\***
 
 ## Support Information
 
-Resource providers needing assistance with roadmap tasks may submit a ticket using the [*Support Portal ticket form*](https://support.access-ci.org/open-a-ticket). Indicate that you are requesting “ACCESS resource integration help” and indicate which task/activity you need help with. If you need to talk to someone please contact your assigned Concierge Integration Expert, or the ACCESS Operations Resource Provider Coordinator.
+Resource providers needing assistance with roadmap tasks may submit an *ACCESS Integration and Operation Support Request* using instructions on [*this page*](https://operations.access-ci.org/help). Pick the *ACCESS Operations Issue Type* that best matches your request, or the catch-all “*ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps*“ issue type. If you need to talk to someone please contact your assigned Concierge Integration Expert, or the ACCESS Operations Resource Provider Coordinator.
 
 For interactive Slack discussion join the RP-ACCESS \#integration-roadmaps channel:
 
@@ -44,7 +44,7 @@ General [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1Oje
 
 ## Required Tasks
 
-1.  [*ACCESS Allocated Resource Integration Coordination v1*](https://docs.google.com/document/d/1BRxGZ1c41Cexeck-th4ph3jJgqfJ7exs7glwTZQeDMg/edit?usp=share_link)
+1.  [*ACCESS Allocated Resource Integration Coordination v1*](https://docs.google.com/document/d/1BRxGZ1c41Cexeck-th4ph3jJgqfJ7exs7glwTZQeDMg/edit?usp=share_link) (NEW)
 
 2.  [*Infrastructure Description v2*](https://docs.google.com/document/d/17vqEoF5lM_eZwBCzkjGwcqkMCiKAOpmfCJWJTGsE42k/edit?usp=share_link)
 
@@ -78,11 +78,11 @@ General [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1Oje
 
 ## Optional Tasks
 
-1.  [*ACCESS DNS Entries v1*](https://docs.google.com/document/d/1NhhdiJGZngdpqOMEQrssZXSnDmASQXeQp9ttJPwdQOs/edit?usp=share_link)
+1.  [*ACCESS DNS Entries v1*](https://docs.google.com/document/d/1NhhdiJGZngdpqOMEQrssZXSnDmASQXeQp9ttJPwdQOs/edit?usp=share_link) (NEW)
 
-2.  [*Local Service ACCESS IAM Integration v1*](https://docs.google.com/document/d/1LPjLip2snJBK_mHIOgstlTo3Fi2nYBT1A8avklTRlo0/edit?usp=share_link)
+2.  [*Local Service ACCESS IAM Integration v1*](https://docs.google.com/document/d/1LPjLip2snJBK_mHIOgstlTo3Fi2nYBT1A8avklTRlo0/edit?usp=share_link) (NEW)
 
-3.  [*ACCESS OnDemand Portal Integration v1*](https://docs.google.com/document/d/1H3NWzS1uBCpcKZCMc7-omFsvVb1jG8AkFxN2Xju6xS8/edit?usp=share_link)
+3.  [*ACCESS OnDemand Portal Integration v1*](https://docs.google.com/document/d/1H3NWzS1uBCpcKZCMc7-omFsvVb1jG8AkFxN2Xju6xS8/edit?usp=share_link) (NEW)
 
 4.  [*Request RP or Site Staff Allocation v1*](https://docs.google.com/document/d/1GaHU-7cA3bOFwMvwh3s-Ic9535ncfW741HGnxKFCIOc/edit?usp=share_link)
 

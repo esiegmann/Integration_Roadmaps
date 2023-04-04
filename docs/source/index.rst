@@ -15,4 +15,5 @@ Integration Roadmap Tracks
    Cloud </cloud/index>
    Compute </compute/index>
    Storage </storage/index>
+   Science Gateway </gateway/index>
    All Roadmap Tasks </tasks/index>
