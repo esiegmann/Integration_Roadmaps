@@ -8,10 +8,10 @@ ACCESS Integration Roadmaps Documentation
 Storage Roadmaps
 ****************
 
-- :doc:`ACCESS Allocated Production Storage v2 <storage/ACCESS_Allocated_Production_Storage_v2_-_Integration_Roadmap_Description.md>`
+- :doc:`ACCESS Allocated Production Storage v2 </storage/ACCESS_Allocated_Production_Storage_v2_-_Integration_Roadmap_Description>`
 
 .. toctree::
    :maxdepth: 1
    :glob:
 
-   /storage/ACCESS_Allocated_Production_Storage_v2_-_Integration_Roadmap_Description.md
+   ACCESS_Allocated_Production_Storage_v2_-_Integration_Roadmap_Description

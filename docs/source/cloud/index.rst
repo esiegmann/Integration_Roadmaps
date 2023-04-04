@@ -8,10 +8,10 @@ ACCESS Integration Roadmaps Documentation
 Cloud Roadmaps
 **************
 
-- :doc:`ACCESS Allocated Production Cloud v2 <cloud/ACCESS_Allocated_Production_Cloud_v2_-_Integration_Roadmap_Description.md>`
+- :doc:`ACCESS Allocated Production Cloud v2 </cloud/ACCESS_Allocated_Production_Cloud_v2_-_Integration_Roadmap_Description>`
 
 .. toctree::
    :maxdepth: 1
    :glob:
 
-   /cloud/ACCESS_Allocated_Production_Cloud_v2_-_Integration_Roadmap_Description
+   ACCESS_Allocated_Production_Cloud_v2_-_Integration_Roadmap_Description
