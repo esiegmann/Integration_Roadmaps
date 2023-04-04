@@ -19,7 +19,9 @@ AIRTG meetings occur weekly and take less than 30 minutes.
 
 ## Prerequisite tasks
 
-Familiarity with [*Cybersecurity Requirements for RPs v1*](https://docs.google.com/document/d/1LrfJcgixn-sDuIxZOk47ddoZpCYgwabhWAZYoKOB2TI/edit#)
+- [*Cybersecurity Requirements for RPs v1*](https://docs.google.com/document/d/1LrfJcgixn-sDuIxZOk47ddoZpCYgwabhWAZYoKOB2TI/edit#)
+
+- [*Cybersecurity Governance Council Participation v1*](https://docs.google.com/document/d/1hHdN7bISae4caa6lryA5ps2b16uOY7QyEzYsVFYCs8c/edit#)
 
 ## Support Information
 

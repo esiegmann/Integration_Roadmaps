@@ -1,31 +1,37 @@
-# Infrastructure Description v2
+# Infrastructure Description v1
 
 Infrastructure Integration Roadmap Task
 
 **Task Type(s)**: Coordination  
 **Start by phase**: Integration  
 **Complete by phase**: Ongoing  
-**RP role(s)**: Resource Integration Coordinator, Documentation and knowledge base contact(s),
+**RP role(s)**: Resource integration coordinator(s), Documentation and knowledge base contact(s), System administrator(s)
 
 ## Summary
 
-ACCESS infrastructure that is visible to researchers, resource providers, developers, other ACCESS awardees, or the broader community must be described. ACCESS resource providers, ACCESS projects, and other ACCESS affiliated online service providers (i.e. science gateways, etc.) enter basic information about their organization and then describe the infrastructure that they operate in the Cyberinfrastructure Description Repository (CiDeR). Audience relevant summaries of these descriptions are displayed in ACCESS websites.
+ACCESS resource providers, ACCESS projects, and other ACCESS affiliated online service providers (i.e. science gateways, etc.) enter basic information about their organization and then describe the infrastructure that they operate in the Cyberinfrastructure Description Repository (CiDeR). ACCESS infrastructure that is visible to researchers, resource providers, developers, other ACCESS awardees, or the broader community needs this description. Audience relevant filtered views of descriptions are displayed in different ACCESS websites.
 
-Initial setup involves resource integration coordinators gaining administrator access to CiDeR so they can authorize others in their organization to enter and maintain infrastructure descriptions. This task should take ~½ hour. Organization staff enter initial descriptions and maintain accurate infrastructure descriptions in CiDeR. This task should take ~1 hour/year per resource.
+### Effort
 
-This integration task replaces and improves the [*Infrastructure Description v1 task*](https://docs.google.com/document/d/1RJCEFLL1vjSOo-plBRK67qwTePXahbvsuZVoGOlYTFg). Operators that completed the v1 task already completed this task.
+Initial setup:
+
+- Organization PI, technical manager, or designee submits organization information and identifies their CiDeR administrator(s) (~1/2 hour)
+
+- Organization CiDeR administrator authorizes other organization staff to enter and maintain infrastructure descriptions in CiDeR (~10 minutes)
+
+Ongoing activities:
+
+- Organization staff enter and maintain accurate infrastructure descriptions in CiDeR (~1 hour/year per resource)
 
 ## Prerequisite tasks
 
 None
 
-## Support Information
-
-For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
-
 ## Detailed Instructions
 
-Organization staff access CiDeR at [*https://cider.access-ci.org/login*](https://cider.access-ci.org/login).
+CiDeR is an evolutionary improvement of the XSEDE Resource Description Repository “RDR”. XSEDE hostnames and project references and the name RDR will be replaced by ACCESS and CiDeR during program year 1.
+
+CiDeR is available at: [*https://cider.access-ci.org/login*](https://cider.access-ci.org/login)
 
 ### Initial CiDeR Setup
 
@@ -49,15 +55,15 @@ Submit a ticket with the Subject “New CiDeR Organization: at [*https://support
 
   - City, State, and Country
 
-- The ACCESS usernames of individuals that will be CiDeR administrators for their organization. These individuals will be able to grant other individuals access to maintain infrastructure descriptions. A single individual can be the CiDeR administrator and the person entering and maintaining descriptions.
+- The XSEDE/ACCESS usernames of individuals that will be CiDeR administrators for their organization. These individuals will be able to grant other individuals access to maintain infrastructure descriptions. A single individual can be the CiDeR administrator and the person entering and maintaining descriptions.
 
 Submitted organization information will be entered by a CiDeR in a form as shown below and used to grant access to CiDeR administrators.
 
-![](/Users/navarro/GitHub/Integration_Roadmaps/docs/source/tasks/media/Infrastructure_Description_v2/media/image1.png)
+![](/Users/navarro/GitHub/Integration_Roadmaps/docs/source/tasks/media/Infrastructure_Description_v1/media/image2.png)
 
 ### Provide CiDeR access to other organization staff
 
-The resource integration coordinator grants other organization staff access to enter and maintain infrastructure descriptions:
+The CiDeR administrator may grant other organization staff access to enter and maintain descriptions:
 
 - Select “Service Providers” or “Organizations” along the top.
 
@@ -83,19 +89,17 @@ Steps:
 
 - Select a “Resource Type” at the bottom of the screen and “Create Resource”
 
-- Enter as much information as possible in this second form and at least the minimum requested information listed in the table below:
-
-[TABLE]
+- Enter as much information as possible in this second form
 
 ### Enter Resource Conversion Factors
 
-Skip this section if you resource is not ACCESS allocated
+If you resource is not ACCESS allocated, skip this section.
 
 Page 16 of the CiDeR/RDR Manual has instructions for entering a “conversion factor”. This is the NU conversion factor of your resource, divided by 21.576. This will be used to compute your initial marketplace exchange rate. **For most compute resources, you should NOT change the conversion factor that you already have listed.  
   
 **In a later stage of ACCESS, additional tools will be created to manage your variable marketplace exchange rate.
 
-![](/Users/navarro/GitHub/Integration_Roadmaps/docs/source/tasks/media/Infrastructure_Description_v2/media/image2.png)
+![](/Users/navarro/GitHub/Integration_Roadmaps/docs/source/tasks/media/Infrastructure_Description_v1/media/image1.png)
 
 ### Maintain infrastructure descriptions
 
@@ -105,10 +109,10 @@ Information in CiDeR should be kept up to date, and reviewed for accuracy at lea
 
 **Status**: Official
 
-**Official date**: 2/15/2023
+**Official date**: 03/15/2023
 
 **Coordinators**: JP Navarro, ACCESS Operations; Nathan Tolbert, ACCESS Allocations
 
-**Last revised date**: 2/3/2023
+**Last revised date**: 03/07/2023
 
 **Retired date**:

@@ -3,7 +3,7 @@
 Infrastructure Integration Roadmap Task
 
 **Task Type(s)**: Coordination  
-**Start by phase**: Integration  
+**Start by phase**: Planning  
 **Complete by phase**: Ongoing  
 **RP role(s)**: Cybersecurity and incident response contact(s)
 
@@ -19,7 +19,7 @@ Bi-weekly meetings transitioning to monthly meetings lasting 30min-1hour.
 
 ## Prerequisite tasks
 
-- [*Cybersecurity Requirements for RPs v1*](https://docs.google.com/document/d/1LrfJcgixn-sDuIxZOk47ddoZpCYgwabhWAZYoKOB2TI/edit#)
+Familiarity with [*Cybersecurity Requirements for RPs v1*](https://docs.google.com/document/d/1LrfJcgixn-sDuIxZOk47ddoZpCYgwabhWAZYoKOB2TI/edit#)
 
 ## Support Information
 

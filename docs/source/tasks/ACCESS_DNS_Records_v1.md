@@ -9,7 +9,7 @@ Infrastructure Integration Roadmap Task
 
 ## Summary
 
-\<Summarizes the purpose or goal for the task, who performs the task, and approximate effort. If this task replaces or upgrades one or more other tasks, provide references to those tasks and summarize significant new or changed elements.\>
+ACCESS Operations manages the access-ci.org DNS domain and sub-domains. ACCESS projects, integrated resources, and central service may request DNS entries and DNS subdomains for their ACCESS integrated infrastructure.
 
 ## Prerequisite tasks
 
@@ -19,20 +19,18 @@ None
 
 For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
 
-\<REPLACE the above boilerplate sentence if you want a different operator support process for this task\>
-
 ## Detailed Instructions
 
-\<Detailed task instructions that may include separate sections for both one-time / setup tasks and ongoing or recurring activities. Explain the roles that will perform this task an approximate effort required.\>
+ACCESS projects, integrated resources, and central service operators may request DNS entries or DNS subdomains by submitting a ticket using a Subject that starts with “ACCESS DNS entries for …” using the [*Support Portal ticket form*](https://support.access-ci.org/open-a-ticket). On the ticket form please select “Not related to a resource” (since your request is to ACCESS Operations and not to a resource operator), select “No” for allocations related, and the “Operations Services” category.
 
 ## Document Management
 
-**Status**: {Draft, Official, Retired}
+**Status**: Draft
 
-**Official date**: \<mm/dd/yyyy\>
+**Official date**: 04/01/2023
 
-**Coordinators**: \<name\>, \<ACCESS project\>
+**Coordinators**: Kathy Benninger and Matthew Kollross, ACCESS Operations
 
-**Last revised date**: \<mm/dd/yyyy\>
+**Last revised date**: 03/15/2023
 
 **Retired date**: \<mm/dd/yyyy\> or blank

@@ -2,14 +2,14 @@
 
 Infrastructure Integration Roadmap Task
 
-**Task Type(s)**: Coordination, Technology, Support  
+**Task Type(s)**: Technology, Support  
 **Start by phase**: Integration  
 **Complete by phase**: Operations, Ongoing  
 **RP role(s)**: Data storage, networking, and sysadmin contact(s)
 
 ## Summary
 
-Meeting data transfer requirements requires an understanding of storage system, application requirements, and site network connectivity. While available data transfer options are determined by site preferences, ACCESS Networking and Data Transfer Services (NDTS) network engineers and data transfer specialists will continue to facilitate those options by: 1) offering a Globus subscription through at least Project Year 1 (ending 31-Aug-2023); 2) identifying, evaluating, and encouraging the use of promising data transfer applications; and 3) consulting with sites upon request to help them tackle data transfer application and infrastructure challenges.
+Meeting data transfer requirements requires an understanding of storage system, application requirements, and site network connectivity. While available data transfer options are determined by site preferences, ACCESS Networking and Data Transfer Services (NDTS) network engineers and data transfer specialists will continue to facilitate those options by: 1) offering a Globus subscription through at least Project Year 1 (ending 31-Aug-2023); 2) identifying, evaluating, and encouraging the use of promising data transfer applications; 3) providing the CONECTnet Internet2 overlay network to improve connectivity between RPs, and 4) consulting with sites upon request to help them tackle data transfer application and infrastructure challenges.
 
 ## Prerequisite tasks
 
@@ -49,17 +49,17 @@ To help in planning for adequate data movement and networking capability, the fo
 
 5.  Does your site currently, or are you willing to, host a network performance monitor (perfSONAR) to help ACCESS monitor and diagnose end-to-end network behaviors?
 
-### B. Data and networking survey and consultation
+### Data and networking survey and consultation
 
 The ACCESS ecosystem offers a Layer3 VPN (L3VPN) provisioned on Internet2 (CONECTnet) to provide connectivity between RPs. Participation in CONECTnet provides valuable performance metrics collection/reporting as well as availability statistics and error reporting. NDTS will be working with Internet2 to identify and expand the available metrics in an effort to increase our visibility and understanding of the types and volumes of traffic traversing CONECTnet.
 
-1.  Please contact the NDTS team [*t3-ndts@access-ci.org*](mailto:t3-ndts@access-ci.org) to inform us that you intend to connect to CONECTnet
+1.  Please contact the NDTS team t3-ndts@access-ci.org to inform us that you intend to connect to CONECTnet
 
-2.  We will send you a link to a [*network connectivity survey*](https://docs.google.com/document/d/1FcOGuXC-5vj05lirU8noc_ZWNldSoLiVSWtcZS_S54o/edit?usp=sharing). Your responses are valuable to help us understand your site’s connectivity and data transfer priorities.
+2.  We will send you a link to a network connectivity survey. Your responses are valuable to help us understand your site’s connectivity and data transfer priorities.
 
 3.  When you complete the survey we will schedule a consultation to review the information and follow up on any questions.
 
-### C. Network connectivity - WAN connection
+### Network Connectivity - WAN connections
 
 #### To integrate with CONECTnet follow these steps:
 
@@ -81,11 +81,11 @@ The ACCESS ecosystem offers a Layer3 VPN (L3VPN) provisioned on Internet2 (CONEC
 
 9.  The RP…
 
-### D. Network Performance Measurement 
+### Network Performance Measurement
 
 (will add text pointers to existing perfSonar documentation)
 
-### E. Data Transfer
+### Data Transfer
 
 The supported file transfer applications for ACCESS are currently scp, sftp, rsync, and Globus. scp, sftp, and rsync are commonly used file transfer applications. Other than verifying that the servers are running (system administrators) and accessible (network engineers for site firewalls; system administrators for IPtables, firewalld, etc.), these applications likely will not require special configuration and management for use by ACCESS participants.
 

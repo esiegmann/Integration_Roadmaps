@@ -57,9 +57,9 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Final
 
-**Official date**: \<mm/dd/yyyy\>
+**Official date**: 03/16/2023
 
 **Coordinators**: Gerald Byrket, ACCESS Support
 

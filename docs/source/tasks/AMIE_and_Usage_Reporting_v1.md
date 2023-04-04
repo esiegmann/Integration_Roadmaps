@@ -33,7 +33,7 @@ The RP will be expected to maintain a technical contact with the Allocations tea
 
 **Official date**: 1/23/2023
 
-**Coordinators**: Nathan Tolber &, Rob Light, ACCESS Allocations
+**Coordinators**: Nathan Tolber & Rob Light, ACCESS Allocations
 
 **Last revised date**: 1/23/2023
 

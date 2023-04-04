@@ -31,17 +31,17 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 Requirements for this review are driven by ACCESS community policies, listed below.
 
-1.  [***ACCESS Core Information Security Policy and Procedures***](https://docs.google.com/document/d/1h8w1E9Z2yrXAoBGtCVGH6MxF3rRBKz0uQOBUJ58Jt6M/edit)
+1.  [*ACCESS Core Information Security Policy and Procedures*](https://docs.google.com/document/d/1h8w1E9Z2yrXAoBGtCVGH6MxF3rRBKz0uQOBUJ58Jt6M/edit)
 
 2.  [*ACCESS Vulnerability Management Policy*](https://docs.google.com/document/d/1ehpsijz97ag_WGwT8fb0E3KC3tDNXruWAytuvB3TFMY/edit)
 
-3.  ACCESS Training and Awareness Policy
+3.  ACCESS Training and Awareness Policy (Under Development)
 
-4.  ACCESS Identity and Access Management Policy
+4.  ACCESS Identity and Access Management Policy (Under Development)
 
-5.  ACCESS Information Classification Policy
+5.  ACCESS Information Classification Policy (Under Development)
 
-6.  ACCESS Disaster Recovery Policy
+6.  ACCESS Disaster Recovery Policy (Under Development)
 
 7.  [*ACCESS Privacy Policy*](https://docs.google.com/document/d/1jo-Sl5P9m0Xwyd6d1Ntqf4Wtefw5nlYBBgrst9SfAXM/edit)
 
