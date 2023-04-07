@@ -20,19 +20,17 @@ Operators must perform the Required Tasks below and may perform the Optional Tas
 
 ## Support Information
 
-Science gateway providers needing assistance with roadmap tasks may submit an ACCESS Integration and Operation Support using instructions on [*this page*](https://operations.access-ci.org/help). Pick the ACCESS Operations Issue Type that best matches your request, or the catch all “ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps” issue type. If you need to talk to someone please contact your assigned Concierge Integration Expert, or the ACCESS Operations Resource Provider Coordinator.
+**Submit a Request**: Science gateway providers needing assistance with integration tasks can submit an *ACCESS Integration and Operation Support Request* using instructions on [*this page*](https://operations.access-ci.org/help). Pick an “*ACCESS Operations Issue Type*” that best matches your request, or the catch-all issue type “*ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps*“.
 
-For interactive Slack discussion join the RP-ACCESS \#integration-roadmaps channel:
+**Slack Discussion**: ACCESS has a Slack channel for infrastructure operators and ACCESS to discuss integration topics. For access submit a request to be invited to the ***RP-ACCESS \#integration-roadmaps*** Slack channel.
 
-- [*https://rpaccesscommu-wyz4369.slack.com/archives/C03SRHDSUE4*](https://rpaccesscommu-wyz4369.slack.com/archives/C03SRHDSUE4)
+**By Weekly Meetings**: ACCESS holds a Zoom meeting every second Friday from 11:00 AM to Noon Central for infrastructure operators and ACCESS to discuss integration topics. To obtain Zoom coordinates submit a request for the **RP and ACCESS Roadmaps** Zoom meeting coordinates.
 
-Standing RP and ACCESS resource integration meeting
+**Integration Consultants**: ACCESS integrated science gateway providers have a *Concierge Integration Expert* consultant available for one-on-one integration support.
 
-- Every second Friday 11:00 AM to Noon Central
+**Documentation**:
 
-- [*https://uchicago.zoom.us/j/91086055483?pwd=aU1sUVM2c2ltMVZTRHdPeCtBZWVvQT09*](https://uchicago.zoom.us/j/91086055483?pwd=aU1sUVM2c2ltMVZTRHdPeCtBZWVvQT09)
-
-General [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1OjeT6r01mdOIa4pq1VE0L5ocRPfqdXFp9QsADjdqrjE/) slides.
+- [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1OjeT6r01mdOIa4pq1VE0L5ocRPfqdXFp9QsADjdqrjE/) slides
 
 ## Required Tasks
 

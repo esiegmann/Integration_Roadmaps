@@ -5,7 +5,7 @@ Infrastructure Integration Roadmap Task
 **Task Type(s)**: Technology  
 **Start by phase**: Planning  
 **Complete by phase**: Operations  
-**RP role(s)**: {list RP role(s) involved in this task}
+**RP role(s)**: Data and networking contact, System administrator
 
 ## Summary
 

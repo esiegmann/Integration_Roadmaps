@@ -9,7 +9,7 @@ Infrastructure Integration Roadmap Task
 
 ## Summary
 
-![](media/Deploy_Globus_Endpoint_v1/media/image1.png)
+![](/Users/navarro/GitHub/Integration_Roadmaps/docs/source/tasks/media/Deploy_Globus_Endpoint_v1/media/image1.png)
 
 A Globus endpoint connects a system to Globus and enables authorized researchers (members of an allocated project team) to transfer data to and from it using Globus. During the last two years of XSEDE, hundreds of researchers used Globus to transfer data to and from XSEDE resources as a part of their projects. A single transfer request may involve a single file or a million files. Individual requests were commonly 100 GB or more and frequently 1 TB or more. Requests of 10 TB or more happened daily. The other end of the data transfer may be a personal system, a campus system (hundreds of campuses have multi-user Globus endpoints and encourage their researchers to use them), or another HPC system (hundreds of national-scale service providers, e.g., DOE or non-US systems, have Globus endpoints). Globus enables researchers to perform transfers at these scales and is broadly available on the systems where research data is used.
 
