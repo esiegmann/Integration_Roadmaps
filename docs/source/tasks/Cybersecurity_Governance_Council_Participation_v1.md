@@ -15,7 +15,7 @@ Membership in the CGC will consist of a representative from each RP and Track an
 
 ### Effort
 
-Bi-weekly meetings transitioning to monthly meetings lasting 30min-1hour.
+Bi-weekly meetings transitioning to monthly meetings lasting 30/min to 1/hour.
 
 ## Prerequisite tasks
 

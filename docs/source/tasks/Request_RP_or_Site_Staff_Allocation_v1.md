@@ -9,7 +9,7 @@ Infrastructure Integration Roadmap Task
 
 ## Summary
 
-RPs may request a site/staff allocation via ACCESS, to use for supporting and testing the ACCESS allocation workflow
+RPs may request a site/staff allocation via ACCESS, to use for supporting and testing the ACCESS allocation workflow.
 
 ## Prerequisite tasks
 

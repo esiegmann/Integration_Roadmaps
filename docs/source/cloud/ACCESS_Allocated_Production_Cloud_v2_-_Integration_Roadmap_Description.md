@@ -26,21 +26,19 @@ Please track RP integration progress in [*this spreadsheet*](https://docs.google
 
 ## Support Information
 
-Resource providers needing assistance with roadmap tasks may submit an *ACCESS Integration and Operation Support Request* using instructions on [*this page*](https://operations.access-ci.org/help). Pick the *ACCESS Operations Issue Type* that best matches your request, or the catch-all “*ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps*“ issue type. If you need to talk to someone please contact your assigned Concierge Integration Expert, or the ACCESS Operations Resource Provider Coordinator.
+**Submit a Request**: Resource providers needing assistance with integration tasks can submit an *ACCESS Integration and Operation Support Request* using instructions on [*this page*](https://operations.access-ci.org/help). Pick an “*ACCESS Operations Issue Type*” that best matches your request, or the catch-all issue type “*ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps*“.
 
-For interactive Slack discussion join the RP-ACCESS \#integration-roadmaps channel:
+**Slack Discussion**: ACCESS has a Slack channel for infrastructure operators and ACCESS to discuss integration topics. For access submit a request to be invited to the ***RP-ACCESS \#integration-roadmaps*** Slack channel.
 
-- [*https://rpaccesscommu-wyz4369.slack.com/archives/C03SRHDSUE4*](https://rpaccesscommu-wyz4369.slack.com/archives/C03SRHDSUE4)
+**By Weekly Meetings**: ACCESS holds a Zoom meeting every second Friday from 11:00 AM to Noon Central for infrastructure operators and ACCESS to discuss integration topics. To obtain Zoom coordinates submit a request for the **RP and ACCESS Roadmaps** Zoom meeting coordinates.
 
-Standing RP and ACCESS Roadmaps meeting
+**Integration Consultants**: ACCESS allocated resource providers and some other types of infrastructure operators have a *Concierge Integration Expert* consultant available for one-on-one integration support.
 
-- Every second Friday 11:00 AM to Noon Central
+**Documentation**:
 
-- [*https://uchicago.zoom.us/j/91086055483?pwd=aU1sUVM2c2ltMVZTRHdPeCtBZWVvQT09*](https://uchicago.zoom.us/j/91086055483?pwd=aU1sUVM2c2ltMVZTRHdPeCtBZWVvQT09)
+- [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1OjeT6r01mdOIa4pq1VE0L5ocRPfqdXFp9QsADjdqrjE/) slides
 
-General [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1OjeT6r01mdOIa4pq1VE0L5ocRPfqdXFp9QsADjdqrjE/) slides.
-
-[*ACCESS RP Roadmaps FAQ*](https://docs.google.com/document/d/1VwYROB7sh4X_Tqvi_4XIkYD-jffBS4UykS6gEJesuQE/).
+- [*ACCESS RP Roadmaps FAQ*](https://docs.google.com/document/d/1VwYROB7sh4X_Tqvi_4XIkYD-jffBS4UykS6gEJesuQE/)
 
 ## Required Tasks
 
@@ -54,7 +52,7 @@ General [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1Oje
 
 5.  [*ACCESS Allocation Policies v1*](https://docs.google.com/document/d/1_tdPDLq2FVg6nWUTYAI2Z-LbnlNGdSG3TKAh0d0zZ1I/edit?usp=share_link)
 
-6.  [*MATCH Knowledge Base v1*](https://docs.google.com/document/d/1kyhV84JyeL5AdLsqKkdyyeGw6jOuQMZOSCSKNMnfpM8/edit?usp=share_link)
+6.  [*Knowledge Base v1*](https://docs.google.com/document/d/1kyhV84JyeL5AdLsqKkdyyeGw6jOuQMZOSCSKNMnfpM8/edit?usp=share_link)
 
 7.  [*RP Forum Participation v1*](https://docs.google.com/document/d/1azoPUgl7NhY0WyxQsIWOW77Lp_lOqiEiukWHiizMbvI/edit?usp=share_link)
 
@@ -84,10 +82,10 @@ General [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1Oje
 
 **Status**: Draft
 
-**Official date**: 2/1/2023
+**Official date**: 4/10/2023
 
 **Coordinators**: Chris Martin, ACCESS Operations
 
-**Last revised date**: 1/17/2023
+**Last revised date**: 4/7/2023
 
 **Retired date**:
