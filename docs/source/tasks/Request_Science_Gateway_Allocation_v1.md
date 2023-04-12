@@ -9,7 +9,7 @@ Infrastructure Integration Roadmap Task
 
 ## Summary
 
-A science gateway provider needs to have an active allocation for their science gateway.
+A science gateway provider needs to have an active allocation for their science gateway. This can be done before or after the [*Science Gateway Description v1*](https://docs.google.com/document/d/10shxQ6PallP6EIzFyL8_08cbKzzDvcqg_gVS6-Iv4lQ/) tasks have been completed.
 
 ## Prerequisite tasks
 

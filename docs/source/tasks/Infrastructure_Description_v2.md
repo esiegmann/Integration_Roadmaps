@@ -53,7 +53,7 @@ Submit an *Integration and Operations Request* from [*this page*](https://operat
 
 Submitted organization information will be entered by a CiDeR administrator in a form as shown below and used to grant access to CiDeR administrators.
 
-![](media/Infrastructure_Description_v2/media/image2.png)
+![](media/Infrastructure_Description_v2/media/image1.png)
 
 ### Provide CiDeR access to other organization staff
 
@@ -99,7 +99,7 @@ Page 16 of the CiDeR Manual has instructions for entering a “conversion factor
   
 **In a later stage of ACCESS, additional tools will be created to manage your variable marketplace exchange rate.
 
-![](media/Infrastructure_Description_v2/media/image1.png)
+![](media/Infrastructure_Description_v2/media/image2.png)
 
 ### Maintain infrastructure descriptions
 

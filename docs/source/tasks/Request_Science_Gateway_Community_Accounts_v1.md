@@ -21,7 +21,7 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 ## Detailed Instructions
 
-Community accounts are UNIX accounts on ACCESS resource providers that can be used by a science gateway’s users through the science gateway’s user or programming interface. Science gateway providers request community accounts as part of the registration process. Accounts are created by ACCESS internal mechanisms.
+Community accounts are UNIX accounts on ACCESS resource providers that can be used by a science gateway’s users through the science gateway’s user or programming interface. Science gateway providers request community accounts in individual ticket requests directed to the ACCESS Resources Providers, the ACCESS Integration Coordinator assigned can help make these requsts.
 
 The science gateway provider should confirm that the community accounts are created and accessible. It may take hours to days for accounts to be created after registration.
 
