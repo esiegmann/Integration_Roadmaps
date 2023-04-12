@@ -13,7 +13,7 @@ Science gateways that execute jobs on ACCESS resource provider resources report 
 
 ## Prerequisite tasks
 
-1.  The gateway must have an allocation and a community account. See “Science Gateway Community Accounts”.
+1.  The gateway must have an allocation and a community account. See [*Request Science Gateway Community Accounts v1*](https://docs.google.com/document/d/1UbY_gqOFPTf_ncVAOqHMMIgN5Q5dq2CenbjQ1mGWRHE/).
 
 ## Support Information
 
