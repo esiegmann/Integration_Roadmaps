@@ -19,7 +19,7 @@ Bi-weekly meetings transitioning to monthly meetings lasting 30/min to 1/hour.
 
 ## Prerequisite tasks
 
-- [*Cybersecurity Requirements for RPs v1*](https://docs.google.com/document/d/1LrfJcgixn-sDuIxZOk47ddoZpCYgwabhWAZYoKOB2TI/edit#)
+- [*Cybersecurity Requirements for RPs v1*](Cybersecurity_Requirements_for_RPs_v1.md)
 
 ## Support Information
 

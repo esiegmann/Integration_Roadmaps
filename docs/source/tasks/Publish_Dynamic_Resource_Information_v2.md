@@ -13,7 +13,7 @@ This task involves installing and running the Information Publishing Framework (
 
 ## Prerequisite tasks
 
-1.  [*Infrastructure Description v2*](https://docs.google.com/document/d/17vqEoF5lM_eZwBCzkjGwcqkMCiKAOpmfCJWJTGsE42k/edit?usp=share_link)
+1.  [*Infrastructure Description v2*](Infrastructure_Description_v2.md)
 
 ## Support Information
 

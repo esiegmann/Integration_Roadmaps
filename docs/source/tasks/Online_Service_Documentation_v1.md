@@ -13,7 +13,7 @@ The purpose of this task is to ensure that the online service operator provides 
 
 ## Prerequisite tasks
 
-- [*Resource Description V2*](https://docs.google.com/document/d/1khvZ7QiwKoVDJy0lEq429M7a9sQXBXzTfWoYsUafqVc/)
+- [*Resource Description V2*](Infrastructure_Description_v2.md)
 
 ## Support Information
 
@@ -33,7 +33,7 @@ Online services may provide documentation through one of the following ACCESS co
 
 - ACCESS Documentation / Knowledge Base - for services used by ACCESS users
 
-  - See the [*Knowledge Base integration task*](https://docs.google.com/document/d/1kyhV84JyeL5AdLsqKkdyyeGw6jOuQMZOSCSKNMnfpM8/edit?usp=share_link)
+  - See the [*Knowledge Base integration task*](Knowledge_Base_v1.md)
 
 - If a separate workspace may be appropriate, contact the ACO to discuss and request it
 
@@ -45,7 +45,7 @@ Online services with their own web sites may publish their documentation through
 
 ### Describing where documentation is
 
-See the [*Infrastructure Description task*](https://docs.google.com/document/d/17vqEoF5lM_eZwBCzkjGwcqkMCiKAOpmfCJWJTGsE42k/edit?usp=share_link) for how to record the documentation URL in the CiDeR online service description.
+See the [*Infrastructure Description task*](Infrastructure_Description_v2.md) for how to record the documentation URL in the CiDeR online service description.
 
 ## Document Management
 

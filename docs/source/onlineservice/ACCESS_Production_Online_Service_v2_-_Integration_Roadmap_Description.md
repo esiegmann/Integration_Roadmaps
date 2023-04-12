@@ -28,29 +28,29 @@ See related [*Roadmap Task Timeline*](https://docs.google.com/presentation/d/1GI
 
 ## Required Tasks
 
-1.  [*Infrastructure Description v2*](https://docs.google.com/document/d/17vqEoF5lM_eZwBCzkjGwcqkMCiKAOpmfCJWJTGsE42k/edit?usp=share_link)
+1.  [*Infrastructure Description v2*](../tasks/Infrastructure_Description_v2.md)
 
-2.  [*Cybersecurity Requirements for ACCESS Services v1*](https://docs.google.com/document/d/1mBPL4Y6bzn7jSZNMAJ05vhHbue_xVx5QFVOEG3CNV3Q/)
+2.  [*Cybersecurity Requirements for ACCESS Services v1*](../tasks/Cybersecurity_Requirements_for_ACCESS_Services_v1.md)
 
-3.  [*Cybersecurity Governance Council Participation v1*](https://docs.google.com/document/d/1hHdN7bISae4caa6lryA5ps2b16uOY7QyEzYsVFYCs8c/edit?usp=share_link)
+3.  [*Cybersecurity Governance Council Participation v1*](../tasks/Cybersecurity_Governance_Council_Participation_v1.md)
 
-4.  [*Online Service Documentation v1*](https://docs.google.com/document/d/1lKVw4sPI2HiAYeM6EgtKUB5s9RHJGRMeHKqF6OKQyf4/)
+4.  [*Online Service Documentation v1*](../tasks/Online_Service_Documentation_v1.md)
 
-5.  [*Incident Response and Coordination v1*](https://docs.google.com/document/d/1QVSZEt2GDdlhA-Sogl0YBrGGSaFvZFQPiBCWAvT3PbU/edit?usp=share_link)
+5.  [*Incident Response and Coordination v1*](../tasks/Incident_Response_and_Coordination_v1.md)
 
-6.  [*Ticket Handling v2*](https://docs.google.com/document/d/12Hl7GqqsAmA5cbmwJRHnb6fONVB1Ywhhf5E6yI0V8d0/edit?usp=share_link)
+6.  [*Ticket Handling v2*](../tasks/Ticket_Handling_v2.md)
 
-7.  [*Operational Status Communications v1*](https://docs.google.com/document/d/13Rc1fHQydSqfqYdIaFKKIbapenktOKSTxmgGqLpZ-uw/edit?usp=share_link)
+7.  [*Operational Status Communications v1*](../tasks/Operational_Status_Communications_v1.md)
 
 ## Optional Tasks
 
-1.  [*ACCESS DNS Records v1*](https://docs.google.com/document/d/1NhhdiJGZngdpqOMEQrssZXSnDmASQXeQp9ttJPwdQOs/edit?usp=share_link)
+1.  [*ACCESS DNS Records v1*](../tasks/ACCESS_DNS_Records_v1.md)
 
-2.  [*Service ACCESS IAM Integration v1*](https://docs.google.com/document/d/1LPjLip2snJBK_mHIOgstlTo3Fi2nYBT1A8avklTRlo0/edit?usp=share_link)
+2.  [*Service ACCESS IAM Integration v1*](../tasks/Local_Services_ACCESS_IAM_Integration_v1.md)
 
-3.  [*Request RP or Site Staff Allocation v1*](https://docs.google.com/document/d/1GaHU-7cA3bOFwMvwh3s-Ic9535ncfW741HGnxKFCIOc/edit?usp=share_link)
+3.  [*Request RP or Site Staff Allocation v1*](../tasks/Request_RP_or_Site_Staff_Allocation_v1.md)
 
-4.  [*Performance Data Reporting v1*](https://docs.google.com/document/d/1Tu3Z-3A-pUDmxs5iU1dtfBaReNSB7UkPLzWTErzST7c/edit?usp=share_link)
+4.  [*Performance Data Reporting v1*](../tasks/Performance_Data_Reporting_v1.md)
 
 ## Document Management
 

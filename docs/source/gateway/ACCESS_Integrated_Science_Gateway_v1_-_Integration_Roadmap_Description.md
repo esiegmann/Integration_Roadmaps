@@ -34,19 +34,19 @@ Operators must perform the Required Tasks below and may perform the Optional Tas
 
 ## Required Tasks
 
-1.  [*ACCESS Science Gateway Integration Coordination v1*](https://docs.google.com/document/d/14Zp9E1QGwztSv1G6i4ClR0QP0t2HMhOsjUcg0nuimes/)
+1.  [*ACCESS Science Gateway Integration Coordination v1*](../tasks/ACCESS_Science_Gateway_Integration_Coordination_v1.md)
 
-2.  [*Science Gateway Description v1*](https://docs.google.com/document/d/10shxQ6PallP6EIzFyL8_08cbKzzDvcqg_gVS6-Iv4lQ/)
+2.  [*Science Gateway Description v1*](../tasks/Science_Gateway_Description_v1.md)
 
-3.  [*Request Science Gateway Allocation v1*](https://docs.google.com/document/d/11kHQ17OjvRt8ZoRdriS1bn7-gbxCdCHNWZ9-gD60axg/)
+3.  [*Request Science Gateway Allocation v1*](../tasks/Request_Science_Gateway_Allocation_v1.md)
 
-4.  [*Request Science Gateway Resources v1*](https://docs.google.com/document/d/1hAEUJstG0y2bIndOuwaWe1uUa2CSfuLS0IWVEBRlNDg/)
+4.  [*Request Science Gateway Resources v1*](../tasks/Request_Science_Gateway_Resources_v1.md)
 
-5.  [*ACCESS Affinity Groups and Science Gateways v1*](https://docs.google.com/document/d/18lzzLrJRHZbLiOqLRveURxMW8Puu_K-NGC0oqm1rA2k/)
+5.  [*ACCESS Affinity Groups and Science Gateways v1*](../tasks/ACCESS_Affinity_Groups_and_Science_Gateways_v1.md)
 
-6.  [*Request Science Gateway Community Accounts v1*](https://docs.google.com/document/d/1UbY_gqOFPTf_ncVAOqHMMIgN5Q5dq2CenbjQ1mGWRHE/)
+6.  [*Request Science Gateway Community Accounts v1*](../tasks/Request_Science_Gateway_Community_Accounts_v1.md)
 
-7.  [*Science Gateway Usage Reporting v1*](https://docs.google.com/document/d/1uHomPNJ20jM2xatgxWSouTTo40iARR4SYHKQiYU6kB4/)
+7.  [*Science Gateway Usage Reporting v1*](../tasks/Science_Gateway_Usage_Reporting_v1.md)
 
 ## Optional Tasks
 
