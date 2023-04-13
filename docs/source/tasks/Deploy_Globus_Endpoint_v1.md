@@ -27,7 +27,13 @@ The following estimates assume starting from scratch. If you have already deploy
 
 The following assumes you have already acquired DTN servers with appropriate network interface(s) and memory, and network hardware with an appropriate topology for high-performance data transfers. Requirements for these should have been produced by roadmap task 2.1, *Data & Networking integration design*.
 
-[TABLE]
+| Task                                                                                   | Estimated effort/time                          |
+|----------------------------------------------------------------------------------------|------------------------------------------------|
+| Deploy DTN hardware with the required network connectivity                             | 1 person-day effort (1 week start-to-finish)   |
+| Provision local accounts on DTNs                                                       | 2 person-day effort (2 weeks start-to-finish)  |
+| Mount and configure POSIX storage on DTNs                                              | 1 person-day effort (½ week start-to-finish)   |
+| Install and configure Globus Connect Server on DTNs (inc. access policy configuration) | 1 person-day effort (1 week start-to-finish)   |
+| Evaluate and optimize performance                                                      | 1 person-week effort (3 weeks start-to-finish) |
 
 ## Prerequisite tasks
 

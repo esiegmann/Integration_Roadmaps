@@ -83,13 +83,25 @@ Steps:
 
 - Select Resource Features as follows:
 
-[TABLE]
+| Applicable Resource Type        | Features                                                                                                                                                                                                                                                                           |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Compute, Cloud, Storage         | Select from the following features:<br>- Sensitive data support<br>- Community software areas for users<br>- Visualization support<br>- Advanced reservation support<br>- Discounted preemptible queue support<br>- CONECTnet attached<br>- Internal resource not visible to users |
+| Compute, Cloud, Storage         | If your resource supports science gateways select features starting with “Science Gateway *”.                                                                                                                                                                                      |
+| Online Services                 | Select from the following features:<br>- ACCESS Online Services for users<br>- ACCESS Online Services for resource providers<br>- ACCESS Online Services for developers<br>- ACCESS Online Services for ACCESS projects                                                            |
+| Science Gateway Online Services | This feature designates a registered Online Service as a science gateway:<br>- ACCESS Integrated Science Gateways                                                                                                                                                                  |
 
 - Select a “Resource Type” at the bottom of the screen and “Create Resource”
 
 - For Compute, Cloud, and Storage type resources, enter as much information as possible in this second form and the following **minimum required information**:
 
-[TABLE]
+| Field Name      | Applicable Resource Type | Notes                                                                      |
+|-----------------|--------------------------|----------------------------------------------------------------------------|
+| NodeCount       | Compute, Cloud           | For cloud record the number of controller nodes.                           |
+| CPUCountPerNode | Compute, Cloud           | For heterogeneous clusters use the mean value per node                     |
+| MemoryPerCPUGB  | Compute, Cloud           | For heterogeneous clusters use the mean value per node                     |
+| PeakTeraflops   | Compute                  | Leave blank if unknown                                                     |
+| DiskSizeTB      | Compute                  | For heterogeneous clusters use the mean value per node                     |
+| FileSpaceTB     | Compute, Storage, Cloud  | Total amount of shared storage (network attached and parallel file-system) |
 
 ### Enter Resource Conversion Factors
 
