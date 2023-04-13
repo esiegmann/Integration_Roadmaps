@@ -13,7 +13,7 @@ Science gateway operators request that their awarded allocation credits be excha
 
 ## Prerequisite tasks
 
-1.  The science gateway operator must have an awarded allocation. See the document at [*Request Science Gateway Allocation v1*](https://docs.google.com/document/d/11kHQ17OjvRt8ZoRdriS1bn7-gbxCdCHNWZ9-gD60axg/). Depending on the size of the request, this could take days to weeks to complete.
+1.  The science gateway operator must have an awarded allocation. See the document at [*Request Science Gateway Allocation v1*](Request_Science_Gateway_Allocation_v1.md). Depending on the size of the request, this could take days to weeks to complete.
 
 ## Support Information
 

@@ -21,7 +21,7 @@ The following information should be available through CiDeR to ensure that your 
 
 ## Prerequisite tasks
 
-- [*Resource Description V2*](https://docs.google.com/document/d/1khvZ7QiwKoVDJy0lEq429M7a9sQXBXzTfWoYsUafqVc/)
+- [*Resource Description V2*](Infrastructure_Description_v2.md)
 
 ## Support Information
 

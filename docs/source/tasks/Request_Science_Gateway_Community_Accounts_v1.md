@@ -13,7 +13,7 @@ Science gateways use community accounts to provide single accounts for all gatew
 
 ## Prerequisite tasks
 
-1.  The gateway provider must have completed [*Science Gateways Description*](https://docs.google.com/document/d/10shxQ6PallP6EIzFyL8_08cbKzzDvcqg_gVS6-Iv4lQ/)
+1.  The gateway provider must have completed [*Science Gateways Description*](Science_Gateway_Description_v1.md)
 
 ## Support Information
 
