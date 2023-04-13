@@ -42,41 +42,41 @@ Please track RP integration progress in [*this spreadsheet*](https://docs.google
 
 ## Required Tasks
 
-1.  [*ACCESS Allocated Resource Integration Coordination v1*](https://docs.google.com/document/d/1BRxGZ1c41Cexeck-th4ph3jJgqfJ7exs7glwTZQeDMg/edit?usp=share_link) (NEW)
+1.  [*ACCESS Allocated Resource Integration Coordination v1*](../tasks/ACCESS_Allocated_Resource_Integration_Coordination_v1.md) (NEW)
 
-2.  [*Infrastructure Description v2*](https://docs.google.com/document/d/17vqEoF5lM_eZwBCzkjGwcqkMCiKAOpmfCJWJTGsE42k/edit?usp=share_link)
+2.  [*Infrastructure Description v2*](../tasks/Infrastructure_Description_v2.md)
 
-3.  [*Cybersecurity Requirements for RPs v1*](https://docs.google.com/document/d/1LrfJcgixn-sDuIxZOk47ddoZpCYgwabhWAZYoKOB2TI/edit?usp=share_link)
+3.  [*Cybersecurity Requirements for RPs v1*](../tasks/Cybersecurity_Requirements_for_RPs_v1.md)
 
-4.  [*Data and Network Integration v1*](https://docs.google.com/document/d/1IMOFizZUiXF1PcBR9qXKgQdNUQsVnio8AqcZ3mT74zc/edit?usp=share_link)
+4.  [*Data and Network Integration v1*](../tasks/Data_and_Network_Integration.md)
 
-5.  [*ACCESS Allocation Policies v1*](https://docs.google.com/document/d/1_tdPDLq2FVg6nWUTYAI2Z-LbnlNGdSG3TKAh0d0zZ1I/edit?usp=share_link)
+5.  [*ACCESS Allocation Policies v1*](../tasks/ACCESS_Allocation_Policies_v1.md)
 
-6.  [*Knowledge Base v1*](https://docs.google.com/document/d/1kyhV84JyeL5AdLsqKkdyyeGw6jOuQMZOSCSKNMnfpM8/edit?usp=share_link)
+6.  [*Knowledge Base v1*](../tasks/Knowledge_Base_v1.md)
 
-7.  [*RP Forum Participation v1*](https://docs.google.com/document/d/1azoPUgl7NhY0WyxQsIWOW77Lp_lOqiEiukWHiizMbvI/edit?usp=share_link)
+7.  [*RP Forum Participation v1*](../tasks/Resource_Provider_Forum_Participation_v1.md)
 
-8.  [*Cybersecurity Governance Council Participation v1*](https://docs.google.com/document/d/1hHdN7bISae4caa6lryA5ps2b16uOY7QyEzYsVFYCs8c/edit?usp=share_link)
+8.  [*Cybersecurity Governance Council Participation v1*](../tasks/Cybersecurity_Governance_Council_Participation_v1.md)
 
-9.  [*Resource Metrics Data Availability Assessment v1*](https://docs.google.com/document/d/12MNK2VggHD3JoySK4SgguHARMWJyc91EV2T1vY6Rf_8/edit?usp=share_link)
+9.  [*Resource Metrics Data Availability Assessment v1*](../tasks/Resource_Metrics_Data_Availability_Assessment_v1.md)
 
-10. [*Incident Response and Coordination v1*](https://docs.google.com/document/d/1QVSZEt2GDdlhA-Sogl0YBrGGSaFvZFQPiBCWAvT3PbU/edit?usp=share_link)
+10. [*Incident Response and Coordination v1*](../tasks/Incident_Response_and_Coordination_v1.md)
 
-11. [*Ticket Handling v2*](https://docs.google.com/document/d/12Hl7GqqsAmA5cbmwJRHnb6fONVB1Ywhhf5E6yI0V8d0/edit?usp=share_link)
+11. [*Ticket Handling v2*](../tasks/Ticket_Handling_v2.md)
 
-12. [*Operational Status Communications v1*](https://docs.google.com/document/d/13Rc1fHQydSqfqYdIaFKKIbapenktOKSTxmgGqLpZ-uw/edit?usp=share_link)
+12. [*Operational Status Communications v1*](../tasks/Operational_Status_Communications_v1.md)
 
-13. [*AMIE and Usage Reporting v1*](https://docs.google.com/document/d/1efCqnqVjHfGfzWSKq8kclB7FGfcq__1HhqbvnF0SeSs/edit?usp=share_link)
+13. [*AMIE and Usage Reporting v1*](../tasks/AMIE_and_Usage_Reporting_v1.md)
 
-14. [*Performance Data reporting v1*](https://docs.google.com/document/d/1Tu3Z-3A-pUDmxs5iU1dtfBaReNSB7UkPLzWTErzST7c/edit?usp=share_link)
+14. [*Performance Data reporting v1*](../tasks/Performance_Data_Reporting_v1.md)
 
 ## Optional Tasks
 
-1.  [*ACCESS DNS Entries v1*](https://docs.google.com/document/d/1NhhdiJGZngdpqOMEQrssZXSnDmASQXeQp9ttJPwdQOs/edit?usp=share_link) (NEW)
+1.  [*ACCESS DNS Entries v1*](../tasks/ACCESS_DNS_Records_v1.md) (NEW)
 
-2.  [*Local Service ACCESS IAM Integration v1*](https://docs.google.com/document/d/18GuqHLCj4oxtxt5bsqP_ICw5vMvXM0LQWqc_nLNO8MM/edit?usp=share_link) (NEW)
+2.  [*Local Service ACCESS IAM Integration v1*](../tasks/Local_Services_ACCESS_IAM_Integration_v1.md) (NEW)
 
-3.  [*Request RP or Site Staff Allocation v1*](https://docs.google.com/document/d/1GaHU-7cA3bOFwMvwh3s-Ic9535ncfW741HGnxKFCIOc/edit?usp=share_link)
+3.  [*Request RP or Site Staff Allocation v1*](../tasks/Request_RP_or_Site_Staff_Allocation_v1.md)
 
 ## Document Management
 
