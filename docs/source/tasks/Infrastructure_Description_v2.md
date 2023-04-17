@@ -33,8 +33,6 @@ Submit an *Integration and Operations Request* from [*this page*](https://operat
 
 - Organization logo URL or attached file
 
-&nbsp;
-
 - Organization public URL
 
 - Organization PI/director name
