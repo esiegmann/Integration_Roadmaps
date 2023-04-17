@@ -27,7 +27,7 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 ## Detailed Instructions
 
-Request membership to the CGC by emailing Alex Withers, [*alexw1@illinois.edu*](mailto:alexw1@illinois.edu)
+Request membership to the CGC via e-mail to Derek Simmel, [*dsimmel@psc.edu*](mailto:dsimmel@psc.edu)
 
 Participation from all members is vital to realize the security goals of ACCESS for its users and participants. As such, all CGC members agree to:
 
@@ -53,8 +53,8 @@ Additional links
 
 **Official date**: \<mm/dd/yyyy\>
 
-**Coordinators**: Alex Withers & Shane Filus, CONECT Cybersecurity Program
+**Coordinators**: Derek Simmel & Shane Filus, CONECT Cybersecurity Program
 
-**Last revised date**: 02/16/2023
+**Last revised date**: 04/16/2023
 
 **Retired date**:
