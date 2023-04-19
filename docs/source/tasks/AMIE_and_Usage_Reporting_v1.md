@@ -29,7 +29,7 @@ The RP will be expected to maintain a technical contact with the Allocations tea
 
 ## Document Management
 
-**Status**: Officia
+**Status**: Official
 
 **Official date**: 4/24/2023 1/23/2023
 
