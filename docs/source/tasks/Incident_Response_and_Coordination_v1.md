@@ -45,9 +45,9 @@ You will receive a response from ACCESS CONECT Cybersecurity Group indicating th
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: \<mm/dd/yyyy\>
+**Official date**: 4/24/2023 \<mm/dd/yyyy\>
 
 **Coordinators**: Alex Withers, CONECT Cybersecurity Program; Shane Filus, CONECT Cybersecurity Program
 

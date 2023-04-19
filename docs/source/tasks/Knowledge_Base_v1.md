@@ -49,9 +49,9 @@ Please submit events via the ASP Portal. This link will take you to a listing of
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: 01/27/2023
+**Official date**: 4/24/2023 01/27/2023
 
 **Coordinators**: Alana Romanella, ACCESS Support
 

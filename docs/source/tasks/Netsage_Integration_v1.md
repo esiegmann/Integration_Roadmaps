@@ -29,7 +29,7 @@ Information to deploy a docker container to collect flow data is available onlin
 
 **Status**: {Draft, Official, Retired}
 
-**Official date**: \<mm/dd/yyyy\>
+**Official date**: 4/24/2023 \<mm/dd/yyyy\>
 
 **Coordinators**: \<name\>, \<ACCESS project\>
 

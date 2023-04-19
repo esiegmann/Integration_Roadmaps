@@ -27,9 +27,9 @@ Install, configure, and run IPF per these instructions:
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: 2/15/2023
+**Official date**: 4/24/2023 2/15/2023
 
 **Coordinators**: Eric Blau & JP Navarro, ACCESS Operations
 

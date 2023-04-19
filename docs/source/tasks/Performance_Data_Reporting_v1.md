@@ -43,7 +43,7 @@ Option (3) can only be used if the resource supports ACCESS community accounts a
 
 **Status**: {Draft, Official, Retired}
 
-**Official date**: \<mm/dd/yyyy\>
+**Official date**: 4/24/2023 \<mm/dd/yyyy\>
 
 **Coordinators**: **\<name\>, \<ACCESS project\>**
 

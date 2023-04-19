@@ -93,9 +93,9 @@ Globus requires specific system, application, and (potentially) hardware configu
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: \<mm/dd/yyyy\>
+**Official date**: 4/24/2023 \<mm/dd/yyyy\>
 
 **Coordinators**: Kathy Benninger, ACCESS Operations
 
