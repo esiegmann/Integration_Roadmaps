@@ -54,9 +54,9 @@ See related [*Roadmap Task Timeline*](https://docs.google.com/presentation/d/1GI
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: 5/1/2023
+**Official date**: 4/24/2023 5/1/2023
 
 **Coordinators**: JP Navarro, ACCESS Operations
 

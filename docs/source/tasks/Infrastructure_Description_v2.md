@@ -119,7 +119,7 @@ Information in CiDeR must be kept up to date and reviewed for accuracy at least 
 
 **Status**: Official
 
-**Official date**: 2/15/2023
+**Official date**: 4/24/2023 2/15/2023
 
 **Coordinators**: JP Navarro, ACCESS Operations; Nathan Tolbert, ACCESS Allocations
 

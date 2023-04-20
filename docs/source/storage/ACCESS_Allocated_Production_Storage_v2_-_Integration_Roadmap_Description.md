@@ -82,9 +82,9 @@ Please track RP integration progress in [*this spreadsheet*](https://docs.google
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: 4/10/2023
+**Official date**: 4/24/2023 4/10/2023
 
 **Coordinators**: Lee Liming, ACCESS Operations
 

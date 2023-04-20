@@ -29,7 +29,7 @@ Instructions for entering resource information are specified in a later roadmap 
 
 **Status**: Official
 
-**Official date**: 1/23/2023
+**Official date**: 4/24/2023 1/23/2023
 
 **Coordinators**: Ken Hackworth, ACCESS Allocations
 

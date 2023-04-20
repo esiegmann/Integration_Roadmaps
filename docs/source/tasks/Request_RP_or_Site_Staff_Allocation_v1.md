@@ -51,9 +51,9 @@ To request a site/staff allocation for your site, follow the standard allocation
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: \<mm/dd/yyyy\>
+**Official date**: 4/24/2023 \<mm/dd/yyyy\>
 
 **Coordinators**: Nathan Tolber & Ken Hackworth, ACCESS Allocations
 

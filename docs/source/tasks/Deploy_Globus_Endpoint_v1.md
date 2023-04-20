@@ -107,7 +107,7 @@ To evaluate whether your endpoint is performing as expected or not, the simplest
 
 **Status**: Official
 
-**Official date**: 2/15/2023
+**Official date**: 4/24/2023 2/15/2023
 
 **Coordinators**: Lee Liming, ACCESS Operations
 
