@@ -92,14 +92,14 @@ Steps:
 
 - For Compute, Cloud, and Storage type resources, enter as much information as possible in this second form and the following **minimum required information**:
 
-| Field Name      | Applicable Resource Type | Notes                                                                      |
-|-----------------|--------------------------|----------------------------------------------------------------------------|
-| NodeCount       | Compute, Cloud           | For cloud record the number of controller nodes.                           |
-| CPUCountPerNode | Compute, Cloud           | For heterogeneous clusters use the mean value per node                     |
-| MemoryPerCPUGB  | Compute, Cloud           | For heterogeneous clusters use the mean value per node                     |
-| PeakTeraflops   | Compute                  | Leave blank if unknown                                                     |
-| DiskSizeTB      | Compute                  | For heterogeneous clusters use the mean value per node                     |
-| FileSpaceTB     | Compute, Storage, Cloud  | Total amount of shared storage (network attached and parallel file-system) |
+| Field Name                   | Applicable Resource Type | Notes                                                                      |
+|------------------------------|--------------------------|----------------------------------------------------------------------------|
+| Node Count                   | Compute, Cloud           | For cloud record the number of controller nodes.                           |
+| CPU Core Count Per Node      | Compute, Cloud           | For heterogeneous clusters use the mean value per node                     |
+| Memory Per CPU in GB         | Compute, Cloud           | For heterogeneous clusters use the mean value per node                     |
+| Local Storage per Node in GB | Compute                  | For heterogeneous clusters use the mean value per node                     |
+| Peak Teraflops               | Compute                  | Leave blank if unknown                                                     |
+| Disk Size in TB              | Compute, Storage, Cloud  | Total amount of shared storage (network attached and parallel file-system) |
 
 ### Enter Resource Conversion Factors
 
