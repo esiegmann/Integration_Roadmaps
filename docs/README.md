@@ -33,9 +33,16 @@ in case your issue was already reported.
 
 # Contribute
 
-TODO create contribute guidlines doc and link here
+TODO create contribute guidelines doc and link here
 
 We welcome contributions of any kind!
+
+## Preliminary Instructions
+
++ In a checkout branch or your own clone of this repository
++ Add or update files
+    + For example, to create a new task copy docs/source/tasks/Roadmap_Task_Template_2023-01.md to docs/source/tasks/NEW_TASK.md and update as appropriate
++ Commit your changes and generate a pull request in the main branch of this repository
 
 [documentation]: https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/
 [ACCESS main page]: https://access-ci.org/
