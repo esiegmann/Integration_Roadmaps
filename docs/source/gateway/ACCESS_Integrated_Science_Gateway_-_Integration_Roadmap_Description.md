@@ -1,4 +1,4 @@
-# ACCESS Integrated Science Gateway v1
+# ACCESS Integrated Science Gateway
 
 > Infrastructure Integration Roadmap Description
 

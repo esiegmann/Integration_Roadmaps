@@ -1,4 +1,4 @@
-# ACCESS Allocated Production Compute v2
+# ACCESS Allocated Production Compute
 
 > Infrastructure Integration Roadmap Description
 

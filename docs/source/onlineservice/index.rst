@@ -12,4 +12,4 @@ Online Services Roadmaps
    :maxdepth: 1
    :glob:
 
-   ACCESS_Production_Online_Service_v2_-_Integration_Roadmap_Description
+   ACCESS_Production_Online_Service_-_Integration_Roadmap_Description
