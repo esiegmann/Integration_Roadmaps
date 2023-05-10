@@ -1,4 +1,4 @@
-# ACCESS Production Online Service v2
+# ACCESS Production Online Service
 
 > Infrastructure Integration Roadmap Description
 

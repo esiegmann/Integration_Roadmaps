@@ -12,4 +12,4 @@ Science Gateway Roadmaps
    :maxdepth: 1
    :glob:
 
-   ACCESS_Integrated_Science_Gateway_v1_-_Integration_Roadmap_Description
+   ACCESS_Integrated_Science_Gateway_-_Integration_Roadmap_Description
