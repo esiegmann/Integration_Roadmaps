@@ -50,11 +50,9 @@ RPs who are designed as Allocations Contacts, who are responsible for reviewing 
     * Summarizes all resources currently available in the ACCESS ecosystem
     * The RP Allocation contact is responsible for contributing and reviewing the descriptions and associated content for each allocated resource (also through CiDeR)
 
-<span style="text-decoration:underline;">Contact Info: </span>
+## Contact Information
 
 The ACCESS Allocations staff can be contacted through the following mechanisms: 
-
-
 
 * [ACCESS Ticket System](https://support.access-ci.org/open-a-ticket)
     * For requesting assistance and access to resources listed above
@@ -63,11 +61,9 @@ The ACCESS Allocations staff can be contacted through the following mechanisms:
 * [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSdn-SXokNB_5s0r2SA_S9ZIZWZFlVPRD2OHepTH5HY2YND_zw/viewform)
     * For recommendations, requests, and feedback pertaining to ACCESS Allocation Services
 
-<span style="text-decoration:underline;">Other Helpful ACCESS Resources</span>
+## Other Helpful Resources 
 
 Some additional links that may be of benefit to RPs:
-
-
 
 * [Events & Trainings](https://support.access-ci.org/events)
     * Post upcoming events that the ACCESS ecosystem could benefit from
