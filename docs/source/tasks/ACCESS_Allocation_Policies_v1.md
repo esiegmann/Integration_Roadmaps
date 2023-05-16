@@ -9,7 +9,7 @@ Infrastructure Integration Roadmap Task
 
 ## Summary
 
-Resource Providers will need to have proper representation for Allocation questions, reviewing RP requests and provide guidance to both ACCESS Allocations staff and review panels.
+Resource Providers will need to have proper representation for Allocation questions, reviewing RP requests and provide guidance to both ACCESS Allocations staff and review panels. This document details required Integration Instructions, Operating Instructions, Contact Information, and other Helpful Resources for RPs functioning as Allocations Contacts. 
 
 ## Prerequisite tasks
 
