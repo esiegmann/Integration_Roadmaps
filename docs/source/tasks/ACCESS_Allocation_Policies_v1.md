@@ -56,7 +56,7 @@ The ACCESS Allocations staff can be contacted through the following mechanisms:
 
 * [ACCESS Ticket System](https://support.access-ci.org/open-a-ticket)
     * For requesting assistance and access to resources listed above
-* [Resource Provider Slack](rpaccesscommu-wyz4369.slack.com)
+* [Resource Provider Slack](https://rpaccesscommu-wyz4369.slack.com)
     * For general discussion with ACCESS staff and fellow RPs
 * [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSdn-SXokNB_5s0r2SA_S9ZIZWZFlVPRD2OHepTH5HY2YND_zw/viewform)
     * For recommendations, requests, and feedback pertaining to ACCESS Allocation Services
