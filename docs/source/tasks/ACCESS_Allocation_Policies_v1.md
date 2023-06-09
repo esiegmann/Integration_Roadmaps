@@ -17,15 +17,16 @@ None
 
 ## Support Information
 
-For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
+The ACCESS Allocations staff can be contacted through the following mechanisms: 
+
+* [ACCESS Ticket System](https://support.access-ci.org/open-a-ticket)
+    * For requesting assistance and access to resources listed above
+* [Resource Provider Slack](https://rpaccesscommu-wyz4369.slack.com)
+    * For general discussion with ACCESS staff and fellow RPs
+* [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSdn-SXokNB_5s0r2SA_S9ZIZWZFlVPRD2OHepTH5HY2YND_zw/viewform)
+    * For recommendations, requests, and feedback pertaining to ACCESS Allocation Services
 
 ## Detailed Instructions
-
-The Resource Provider must first identify an Allocations contact for each resource RP makes available for allocations via ACCESS. This contact(s) will work with Allocations and/or other ACCESS tracks to provide documentation/user guides for each of their resources. The contact will be the main liaison for Allocations as well as user community and review panels. RP contact will need to provide available resource information, review proposals of smaller Allocation requests. Contact will need to provide resource information for RDR of resource(s) and keep RDR updated for the life of resource(s). Email [*help@xsede.org*](mailto:help@xsede.org) with subject “Track 1 Roadmaps - allocations contact” or email [*hackwort@psc.edu*](mailto:hackwort@psc.edu) to provide contact details.  
-  
-Instructions for entering resource information are specified in a later roadmap step: [*Infrastructure Description*](Infrastructure_Description_v2.md)
-
-## Operating Instructions
 
 RPs who are designed as Allocations Contacts, who are responsible for reviewing requests for their resources and ensuring their site's documentation is up to date, are encouraged to utilize the following tools & resources to assist with their involvement in the Allocations process. Feedback related to this document (and ACCESS Allocation Services as a whole) is welcomed through our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdn-SXokNB_5s0r2SA_S9ZIZWZFlVPRD2OHepTH5HY2YND_zw/viewform). If you’re a new RP, please familiarize yourself with the tools and processes mentioned herein and reach out to Allocations staff for assistance. 
 
@@ -50,17 +51,6 @@ RPs who are designed as Allocations Contacts, who are responsible for reviewing 
     * Summarizes all resources currently available in the ACCESS ecosystem
     * The RP Allocation contact is responsible for contributing and reviewing the descriptions and associated content for each allocated resource (also through CiDeR)
 
-## Contact Information
-
-The ACCESS Allocations staff can be contacted through the following mechanisms: 
-
-* [ACCESS Ticket System](https://support.access-ci.org/open-a-ticket)
-    * For requesting assistance and access to resources listed above
-* [Resource Provider Slack](https://rpaccesscommu-wyz4369.slack.com)
-    * For general discussion with ACCESS staff and fellow RPs
-* [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSdn-SXokNB_5s0r2SA_S9ZIZWZFlVPRD2OHepTH5HY2YND_zw/viewform)
-    * For recommendations, requests, and feedback pertaining to ACCESS Allocation Services
-
 ## Other Helpful Resources 
 
 Some additional links that may be of benefit to RPs:
@@ -69,8 +59,6 @@ Some additional links that may be of benefit to RPs:
     * Post upcoming events that the ACCESS ecosystem could benefit from
 * [Outage Reporting](https://operations.access-ci.org/infrastructure_news) 
     * For your site’s resources 
-* [CIDeR](https://cider.access-ci.org/login) (Cyberinfrastructure Description Repository) 
-    * To update resource information 
 
 Thank you for providing your essential expertise and assistance to the ACCESS ecosystem! 
 
@@ -83,6 +71,6 @@ Thank you for providing your essential expertise and assistance to the ACCESS ec
 
 **Coordinators**: Ken Hackworth, ACCESS Allocations
 
-**Last revised date**: 1/23/2023
+**Last revised date**: 6/8/2023
 
 **Retired date**:
