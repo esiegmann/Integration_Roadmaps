@@ -23,15 +23,15 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 ### Initial Setup
 
-All staff responsible for posting infrastructure news must first login to the ACCESS Operations portal (https://operations.access-ci.org/) using the ACCESS CI identity provider or any other linked identity. This will automatically create their Operations Portal account.
+First, staff responsible for posting infrastructure news must have logged in once to the ACCESS Operations portal at [https://operations.access-ci.org/](https://operations.access-ci.org/) before they can be granted access.
 
-Next, the Resource Integration Coordinator must submit the names of staff responsible for posting infrastructure news. Staff that logged in per the previous paragraph will be granted Infrastructure News Editor permissions. Submit names by opening an ACCESS ticket using the [*Support Portal ticket form*](https://support.access-ci.org/open-a-ticket). Please use the “Not related to a resource” selector (since your resource may not be listed in the selector yet), select “No” for allocations related, the “Operations Services” category and enter into the Synopsis “ACCESS Operations Infrastructure News Editor access”. ACCESS Operations will grant your staff access to the news publishing function and reply letting you know.
+Next, the Resource Integration Coordinator must submit the names of staff that need permission to post infrastructure news by opening an Operations Request through the [*Operations Portal Help Page*](https://operations.access-ci.org/help). Please use the Request Title “ACCESS Operations Infrastructure News Editor access” and the ACCESS Operations Issue type "Operations: Portal". Staff that logged in per the previous paragraph will then be granted Infrastructure News Editor permissions.
 
 ### Recurring Activity - Status Communications
 
 Authorized staff can:
 
-- [*Post new Infrastructure News*](https://operations.access-ci.org/node/add/infrastructure_news)
+- [*Enter new infrastructure news*](https://operations.access-ci.org/infrastructure_news)
 
 End Date:
 
@@ -73,10 +73,10 @@ Under the “News” section.
 
 **Status**: Official
 
-**Official date**: 4/24/2023 2/15/2023
+**Official date**: 4/24/2023
 
 **Coordinators**: JP Navarro, ACCESS Operations
 
-**Last revised date**: 2/15/2023
+**Last revised date**: 6/8/2023
 
 **Retired date**:
