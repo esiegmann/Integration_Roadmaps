@@ -1,10 +1,6 @@
 ACCESS Integration Roadmaps Documentation
 =========================================
 
-.. warning::
-
-   This project is under active development.
-
 Integration Roadmap Tracks
 **************************
 
