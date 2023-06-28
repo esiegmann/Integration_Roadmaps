@@ -2,7 +2,7 @@
 
 # ACCESS Integration Roadmaps Documentation
 
-[Documentation][documentation] • [Getting help](#getting-help) • [Contribute](#contribute)
+[Documentation][documentation] • [Getting help](#getting-help) • [Contribute][contributing]
 
 </div>
 
@@ -33,7 +33,7 @@ in case your issue was already reported.
 
 # Contribute
 
-We welcome contributions of any kind (see the [Contribution Guidlines][contributing]!
+We welcome contributions of any kind (see the [Contribution Guidlines][contributing]!)
 
 [contributing]: https://github.com/access-ci-org/Integration_Roadmaps/tree/main/docs/contributing.md
 [documentation]: https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/
