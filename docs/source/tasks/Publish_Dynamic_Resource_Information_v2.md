@@ -23,16 +23,16 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 Install, configure, and run IPF per these instructions:
 
-- [*https://software.xsede.org/development/ipf-xsede/latest/*](https://software.xsede.org/development/ipf-xsede/latest/)
+- [*https://software.xsede.org/production/ipf/latest/*](https://software.xsede.org/production/ipf/latest/)
 
 ## Document Management
 
 **Status**: Official
 
-**Official date**: 4/24/2023 2/15/2023
+**Official date**: 4/24/2023
 
 **Coordinators**: Eric Blau & JP Navarro, ACCESS Operations
 
-**Last revised date**: 2/6/2023
+**Last revised date**: 7/3/2023
 
 **Retired date**:
