@@ -4,7 +4,9 @@ Make a New ACCESS Integration Roadmap
 If you want to integrate a cyberinfrastructure resource into the ACCESS ecosystem
 and no existing integration roadmap seems appropriate for your resources, you may
 want to propose a new ACCESS integration roadmap. This page explains the benefits
-of an integration roadmap and how to create a new one.
+of an integration roadmap and how to create a new one. At the end of this page,
+you'll find a link to begin the process of creating a new integration roadmap, but
+please review the information here first.
 
 **What does it mean to integrate a cyberinfrastructure resource with ACCESS?** For
 most resources, integration with ACCESS means participating in one or more of
@@ -16,13 +18,37 @@ An ACCESS integration roadmap details the ACCESS coordination services most appr
 for a specific kind of cyberinfastructure resource and the steps a resource provider
 must take to participate in them.
 
+Steps for Creating a New ACCESS Integration Roadmap
+***************************************************
+
+The rest of this guide will fill in the details, but here's an overview of the steps
+for creating a new ACCESS Integration Roadmap.
+
+1. Inform the ACCESS Infrastructure Integration Steering Committee (IISC) that you
+   are beginning to work on an integration roadmap for a new kind of ACCESS-integrated
+   cyberinfrastucture resource.
+2. Form a working group to help you identify the necessary pieces of the integration
+   roadmap.
+3. Draft the integration roadmap, by copying tasks from other roadmaps and defining
+   tasks specific to the new type of resource.
+4. Publish the new integration roadmap in ACCESS's integration roadmap library.
+5. Announce the new integration roadmap.
+
 Why Create a New ACCESS Integration Roadmap?
 ********************************************
 
 If you're adding the first resource of a type that has never been integrated with ACCESS before,
 there won't be an existing integration roadmap for you to follow. Creating a new roadmap
-will help you be sure to take advantage of the coordination services ACCESS has to offer and will
-give other resource providers a roadmap for adding their resources to ACCESS.
+offers the following benefits.
+
+1. It will help you take advantage of the coordination services ACCESS has to offer.
+   Once you decide which services will add value to your resource, the roadmap can help
+   you keep track of your progress as you work with each coordination service.
+2. It will give other resource providers a sensible roadmap for adding their resources
+   to ACCESS.
+3. As more resources like yours are added to ACCESS, researchers using these resources
+   will benefit from appropriate commonalities provided by the integration roadmap.
+   ACCESS-integrated resources will work in similar ways when it's helpful.
 
 If it isn't likely there will ever be other resources like yours in ACCESS, you can
 use the information below to plan your integration without actually creating an integration
@@ -44,6 +70,10 @@ integration.
   research projects. Resource providers can use this to recruit new and returning users for their
   resources. Researchers use this to gain access to additional resources for their research
   projects.
+- **CONECTnet:** Wide area network for efficient and resilient data transfer and novel
+  network applications across the ACCESS ecosystem. Resource providers benefit from
+  a high-performance, resilient network connection for their resources. Researchers
+  benefit from advanced network connectivity between ACCESS resources.
 - **ACCESS Coordinated User Support:** ACCESS-wide services for providing technical support to researchers.
   Researchers benefit from a single place to request help when using any ACCESS resource. Resource
   providers benefit from being able to collaborate with other ACCESS personnel on user support when
@@ -57,11 +87,27 @@ integration.
   Resource providers can use ACCESS IDs and authentication rather than maintaining local accounts
   and user credentials (passwords, keys).
 
-Form a Working Group to Develop an Integration Roadmap
-******************************************************
+Inform the ACCESS Infrastructure Integration Steering Committee (IISC)
+**********************************************************************
+
+After you've reviewed this guide and decided that you want to propose a new
+integration roadmap, the first step is to inform the Infrastructure Integration Steering
+Committee (IISC). The last section of this guide provides the link you can follow
+to formally notify the IISC.
+
+The IISC includes representatives of ACCESS's operations team and project management.
+Their main purpose is to make sure you have the resources you need to accomplish your
+objective. These resources include: ACCESS project contacts and introductions, documentation,
+and access to our shared Google Drive. A liaison from the IISC will contact you to review your plans and
+offer assistance. After meeting with you, the liaison will inform the ACCESS
+Executive Committee about your plan so they can prepare their project areas to
+provide the resources you'll need.
+
+Form a Working Group
+*******************************************************
 
 When creating a new ACCESS integration roadmap, it's important to get input from
-ACCESS service providers and---ideally---from other resource providers who are likely
+ACCESS service providers and---if possible---from other resource providers who are likely
 to follow the roadmap. A good way to get that input is to form a working group.
 ACCESS working groups allow stakeholders from the ACCESS projects and resources provider
 organizations to meet regularly to work together on a common goal. For example,
@@ -85,9 +131,11 @@ need representatives from the major ACCESS project areas and new or prospective 
 resource providers. *Deliverables* are concrete things the working group will produce,
 such as a new integration roadmap.
 
-When you have your charter document, get it reviewed by your project leadership to
-make certain you can work on it. Then, ask the ACCESS Executive Committee (EC) to
-review and approve the charter. <details>
+When you have your charter document, review it with your project leadership and make
+certain they approve of you working on it. Then, send a note to your IISC liaison (see previous
+section) so he or she can inform the ACCESS Executive Committee of the new working
+group. (The Executive Committee needs to know because you'll likely need representatives
+from their projects to participate as stakeholders in the working group.)
 
 Once your charter is approved, create a new folder for the working group within the
 `ACCESS Working Groups
@@ -179,7 +227,7 @@ community!
 
 As new resource providers use your integration roadmap, the ACCESS Operations team
 will collect feedback in support tickets and other channels. If changes are needed,
-they can be made through 
+they can be made through
 
 Announce a New Integration Roadmap
 ******************************************************
@@ -188,8 +236,8 @@ Your new ACCESS integration roadmap will only be useful if people know about it!
 recommend the following ways to let relevant people know about your roadmap.
 
 1. Post a link to it, including a brief blurb about what types of resources it's for,
-   on the ACCESS-CI slack server's #access-wide channel.
-2. Post the same announcement on the RP-ACCESS Communications slack server's #general
+   on the **ACCESS-CI** slack server's **#access-wide** channel.
+2. Post the same announcement on the **RP-ACCESS Communications** slack server's **#general**
    channel.
 3. Post a news item on the
    `ACCESS Infrastructure News <https://operations.access-ci.org/online_services/infrastructure_news>`_ publishing service. This will
@@ -198,3 +246,12 @@ recommend the following ways to let relevant people know about your roadmap.
 
 Get Started
 ******************************************************
+
+If you're ready to get started on a new ACCESS integration roadmap, the first step
+is to alert the ACCESS Infrastructure Integration Steering Committee that you're
+ready to get started. We use GitHub to coordinate this work, so please follow
+`this link <https://github.com/access-ci-org/Integration_Roadmaps/issues/new/choose>`_
+and then press the green
+"Get started" button next to "New ACCESS integration roadmap." Enter the requested
+information and then press "Submit new issue." The steering committee members will be
+alerted and you'll be contacted soon to discuss your plans.
