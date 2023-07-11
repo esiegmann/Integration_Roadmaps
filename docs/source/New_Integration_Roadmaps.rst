@@ -100,7 +100,7 @@ Their main purpose is to make sure you have the resources you need to accomplish
 objective. These resources include: ACCESS project contacts and introductions, documentation,
 and access to our shared Google Drive. A liaison from the IISC will contact you to review your plans and
 offer assistance. After meeting with you, the liaison will inform the ACCESS
-Executive Committee about your plan so they can prepare their project areas to
+Executive Council (EC) about your plan so they can prepare their project areas to
 provide the resources you'll need.
 
 Form a Working Group
@@ -227,7 +227,8 @@ community!
 
 As new resource providers use your integration roadmap, the ACCESS Operations team
 will collect feedback in support tickets and other channels. If changes are needed,
-they can be made through
+they can be made through the process outlined in the
+`Contributing guide <https://github.com/access-ci-org/Integration_Roadmaps/blob/main/docs/contributing.md>`_.
 
 Announce a New Integration Roadmap
 ******************************************************
