@@ -47,10 +47,10 @@ You will receive a response from ACCESS CONECT Cybersecurity Group indicating th
 
 **Status**: Official
 
-**Official date**: 4/24/2023 \<mm/dd/yyyy\>
+**Official date**: 4/24/2023
 
-**Coordinators**: Alex Withers, CONECT Cybersecurity Program; Shane Filus, CONECT Cybersecurity Program
+**Coordinators**: Derek Simmel & Shane Filus, CONECT Cybersecurity Program
 
-**Last revised date**: 02/16/2023
+**Last revised date**: 07/13/2023
 
-**Retired date**: \<mm/dd/yyyy\> or blank
+**Retired date**:
