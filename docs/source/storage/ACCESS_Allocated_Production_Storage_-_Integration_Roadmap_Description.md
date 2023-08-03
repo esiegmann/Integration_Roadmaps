@@ -60,17 +60,15 @@ Please track RP integration progress in [*this spreadsheet*](https://docs.google
 
 9.  [*Resource Metrics Data Availability Assessment v1*](../tasks/Resource_Metrics_Data_Availability_Assessment_v1.md)
 
-10. [*Deploy Globus Endpoint v1*](../tasks/Deploy_Globus_Endpoint_v1.md)
+10. [*Incident Response and Coordination v1*](../tasks/Incident_Response_and_Coordination_v1.md)
 
-11. [*Incident Response and Coordination v1*](../tasks/Incident_Response_and_Coordination_v1.md)
+11. [*Ticket Handling v2*](../tasks/Ticket_Handling_v2.md)
 
-12. [*Ticket Handling v2*](../tasks/Ticket_Handling_v2.md)
+12. [*Operational Status Communications v1*](../tasks/Operational_Status_Communications_v1.md)
 
-13. [*Operational Status Communications v1*](../tasks/Operational_Status_Communications_v1.md)
+13. [*AMIE and Usage Reporting v1*](../tasks/AMIE_and_Usage_Reporting_v1.md)
 
-14. [*AMIE and Usage Reporting v1*](../tasks/AMIE_and_Usage_Reporting_v1.md)
-
-15. [*Performance Data reporting v1*](../tasks/Performance_Data_Reporting_v1.md)
+14. [*Performance Data reporting v1*](../tasks/Performance_Data_Reporting_v1.md)
 
 ## Optional Tasks
 
@@ -79,6 +77,8 @@ Please track RP integration progress in [*this spreadsheet*](https://docs.google
 2.  [*Local Service ACCESS IAM Integration v1*](../tasks/Local_Services_ACCESS_IAM_Integration_v1.md) (NEW)
 
 3.  [*Request RP or Site Staff Allocation v1*](../tasks/Request_RP_or_Site_Staff_Allocation_v1.md)
+
+4. [*Deploy Globus Endpoint v1*](../tasks/Deploy_Globus_Endpoint_v1.md)
 
 ## Document Management
 
