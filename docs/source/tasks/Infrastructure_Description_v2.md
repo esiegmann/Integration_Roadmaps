@@ -101,12 +101,28 @@ Steps:
 | Peak Teraflops               | Compute                  | Leave blank if unknown                                                     |
 | Disk Size in TB              | Compute, Storage, Cloud  | Total amount of shared storage (network attached and parallel file-system) |
 
+**Tips for storage resource providers:** The following topics are particularly helpful
+in your storage resource description.
+* Intended use - Some storage resources are intended to be used only in conjunction
+  with a specific compute resource, while others are intended to be used without
+  any associated computing. Your intended use statement should clearly state which
+  of these is true for your resource.
+* Backup policy - If your storage resource isn't backed up, it's best to note that
+  in as many places as possible! This is a good place to clearly state the backup policy.
+* Additional allocation requirement - If your storage resource may only be allocated
+  in conjunction with another resource (compute, cloud), it's helpful to clearly state
+  that requirement in the resource description.
+* Variation from standard allocation rates - Most ACCESS storage resources have an
+  exchange rate of one ACCESS allocation credit to one resource unit, and one resource
+  unit to 1 GB of storage. If your resource has a different rate, please state that
+  clearly in the resource description.
+
 ### Enter Resource Conversion Factors
 
-Skip this section if your resource is not ACCESS allocated .
+Skip this section if your resource is not ACCESS allocated.
 
 Page 16 of the CiDeR Manual has instructions for entering a “conversion factor”. This is the NU conversion factor of your resource, divided by 21.576. This will be used to compute your initial marketplace exchange rate. **For most compute resources, you should NOT change the conversion factor that you already have listed.  
-  
+
 **In a later stage of ACCESS, additional tools will be created to manage your variable marketplace exchange rate.
 
 ![](media/Infrastructure_Description_v2/media/image2.png)
