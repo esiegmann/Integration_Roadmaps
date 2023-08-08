@@ -35,10 +35,10 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 **Status**: Official
 
-**Official date**: 4/24/2023 \<mm/dd/yyyy\>
+**Official date**: 4/24/2023
 
-**Coordinators**: Alex Withers & Shane Filus, CONECT Cybersecurity Program
+**Coordinators**: Derek Simmel & Shane Filus, CONECT Cybersecurity Program
 
-**Last revised date**: 2/16/2023
+**Last revised date**: 07/13/2023
 
 **Retired date**:

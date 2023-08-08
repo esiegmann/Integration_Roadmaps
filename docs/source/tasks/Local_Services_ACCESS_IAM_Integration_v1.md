@@ -47,10 +47,10 @@ Related Identity and Access Management (IAM) instructions and documentation:
 
 **Status**: Official
 
-**Official date**: 4/24/2023 \<mm/dd/yyyy\>
+**Official date**: 4/24/2023
 
-**Coordinators**: Alex Withers & Shane Filus, CONECT Cybersecurity Program
+**Coordinators**: Derek Simmel & Shane Filus, CONECT Cybersecurity Program
 
-**Last revised date**: 03/14/2023
+**Last revised date**: 07/13/2023
 
 **Retired date**:
