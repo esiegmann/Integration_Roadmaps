@@ -32,34 +32,31 @@ Operators must perform the Required Tasks below and may perform the Optional Tas
 
 - [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1OjeT6r01mdOIa4pq1VE0L5ocRPfqdXFp9QsADjdqrjE/) slides
 
-## Required Tasks
+## Planning phase
+1. Coordination: [ACCESS Science Gateway Integration Coordination v1](../tasks/ACCESS_Science_Gateway_Integration_Coordination_v1.md)
 
-1.  [*ACCESS Science Gateway Integration Coordination v1*](../tasks/ACCESS_Science_Gateway_Integration_Coordination_v1.md)
+## Integration/Operations phase(s)
 
-2.  [*Science Gateway Description v1*](../tasks/Science_Gateway_Description_v1.md)
+2. Coordination/Support: [Science Gateway Description v1](../tasks/Science_Gateway_Description_v1.md)
 
-3.  [*Request Science Gateway Allocation v1*](../tasks/Request_Science_Gateway_Allocation_v1.md)
+3. Coordination/Support: [Request Science Gateway Allocation v1](../tasks/Request_Science_Gateway_Allocation_v1.md)
 
-4.  [*Request Science Gateway Resources v1*](../tasks/Request_Science_Gateway_Resources_v1.md)
+4. Coordination/Support: [Request Science Gateway Resources v1](../tasks/Request_Science_Gateway_Resources_v1.md)
 
-5.  [*ACCESS Affinity Groups and Science Gateways v1*](../tasks/ACCESS_Affinity_Groups_and_Science_Gateways_v1.md)
+5. Coordination/Support: [ACCESS Affinity Groups and Science Gateways v1](../tasks/ACCESS_Affinity_Groups_and_Science_Gateways_v1.md)
 
-6.  [*Request Science Gateway Community Accounts v1*](../tasks/Request_Science_Gateway_Community_Accounts_v1.md)
+6. Coordination/Support: [Request Science Gateway Community Accounts v1](../tasks/Request_Science_Gateway_Community_Accounts_v1.md)
 
-7.  [*Science Gateway Usage Reporting v1*](../tasks/Science_Gateway_Usage_Reporting_v1.md)
-
-## Optional Tasks
-
-1.  None
+7. Coordination/Support: [Science Gateway Usage Reporting v1](../tasks/Science_Gateway_Usage_Reporting_v1.md)
 
 ## Document Management
 
 **Status**: Official
 
-**Official date**: 4/24/2023 4/10/2023
+**Official date**: 04/24/2023 04/10/2023
 
 **Coordinators**: Rob Quick, ACCESS Operations
 
-**Last revised date**: 4/3/2023
+**Last revised date**: 08/22/2023
 
 **Retired date**:
