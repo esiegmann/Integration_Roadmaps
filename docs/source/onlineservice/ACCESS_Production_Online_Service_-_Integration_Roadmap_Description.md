@@ -26,40 +26,43 @@ See related [*Roadmap Task Timeline*](https://docs.google.com/presentation/d/1GI
 
 - [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1OjeT6r01mdOIa4pq1VE0L5ocRPfqdXFp9QsADjdqrjE/) slides
 
-## Required Tasks
+## Planning phase
 
-1.  [*Infrastructure Description v2*](../tasks/Infrastructure_Description_v2.md)
+1. Coordination: [Infrastructure Description v2](../tasks/Infrastructure_Description_v2.md)
 
-2.  [*Cybersecurity Requirements for ACCESS Services v1*](../tasks/Cybersecurity_Requirements_for_ACCESS_Services_v1.md)
+2. Technology: [Cybersecurity Requirements for ACCESS Services v1](../tasks/Cybersecurity_Requirements_for_ACCESS_Services_v1.md)
 
-3.  [*Cybersecurity Governance Council Participation v1*](../tasks/Cybersecurity_Governance_Council_Participation_v1.md)
+## Integration phase
 
-4.  [*Online Service Documentation v1*](../tasks/Online_Service_Documentation_v1.md)
+3. Coordination: [Cybersecurity Governance Council Participation v1](../tasks/Cybersecurity_Governance_Council_Participation_v1.md)
 
-5.  [*Incident Response and Coordination v1*](../tasks/Incident_Response_and_Coordination_v1.md)
+4. (Optional) Technology: [ACCESS DNS Entries v1](../tasks/ACCESS_DNS_Records_v1.md)
 
-6.  [*Ticket Handling v2*](../tasks/Ticket_Handling_v2.md)
+5. (Optional) Technology: [Local Service ACCESS IAM Integration v1](../tasks/Local_Services_ACCESS_IAM_Integration_v1.md)
 
-7.  [*Operational Status Communications v1*](../tasks/Operational_Status_Communications_v1.md)
+6. (Optional) Support: [Request RP or Site Staff Allocation v1](../tasks/Request_RP_or_Site_Staff_Allocation_v1.md)
 
-## Optional Tasks
+7. Coordination: [Online Service Documentation v1](../tasks/Online_Service_Documentation_v1.md)
 
-1.  [*ACCESS DNS Records v1*](../tasks/ACCESS_DNS_Records_v1.md)
 
-2.  [*Service ACCESS IAM Integration v1*](../tasks/Local_Services_ACCESS_IAM_Integration_v1.md)
+## Operations phase
 
-3.  [*Request RP or Site Staff Allocation v1*](../tasks/Request_RP_or_Site_Staff_Allocation_v1.md)
+8. Support: [Incident Response and Coordination v1](../tasks/Incident_Response_and_Coordination_v1.md)
 
-4.  [*Performance Data Reporting v1*](../tasks/Performance_Data_Reporting_v1.md)
+9. Support: [Ticket Handling v2](../tasks/Ticket_Handling_v2.md)
+
+10. Support: [Operational Status Communications v1](../tasks/Operational_Status_Communications_v1.md)
+
+11. (Optional) Technology: [Performance Data reporting v1](../tasks/Performance_Data_Reporting_v1.md)
 
 ## Document Management
 
 **Status**: Official
 
-**Official date**: 4/24/2023 5/1/2023
+**Official date**: 04/24/2023 05/01/2023
 
 **Coordinators**: JP Navarro, ACCESS Operations
 
-**Last revised date**: 4/7/2023
+**Last revised date**: 08/22/2023
 
 **Retired date**:
