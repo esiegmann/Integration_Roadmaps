@@ -28,37 +28,39 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 2. Register / document ACCESS OnDemand portal availability
 
-- In the Support Portal
+    - In the Support Portal
 
-  - Check to validate that your OnDemand instance is listed on the OnDemand Support Page [*https://support.access-ci.org/ondemand*](https://support.access-ci.org/ondemand)
+        - Check to validate that your OnDemand instance is listed on the OnDemand Support Page [*https://support.access-ci.org/ondemand*](https://support.access-ci.org/ondemand)
 
-  - If it is not, then click the link to [*Submit a Ticket*](https://support.access-ci.org/open-a-ticket?resource=issue_not_resource_related&is_your_issue_related_to_allocations_=No&category=ACCESS-Support-OnDemand&subject=List%20my%20OnDemand%20installation&problem_description=Please%20list%20my%20OnDemand%20Installation%20on%20the%20ACCESS%20Support%20website.&tag2=249). Please include the following information.
+        - If it is not, then click the link to [*Submit a Ticket*](https://support.access-ci.org/open-a-ticket?resource=issue_not_resource_related&is_your_issue_related_to_allocations_=No&category=ACCESS-Support-OnDemand&subject=List%20my%20OnDemand%20installation&problem_description=Please%20list%20my%20OnDemand%20Installation%20on%20the%20ACCESS%20Support%20website.&tag2=249). Please include the following information.
 
-    - Institution Name
+            - Institution Name
 
-    - OnDemand Resource Name
+            - OnDemand Resource Name
 
-    - Your Logo, with a width of about 300 pixels and the height relative to the width.
+            - Your Logo, with a width of about 300 pixels and the height relative to the width.
 
-    - Your OnDemand Portal URL.
+            - Your OnDemand Portal URL.
 
-- With Operations
+    - With Operations
 
-  - Please visit [*https://operations.access-ci.org/pub/for_operators*](https://operations.access-ci.org/pub/for_operators)
+        - Please visit [*https://operations.access-ci.org/pub/for_operators*](https://operations.access-ci.org/pub/for_operators)
+
+3. Install and set up the `xdmod-ondemand-export` Python script (following its [README](https://github.com/ubccr/xdmod-ondemand/tree/main/tools/xdmod-ondemand-export#xdmod-ondemand-export)) for sending OnDemand log data via HTTPS POST to the ACCESS Metrics team for inclusion in [ACCESS XDMoD](https://xdmod.access-ci.org/).
 
 ### Optional
 
 1. Integrate with ACCESS IAM Authentication.
 
-Open OnDemand has documenatation for [integrating OnDemand with ACCESS authentication](https://osc.github.io/ood-documentation/latest/authentication/nsf-access.html).
+    Open OnDemand has documenatation for [integrating OnDemand with ACCESS authentication](https://osc.github.io/ood-documentation/latest/authentication/nsf-access.html).
 
 2. Add the ACCESS Menu
 
-You can optionally add a menu to Open OnDemand's navigation bar for links back to
-ACCESS resources.
+    You can optionally add a menu to Open OnDemand's navigation bar for links back to
+    ACCESS resources.
 
-OSC provides a [ACCESS Menu](https://github.com/OSC/bc_access_menu) package with documentation
-on how to install additional packages or configure OnDemand to show this new ACCESS menu.
+    OSC provides a [ACCESS Menu](https://github.com/OSC/bc_access_menu) package with documentation
+    on how to install additional packages or configure OnDemand to show this new ACCESS menu.
 
 ## Document Management
 
@@ -68,6 +70,6 @@ on how to install additional packages or configure OnDemand to show this new ACC
 
 **Coordinators**: Jeff Ohrstrom, ACCESS Support
 
-**Last revised date**: 05/30/2023
+**Last revised date**: 10/18/2023
 
 **Retired date**:
